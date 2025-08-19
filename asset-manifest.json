@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/UDCC-Score-Calculator/static/css/main.f20c21a1.css",
+    "main.js": "/UDCC-Score-Calculator/static/js/main.ceaa7ae1.js",
+    "static/media/8bitoperator.svg": "/UDCC-Score-Calculator/static/media/8bitoperator.617b0e34be6ce11d9995.svg",
+    "static/media/8bitoperator.eot?": "/UDCC-Score-Calculator/static/media/8bitoperator.cd97ce92dc69b077dab8.eot",
+    "static/media/8bitoperator.ttf": "/UDCC-Score-Calculator/static/media/8bitoperator.3d3832ba95a4969bbb90.ttf",
+    "static/media/8bitoperator.woff": "/UDCC-Score-Calculator/static/media/8bitoperator.d057233e4b8d3001e46c.woff",
+    "index.html": "/UDCC-Score-Calculator/index.html",
+    "main.f20c21a1.css.map": "/UDCC-Score-Calculator/static/css/main.f20c21a1.css.map",
+    "main.ceaa7ae1.js.map": "/UDCC-Score-Calculator/static/js/main.ceaa7ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20c21a1.css",
+    "static/js/main.ceaa7ae1.js"
+  ]
+}
