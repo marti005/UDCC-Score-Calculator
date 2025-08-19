@@ -1,0 +1,83 @@
+/* @font-face kit by Fonts2u (https://fonts2u.com) */ 
+@font-face {
+  font-family:"8bitoperator Regular";
+  src:url("8bitoperator.eot?") format("eot"), url("8bitoperator.woff") format("woff"), url("8bitoperator.ttf") format("truetype"),url("8bitoperator.svg#8bitoperatorRegular") format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+
+* {
+  box-sizing: border-box;
+
+}
+
+.challengepicker {
+  margin-left: 15%;
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 0;
+}
+
+.sidenav {
+  height: 100%; 
+  width: 15%; 
+  position: fixed; 
+  z-index: 2; 
+  top: 0; 
+  left: 0;
+  overflow-x: hidden; 
+  padding-top: 20px;
+  padding-left: 20px;
+  border-right: 1px solid #111;
+  background-color: white;
+}
+
+.sidenav input {
+  margin-bottom: 10px;
+}
+
+.total {
+  margin-top: auto;
+  padding-top: 80px;
+}
+
+.challengeheader {
+  width: 150px;
+}
+
+.headerpoints {
+  margin-top: 2px;
+  font-size: 12px;
+  color: #777;
+}
+
+.sidebarbuttons {
+  margin-top: 20px
+}
+
+.sidebutton {
+  width: 200px;
+  height: 40px;
+  margin-top: 5px;
+}
+
+.challengebutton {
+  width: 150px;
+  height: 55px;
+}
+
+.challengebuttonpressed {
+  width: 150px;
+  height: 55px;
+  color: white;
+  background-color: #111;
+}
+
+.column {
+  float: left;
+  width: 10.6%;
+  margin: 10px;
+}
