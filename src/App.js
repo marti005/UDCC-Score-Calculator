@@ -16,13 +16,7 @@ function TableHeader({tier}) {
 }
 
 function TableElement({challenge, isPressed, onChallengeClick}) {
-    var cname = null;
-
-    if (isPressed) {
-        cname = "challengebuttonpressed"
-    } else {
-        cname = "challengebutton" 
-    }
+    var cname = isPressed ? "challengebuttonpressed" : "challengebutton";
 
     return (
         <div>
@@ -56,13 +50,14 @@ function Table({onClick, challenges, pressed}) {
 
     return (
         <div class="challengepicker">
-            {columns}
+            <span class="content">
+                {columns}
+            </span>
         </div>
     )
 }
 
 function Checkbox({id, checked, text, cat, param, updateFilter}) {
-    console.log(id);
     return (
         <div>
             <label>
@@ -181,6 +176,7 @@ function Pointometer() {
     }
 
     const filteredChallenges = filterChallenges();
+    console.log(filteredChallenges.length);
 
     //CHALLENGE BUTTON HANDLERS
     const [pressed, setPressed] = useState(new Map());

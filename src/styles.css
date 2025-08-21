@@ -8,30 +8,47 @@
 
 * {
   box-sizing: border-box;
-
 }
 
-.challengepicker {
-  margin-left: 15%;
-  text-align: center;
+html {
+  padding: 0;
 }
 
 body {
   font-family: sans-serif;
-  padding: 0;
+  padding: 0px;
+  margin: 0px;
+}
+
+.challengepicker {
+  margin: auto;
+  padding: auto;
+  scrollbar-gutter: stable;
+  left: 15%;
+  position: absolute;
+  text-align: center;
+  height: 100%;
+  width: 85%;
+  overflow: auto;
+}
+
+.content {
+  min-width: 1200px;
+  display: block;
+  margin: auto;
 }
 
 .sidenav {
+  z-index: 2;
   height: 100%; 
   width: 15%; 
   position: fixed; 
-  z-index: 2; 
-  top: 0; 
-  left: 0;
-  overflow-x: hidden; 
   padding-top: 20px;
   padding-left: 20px;
   border-right: 1px solid #111;
+  top: 0;
+  margin: 0;
+  display: table;
   background-color: white;
 }
 
@@ -40,12 +57,13 @@ body {
 }
 
 .total {
-  margin-top: auto;
-  padding-top: 80px;
+  display : table-row;
+  vertical-align : bottom;
 }
 
 .challengeheader {
   width: 150px;
+  margin: auto;
 }
 
 .headerpoints {
