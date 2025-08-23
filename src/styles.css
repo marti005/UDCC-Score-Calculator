@@ -1,47 +1,44 @@
 /* @font-face kit by Fonts2u (https://fonts2u.com) */ 
 @font-face {
   font-family:"8bitoperator Regular";
-  src:url("8bitoperator.eot?") format("eot"), url("8bitoperator.woff") format("woff"), url("8bitoperator.ttf") format("truetype"),url("8bitoperator.svg#8bitoperatorRegular") format("svg");
+  src:url("fonts/8bitoperator.woff") format("woff");
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:"DeterminationMonoWeb";
+  src:url("fonts/DeterminationMonoWeb.woff") format("woff");
   font-weight:normal;
   font-style:normal;
 }
 
 * {
   box-sizing: border-box;
+  font-family: '8bitoperator Regular';
+  font-size: 12pt;
 }
 
 html {
   padding: 0;
+  background-color: black;
+  background-image: url("./img/bg.png");
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 body {
-  font-family: sans-serif;
   padding: 0px;
   margin: 0px;
 }
 
-.challengepicker {
-  margin: auto;
-  padding: auto;
-  scrollbar-gutter: stable;
-  left: 15%;
-  position: absolute;
-  text-align: center;
-  height: 100%;
-  width: 85%;
-  overflow: auto;
-}
-
-.content {
-  min-width: 1200px;
-  display: block;
-  margin: auto;
-}
-
-.sidenav {
+#sidenav {
   z-index: 2;
   height: 100%; 
-  width: 15%; 
+  width: 15%;
+  min-width: 250px; 
   position: fixed; 
   padding-top: 20px;
   padding-left: 20px;
@@ -49,53 +46,150 @@ body {
   top: 0;
   margin: 0;
   display: table;
-  background-color: white;
+  background-color: black;
+  color: white;
 }
 
-.sidenav input {
+#openbutton {
+  position: fixed;
+  left: 5px;
+  top: 15px;
+  z-index: 2;
+  width: 24px;
+  height: 60px;
+  padding: 0;
+  border: 1px white solid;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#closebutton {
+  width: 24px;
+  height: 24px;
+  border: 1px white solid;
+  float: right;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+#sidenav h2 {
+  font-size: 20pt;
+}
+
+.catName {
+  margin: 15px 0px;
+}
+
+#sidenav input {
   margin-bottom: 10px;
+  margin-left: 10px;
 }
 
-.total {
-  display : table-row;
-  vertical-align : bottom;
+#sidebarbuttons {
+  margin-top: 20px
+}
+
+#sidebarbuttons button {
+  width: 200px;
+  height: 40px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+#total {
+  text-align: center;
+  position: fixed;
+  padding-top: 5px;
+  width: 300px;
+  height: 100px;
+  bottom: 15px;
+  right: 30px;
+  color: white;
+  border: 20px solid transparent;
+  border-image: url("./img/border.png") 30 round;
+  border-image-outset: 13px;
+  font-size: 20pt;
+  background-color: black;
+}
+
+#challengepicker {
+  margin: auto;
+  padding: auto;
+  position: absolute;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  scrollbar-gutter: stable;
+}
+
+#content {
+  min-width: 1200px;
+  margin: auto;
+}
+
+#tiertitles {
+  min-width: 1200px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 10px;
+  overflow: auto;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: black; 
 }
 
 .challengeheader {
   width: 150px;
-  margin: auto;
+  padding: 10px 0px;
+  margin: 10px 0px;
+  font-weight: bold;
+  font-size: 15pt;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  border-radius: 2px;
+  border: 3px white solid;
 }
 
 .headerpoints {
-  margin-top: 2px;
+  margin: 2px;
   font-size: 12px;
-  color: #777;
+  color: gold;
 }
 
-.sidebarbuttons {
-  margin-top: 20px
-}
-
-.sidebutton {
-  width: 200px;
-  height: 40px;
-  margin-top: 5px;
-}
-
-.challengebutton {
-  width: 150px;
-  height: 55px;
-}
-
-.challengebuttonpressed {
-  width: 150px;
-  height: 55px;
-  color: white;
-  background-color: #111;
+#challenges {
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 10px;
 }
 
 .column {
-  float: left;
-  width: 10.6%;
-  margin: 10px;
+  width: 150px;
+}
+
+#challengepicker button {
+  width: 150px;
+  height: 55px;
+  padding: 2px;
+  margin: 5px 0px;
+  border: 0;
+  border-radius: 2px;
+  cursor: pointer;
+  opacity: 90%;
+  font-family: 'DeterminationMonoWeb';
+  font-size: 11pt;
+}
+
+.challengebuttonpressed {
+  color: white;
+  background-color: green;
+}
+
+.buttoncontainer {
+  width: 150px;
+}
+
+text {
+  font-size: 8pt;
 }
