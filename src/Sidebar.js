@@ -80,7 +80,7 @@ export default function Sidebar({updateChallenges, clearSelection}) {
 
         return (
                 <div id="sidenav">
-                    <div><button onClick={() => setEnabled(false)} id="closebutton">X</button></div>
+                    <div><button onClick={() => setEnabled(false)} id="closebutton"><h1>X</h1></button></div>
                 <div><h2>Filter by:</h2></div>
                 <form>
                     {filterCategories}

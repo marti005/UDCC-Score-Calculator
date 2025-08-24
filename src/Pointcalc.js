@@ -100,7 +100,7 @@ function Pointometer() {
         <Table onClick={handleClick} challenges={sortedChallenges} pressed={pressed}/>
 
         <div id="total">
-            {total} points
+            <h1>{total} points</h1>
         </div>
         </>
     );

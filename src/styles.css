@@ -70,6 +70,16 @@ body {
   float: right;
   margin-right: 20px;
   cursor: pointer;
+  display: table;
+  padding-left: 5px;
+}
+
+#closebutton h1 {
+  display: table-cell;
+  vertical-align: center;
+  font-weight: lighter;
+  text-align: center;
+  line-height: 100%;
 }
 
 #sidenav h2 {
@@ -99,7 +109,6 @@ body {
 #total {
   text-align: center;
   position: fixed;
-  padding-top: 5px;
   width: 300px;
   height: 100px;
   bottom: 15px;
@@ -108,8 +117,29 @@ body {
   border: 20px solid transparent;
   border-image: url("./img/border.png") 30 round;
   border-image-outset: 13px;
-  font-size: 20pt;
   background-color: black;
+  display: table;
+}
+
+#total h1 {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 25pt;
+}
+
+@media only screen and (max-width: 600px) {
+  #total {
+    width: 210px;
+    height: 70px;
+    padding: 0;
+    right: 15px;
+  }
+
+  #total h1 {
+    font-size: 17pt;
+    margin: auto;
+    
+  }
 }
 
 #challengepicker {
@@ -129,7 +159,7 @@ body {
 }
 
 #tiertitles {
-  min-width: 1200px;
+  min-width: 1400px;
   display: flex;
   justify-content: space-evenly;
   margin-right: 10px;
@@ -146,10 +176,10 @@ body {
   margin: 10px 0px;
   font-weight: bold;
   font-size: 15pt;
-  color: white;
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
   border-radius: 2px;
   border: 3px white solid;
+  color: gold;
 }
 
 .headerpoints {
@@ -162,6 +192,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   margin-right: 10px;
+  min-width: 1400px;
 }
 
 .column {
@@ -188,8 +219,4 @@ body {
 
 .buttoncontainer {
   width: 150px;
-}
-
-text {
-  font-size: 8pt;
 }
