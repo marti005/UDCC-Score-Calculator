@@ -48,7 +48,8 @@ export const FILTERS = [{
 }, {
     name: "Run Type",
     options: [
-        "Battle",
+        "Battle Phase",
+        "Full Battle", 
         "Full Game Run"
     ]
 }]

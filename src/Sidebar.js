@@ -3,6 +3,8 @@ import { useState } from 'react';
 import { challengeList } from './challengelist.js';
 import { FILTERS } from './params.js';
 
+import soul from './img/red_soul.png';
+
 function Checkbox({id, checked, text, cat, updateFilter}) {
     return (
         <div>
@@ -90,6 +92,8 @@ export default function Sidebar({updateChallenges, clearSelection}) {
                     <div><button onClick={resetCheckboxes}>Clear filters</button></div>
                     <div><button onClick={clearSelection}>Clear selection</button></div>
                 </div>
+
+                <p>Made with <img src={soul}></img> for <a href="https://discord.gg/WVFcWXwT6A" target="_blank">UDCC</a></p>
             </div>
         );
     } else {

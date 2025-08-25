@@ -6,13 +6,6 @@
   font-style:normal;
 }
 
-@font-face {
-  font-family:"DeterminationMonoWeb";
-  src:url("fonts/DeterminationMonoWeb.woff") format("woff");
-  font-weight:normal;
-  font-style:normal;
-}
-
 * {
   box-sizing: border-box;
   font-family: '8bitoperator Regular';
@@ -84,15 +77,38 @@ body {
 
 #sidenav h2 {
   font-size: 20pt;
+  margin-top: 50px;
 }
 
 .catName {
-  margin: 15px 0px;
+  margin: 15px 0px 10px;
 }
 
 #sidenav input {
   margin-bottom: 10px;
   margin-left: 10px;
+}
+
+#sidenav p {
+  position: absolute;
+  bottom: 2px;
+  font-size: 7pt;
+  width: 200px;
+  text-align: center;
+  color: darkgray;
+  opacity: 50%;
+}
+
+#sidenav p img {
+  width: 10px;
+  height: 10px;
+  vertical-align: center;
+}
+
+#sidenav p a {
+  font-size: inherit;
+  text-decoration: none;
+  vertical-align: center;
 }
 
 #sidebarbuttons {
@@ -124,7 +140,7 @@ body {
 #total h1 {
   display: table-cell;
   vertical-align: middle;
-  font-size: 25pt;
+  font-size: 22pt;
 }
 
 @media only screen and (max-width: 600px) {
@@ -136,9 +152,8 @@ body {
   }
 
   #total h1 {
-    font-size: 17pt;
+    font-size: 14pt;
     margin: auto;
-    
   }
 }
 
@@ -185,7 +200,7 @@ body {
 .headerpoints {
   margin: 2px;
   font-size: 12px;
-  color: gold;
+  color: white;
 }
 
 #challenges {
@@ -202,14 +217,14 @@ body {
 #challengepicker button {
   width: 150px;
   height: 55px;
-  padding: 2px;
+  padding: 4px;
   margin: 5px 0px;
   border: 0;
   border-radius: 2px;
   cursor: pointer;
   opacity: 90%;
-  font-family: 'DeterminationMonoWeb';
-  font-size: 11pt;
+  font-size: 8pt;
+  font-family: '8bitoperator Regular';
 }
 
 .challengebuttonpressed {
