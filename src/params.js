@@ -39,10 +39,11 @@ export const FILTERS = [{
         "No Heal"
     ]
 }, {
-    name: "Game", 
+    name: "Game Series", 
     options: [
         "Undertale",
         "Deltarune",
+        "ZYDCN",
         "Other"
     ]
 }, {

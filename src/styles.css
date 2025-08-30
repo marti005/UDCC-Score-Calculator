@@ -61,10 +61,11 @@ body {
   height: 24px;
   border: 1px white solid;
   float: right;
-  margin-right: 20px;
+  margin-right: 10px;
   cursor: pointer;
   display: table;
   padding-left: 5px;
+  margin-top: 2px;
 }
 
 #closebutton h1 {
@@ -76,8 +77,9 @@ body {
 }
 
 #sidenav h2 {
-  font-size: 20pt;
-  margin-top: 50px;
+  font-size: 18pt;
+  margin-top: 15px;
+  margin-bottom: 0px;
 }
 
 .catName {
@@ -87,6 +89,11 @@ body {
 #sidenav input {
   margin-bottom: 10px;
   margin-left: 10px;
+}
+
+#sidenav #searchbar {
+  width: 170px;
+  margin: 0px;
 }
 
 #sidenav p {

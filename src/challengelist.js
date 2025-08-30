@@ -1,7 +1,5 @@
-import {C_TYPE, GAME, R_TYPE} from './params.js';
-
 export const challengeList = [{
-    name: "Asgore", 
+    name: "Undertale Asgore", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -13,7 +11,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Dalv", 
+    name: "UTY Dalv", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Other", 
@@ -31,25 +29,25 @@ export const challengeList = [{
     game: "Deltarune", 
     rtype: "Full Game Run"
 }, {
-    name: "Giga Queen", 
+    name: "Deltarune Giga Queen", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Deltarune", 
     rtype: "Full Battle"
 }, {
-    name: "Guardener", 
+    name: "UTY Guardener", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Jevil", 
+    name: "Deltarune Jevil", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Deltarune", 
     rtype: "Full Battle"
 }, {
-    name: "King", 
+    name: "Deltarune King", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Deltarune", 
@@ -58,16 +56,16 @@ export const challengeList = [{
     name: "Legacy Dusttrust by zhazha Phase 1", 
     tier: "Beginner", 
     ctype: "No Hit", 
-    game: "Other", 
+    game: "ZhaZha", 
     rtype: "Battle Phase"
 }, {
-    name: "Mad Dummy", 
+    name: "Undertale Mad Dummy", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
     rtype: "Full Battle"
 }, {
-    name: "Mettaton EX", 
+    name: "Undertale Mettaton EX", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -79,49 +77,49 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Muffet", 
+    name: "Undertale Muffet", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
     rtype: "Full Battle"
 }, {
-    name: "Neutral Martlet", 
+    name: "UTY Neutral Martlet", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Papyrus", 
+    name: "Undertale Papyrus", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
     rtype: "Full Battle"
 }, {
-    name: "Queen", 
+    name: "Deltarune Queen", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Deltarune", 
     rtype: "Full Battle"
 }, {
-    name: "Sans No Heal", 
+    name: "Undertale Sans No Heal", 
     tier: "Beginner", 
     ctype: "No Heal", 
     game: "Undertale", 
     rtype: "Full Battle"
 }, {
-    name: "Spamton NEO", 
+    name: "Deltarune Spamton NEO", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Deltarune", 
     rtype: "Full Battle"
 }, {
-    name: "Titan", 
+    name: "Deltarune Titan", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Deltarune", 
     rtype: "Full Battle"
 }, {
-    name: "Toriel", 
+    name: "Undertale Toriel", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -148,16 +146,16 @@ export const challengeList = [{
     name: "Undertale Red Updated Pacifist By Zhazha", 
     tier: "Beginner", 
     ctype: "No Hit", 
-    game: "Other", 
+    game: "ZhaZha", 
     rtype: "Full Battle"
 }, {
-    name: "Undyne (Neutral)", 
+    name: "Undertale Undyne (Neutral)", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
     rtype: "Full Battle"
 }, {
-    name: "Undyne The Undying", 
+    name: "Undertale Undyne The Undying", 
     tier: "Beginner", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -175,7 +173,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "Asriel Phase 1", 
+    name: "Undertale Asriel Phase 1", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -265,7 +263,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "Feisty Four", 
+    name: "UTY Feisty Four", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Other", 
@@ -277,25 +275,25 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Genocide Snowdin Martlet", 
+    name: "UTY Genocide Snowdin Martlet", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Hammer of Justice Gerson", 
+    name: "Deltarune Hammer of Justice Gerson", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Deltarune", 
     rtype: "Full Battle"
 }, {
-    name: "Neutral Axis", 
+    name: "UTY Neutral Axis", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Neutral El Bailador", 
+    name: "UTY Neutral El Bailador", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Other", 
@@ -343,13 +341,13 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "Starlo", 
+    name: "UTY Starlo", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Tenna", 
+    name: "Deltarune Tenna", 
     tier: "Intermediate", 
     ctype: "No Hit", 
     game: "Deltarune", 
@@ -382,7 +380,7 @@ export const challengeList = [{
     name: "Undertale Red Updated Genocide by ZhaZha", 
     tier: "Intermediate", 
     ctype: "No Hit", 
-    game: "Other", 
+    game: "ZhaZha", 
     rtype: "Full Battle"
 }, {
     name: "Unofficial Disbelief Papyrus All Phases No Item", 
@@ -463,7 +461,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "ERAM/Mantle", 
+    name: "Deltarune ERAM/Mantle", 
     tier: "Advanced", 
     ctype: "No Hit", 
     game: "Deltarune", 
@@ -481,13 +479,13 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Genocide Axis", 
+    name: "UTY Genocide Axis", 
     tier: "Advanced", 
     ctype: "No Hit", 
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Genocide Ceroba", 
+    name: "UTY Genocide Ceroba", 
     tier: "Advanced", 
     ctype: "No Hit", 
     game: "Other", 
@@ -553,13 +551,13 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Roaring Knight", 
+    name: "Deltarune Roaring Knight", 
     tier: "Advanced", 
     ctype: "No Hit", 
     game: "Deltarune", 
     rtype: "Full Battle"
 }, {
-    name: "Sans", 
+    name: "Undertale Sans", 
     tier: "Advanced", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -737,7 +735,7 @@ export const challengeList = [{
     tier: "Expert", 
     ctype: "No Heal", 
     game: "Other", 
-    rtype: "Full Battle"
+    rtype: "Battle Phase"
 }, {
     name: "Endingtale Phases 1+2 No Heal", 
     tier: "Expert", 
@@ -781,7 +779,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Flowey Final Phase", 
+    name: "Undertale Flowey Final Phase", 
     tier: "Expert", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -889,7 +887,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Full Battle"
 }, {
-    name: "Zenith Martlet Phase 2", 
+    name: "UTY Zenith Martlet Phase 2", 
     tier: "Expert", 
     ctype: "No Hit", 
     game: "Other", 
@@ -953,13 +951,13 @@ export const challengeList = [{
     tier: "Master", 
     ctype: "No Hit", 
     game: "Other", 
-    rtype: "Full Battle"
+    rtype: "Battle Phase"
 }, {
     name: "EdgeTale Sans 3rd Run No Heal", 
     tier: "Master", 
     ctype: "No Heal", 
     game: "Other", 
-    rtype: "Full Battle"
+    rtype: "Battle Phase"
 }, {
     name: "Endingtale Phase 1", 
     tier: "Master", 
@@ -973,7 +971,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "Flowey All Phases", 
+    name: "Undertale Flowey All Phases", 
     tier: "Master", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -1015,7 +1013,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "Pacifist Ceroba All Phases", 
+    name: "UTY Pacifist Ceroba All Phases", 
     tier: "Master", 
     ctype: "No Hit", 
     game: "Other", 
@@ -1069,7 +1067,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "Zenith Martlet Phase 1", 
+    name: "UTY Zenith Martlet Phase 1", 
     tier: "Master", 
     ctype: "No Hit", 
     game: "Other", 
@@ -1189,7 +1187,7 @@ export const challengeList = [{
     game: "Other", 
     rtype: "Battle Phase"
 }, {
-    name: "Zenith Martlet Phases 1+2", 
+    name: "UTY Zenith Martlet Phases 1+2", 
     tier: "Elite", 
     ctype: "No Hit", 
     game: "Other", 
@@ -1198,7 +1196,7 @@ export const challengeList = [{
     name: "Afterglory Phase 1", 
     tier: "Elite", 
     ctype: "No Hit", 
-    game: "Other", 
+    game: "ZhaZha", 
     rtype: "Battle Phase"
 }, {
     name: "FDY Dusttale Sans Phases 1+2 No Heal", 
@@ -1255,7 +1253,7 @@ export const challengeList = [{
     game: "Undertale", 
     rtype: "Full Game Run"
 }, {
-    name: "Asriel All Phases", 
+    name: "Undertale Asriel All Phases", 
     tier: "Mythic", 
     ctype: "No Hit", 
     game: "Undertale", 
@@ -1319,5 +1317,5 @@ export const challengeList = [{
     tier: "Grandmaster", 
     ctype: "No Hit", 
     game: "Other", 
-    rtype: "Full Battle"
+    rtype: "Battle Phase"
 }]

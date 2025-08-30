@@ -17,12 +17,20 @@ function Checkbox({id, checked, text, cat, updateFilter}) {
     );
 }
 
+function Searchbar({searchText, updateSearchText}) {
+    return (
+        <input id="searchbar" type="text" value={searchText} onChange={(e) => updateSearchText(e.target.value)} placeholder="Search..."/>
+    )
+}
+
 export default function Sidebar({updateChallenges, clearSelection}) {
     const [enabled, setEnabled] = useState(false);
 
     const [checked, setChecked] = useState([]);
 
     const [filter, setFilter] = useState(Array.from({length: FILTERS.length}, () => new Set()));
+
+    const [searchText, setSearchText] = useState("");
 
     function resetCheckboxes() {
         setChecked([]);
@@ -32,9 +40,11 @@ export default function Sidebar({updateChallenges, clearSelection}) {
     
     function clearFilter() {
         var newFilter = Array.from({length: FILTERS.length}, () => new Set());
+        var newText = "";
 
         setFilter(newFilter);
-        filterChallenges(newFilter);
+        setSearchText(newText);
+        filterChallenges(newFilter, newText);
     }
 
     function updateFilter(state, cat, option) {
@@ -43,17 +53,19 @@ export default function Sidebar({updateChallenges, clearSelection}) {
         if (state)  newFilter[cat].add(option);
         else newFilter[cat].delete(option);
         
-        filterChallenges(newFilter);
+        filterChallenges(newFilter, searchText);
         setFilter(newFilter);
     }
 
-    function filterChallenges(newFilter) {
+    function filterChallenges(newFilter, newText) {
         var challenges = challengeList;
 
         newFilter.forEach((catFilter, index) => {
             challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(Object.values(c)[2+index]));
         })
-        
+
+        challenges = challenges.filter((c) => c.name.toLowerCase().indexOf(newText.toLowerCase()) !== -1);
+         
         updateChallenges(challenges);
     }
 
@@ -63,6 +75,12 @@ export default function Sidebar({updateChallenges, clearSelection}) {
         setChecked(nextChecked);
 
         updateFilter(state, cat, option);
+    }
+
+    function updateSearchText(text) {
+        setSearchText(text);
+
+        filterChallenges(filter, text);
     }
 
     if (enabled) {
@@ -77,12 +95,13 @@ export default function Sidebar({updateChallenges, clearSelection}) {
                 ++i;
             });
 
-            filterCategories.push(<div key={index}><div className="catName">{cat.name + ":"}</div><div>{filterOptions}</div></div>);
+            filterCategories.push(<div key={index}><div className="catName">{cat.name}</div><div>{filterOptions}</div></div>);
         });
 
         return (
                 <div id="sidenav">
                     <div><button onClick={() => setEnabled(false)} id="closebutton"><h1>X</h1></button></div>
+                <div><Searchbar searchText={searchText} updateSearchText={updateSearchText}/></div>
                 <div><h2>Filter by:</h2></div>
                 <form>
                     {filterCategories}
@@ -101,8 +120,4 @@ export default function Sidebar({updateChallenges, clearSelection}) {
             <button onClick={() => setEnabled(true)} id="openbutton">{'>'}</button>
         );
     }
-}
-
-function closeSidebar() {
-    
 }
