@@ -175,11 +175,6 @@ body {
   scrollbar-gutter: stable;
 }
 
-#content {
-  min-width: 1200px;
-  margin: auto;
-}
-
 #tiertitles {
   min-width: 1400px;
   display: flex;

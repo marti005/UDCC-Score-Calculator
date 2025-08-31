@@ -1,71 +1,71 @@
-export const challengeList = [{
-    "name": "Undertale Asgore", 
+[{
+    "name": "Undertale Asgore No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Chapter 4: Angelic Altercation", 
+    "name": "Chapter 4: Angelic Altercation No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Dalv", 
+    "name": "UTY Dalv No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Chapter 1 No Heal", 
+    "name": "Deltarune Chapter 1 No Heal Run", 
     "tier": "Beginner", 
     "ctype": "No Heal", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Chapter 2 No Heal", 
+    "name": "Deltarune Chapter 2 No Heal Run", 
     "tier": "Beginner", 
     "ctype": "No Heal", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Giga Queen", 
+    "name": "Deltarune Giga Queen No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Guardener", 
+    "name": "UTY Guardener No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Jevil", 
-    "tier": "Beginner", 
-    "ctype": "No Hit", 
-    "game": "Deltarune", 
-    "rtype": "Full Battle"
-}, {
-    "name": "Deltarune King", 
+    "name": "Deltarune Jevil No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Battle"
 }, {
-    "name": "Legacy Dusttrust by zhazha Phase 1", 
+    "name": "Deltarune King No Hit", 
+    "tier": "Beginner", 
+    "ctype": "No Hit", 
+    "game": "Deltarune", 
+    "rtype": "Full Battle"
+}, {
+    "name": "Legacy Dusttrust by zhazha Phase 1 No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "ZhaZha", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Mad Dummy", 
+    "name": "Undertale Mad Dummy No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Mettaton EX", 
+    "name": "Undertale Mettaton EX No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
@@ -77,25 +77,25 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Muffet", 
+    "name": "Undertale Muffet No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Neutral Martlet", 
+    "name": "UTY Neutral Martlet No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Papyrus", 
+    "name": "Undertale Papyrus No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Queen", 
+    "name": "Deltarune Queen No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
@@ -107,55 +107,55 @@ export const challengeList = [{
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Spamton NEO", 
+    "name": "Deltarune Spamton NEO No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Titan", 
+    "name": "Deltarune Titan No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Toriel", 
+    "name": "Undertale Toriel No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "TS!Underswap Asgore", 
+    "name": "TS!Underswap Asgore No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "TS!Underswap Pacifist Crossbones", 
+    "name": "TS!Underswap Pacifist Crossbones No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "TS!Underswap Pacifist Muffet", 
+    "name": "TS!Underswap Pacifist Muffet No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Red Updated Pacifist By Zhazha", 
+    "name": "Undertale Red Updated Pacifist By zhazha No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Undyne (Neutral)", 
+    "name": "Undertale Undyne (Neutral) No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Undyne The Undying", 
+    "name": "Undertale Undyne The Undying No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Undertale", 
@@ -173,7 +173,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Asriel Phase 1", 
+    "name": "Undertale Asriel Phase 1 No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Undertale", 
@@ -185,13 +185,13 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Chapter 1", 
+    "name": "Deltarune Chapter 1 No Hit Run", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Chapter 1+2 No Heal", 
+    "name": "Deltarune Chapter 1 + 2 No Heal Run", 
     "tier": "Intermediate", 
     "ctype": "No Heal", 
     "game": "Deltarune", 
@@ -209,19 +209,13 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltatraveler Porky", 
-    "tier": "Intermediate", 
+    "name": "Deltatraveler Porky No Hit", 
+    "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltatraveler Section 1", 
-    "tier": "Intermediate", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Game Run"
-}, {
-    "name": "Deltatraveler Underfell Sans", 
+    "name": "Deltatraveler Underfell Sans No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -251,7 +245,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Dustbelief Papyrus by Ari", 
+    "name": "Dustbelief Papyrus by Ari No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -260,13 +254,13 @@ export const challengeList = [{
     "name": "Edge ZY Phase 1 No Heal", 
     "tier": "Intermediate", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Battle Phase"
 }, {
-    "name": "UTY Feisty Four", 
+    "name": "UTY Feisty Four No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
     "name": "Genocide Asgore (Normal) No Heal", 
@@ -275,28 +269,28 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Genocide Snowdin Martlet", 
+    "name": "UTY Genocide Snowdin Martlet No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Hammer of Justice Gerson", 
+    "name": "Deltarune Hammer of Justice Gerson No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Neutral Axis", 
+    "name": "UTY Neutral Axis No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Neutral El Bailador", 
-    "tier": "Intermediate", 
+    "name": "UTY Neutral El Bailador No Hit", 
+    "tier": "Beginner", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
     "name": "OS-T Sans by FDY Phase 1 No Heal", 
@@ -305,31 +299,31 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "PS!Outertale Asriel", 
+    "name": "PS!Outertale Asriel No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "PS!Outertale Darker Neutral Undyne", 
+    "name": "PS!Outertale Darker Neutral Undyne No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "PS!Outertale Mettaton NEO", 
+    "name": "PS!Outertale Mettaton NEO No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "PS!Outertale Undyne the Undying", 
+    "name": "PS!Outertale Undyne the Undying No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Spamton Restitched", 
+    "name": "Spamton Restitched No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -341,13 +335,13 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "UTY Starlo", 
-    "tier": "Intermediate", 
+    "name": "UTY Starlo No Hit", 
+    "tier": "Beginner", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Tenna", 
+    "name": "Deltarune Tenna No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
@@ -356,7 +350,7 @@ export const challengeList = [{
     "name": "The Heaven No Heal", 
     "tier": "Intermediate", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
     "name": "Underfell Asgore Insane Mode No Heal", 
@@ -377,7 +371,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Red Updated Genocide by ZhaZha", 
+    "name": "Undertale Red Updated Genocide by ZhaZha No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -401,56 +395,56 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Unofficial Disbelief Papyrus Phase 4", 
+    "name": "Unofficial Disbelief Papyrus Phase 4 No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Chaos Edition Hard Mode Jevil", 
+    "name": "Chaos Edition Hard Mode Jevil No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Chapter 1 All Bosses", 
+    "name": "Deltarune Chapter 1 All Bosses No Hit Run", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Chaser", 
+    "name": "Deltarune Chaser No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune: Frozen Heart Spamton NEO", 
+    "name": "Deltarune: Frozen Heart Spamton NEO No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "DTLG Phase 1", 
+    "name": "DTLG Phase 1 No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "DTLG Phase 3", 
+    "name": "DTLG Phase 3 No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Dusttrust by Dingyspy", 
+    "name": "Dusttrust by Dingyspy No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
     "name": "Endingtale Phase 1 No Heal", 
-    "tier": "Advanced", 
+    "tier": "Intermediate", 
     "ctype": "No Heal", 
     "game": "Other", 
     "rtype": "Battle Phase"
@@ -461,7 +455,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Deltarune ERAM/Mantle", 
+    "name": "Deltarune ERAM/Mantle No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
@@ -473,22 +467,22 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Genocide Asgore Blue Zenith Normal Mode", 
+    "name": "Genocide Asgore Blue Zenith Normal Mode No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Genocide Axis", 
+    "name": "UTY Genocide Axis No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Genocide Ceroba", 
+    "name": "UTY Genocide Ceroba No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
     "name": "HarryLTS Hard Mode Fresh Sans No Heal", 
@@ -497,14 +491,14 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Icebound Papyrus", 
+    "name": "Icebound Papyrus No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "KDTM Revenge Papyrus (Act 2)", 
-    "tier": "Advanced", 
+    "name": "KDTM Revenge Papyrus (Act 2) No Hit", 
+    "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
@@ -512,10 +506,10 @@ export const challengeList = [{
     "name": "Keeptale Sans Expert Mode No Heal", 
     "tier": "Advanced", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
-    "name": "Mike's Big Showdown (Updated Version)", 
+    "name": "Mike's Big Showdown (Updated Version) No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -524,46 +518,40 @@ export const challengeList = [{
     "name": "Modernswap Phase 2 No Heal", 
     "tier": "Advanced", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Battle Phase"
 }, {
-    "name": "PS!Outertale Alphys", 
+    "name": "PS!Outertale Alphys No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "PS!Outertale Mettaton Sigma", 
+    "name": "PS!Outertale Mettaton Sigma No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Really Cool Bird", 
+    "name": "Really Cool Bird No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Ribbit Everyname No Heal", 
-    "tier": "Advanced", 
-    "ctype": "No Heal", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
-    "name": "Deltarune Roaring Knight", 
+    "name": "Deltarune Roaring Knight No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Sans", 
+    "name": "Undertale Sans No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Scampton the Great", 
+    "name": "Scampton the Great No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -575,55 +563,55 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Storyshift Genocide Ending", 
+    "name": "Storyshift Genocide Ending No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Storyswap Color Asriel", 
+    "name": "Storyswap Color Asriel No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Swapfell Papyrus Phase 1", 
+    "name": "Swapfell Papyrus Phase 1 No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Tears in the Rain by Benlabno", 
+    "name": "Tears in the Rain by Benlabno No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "TS!Underswap Genocide Crossbones", 
+    "name": "TS!Underswap Genocide Crossbones No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Underfell Asgore Insane Mode", 
+    "name": "Underfell Asgore Insane Mode No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Underfell Undyne Insane Mode", 
+    "name": "Underfell Undyne Insane Mode No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Underswap Papyrus by NnN (remake version)", 
+    "name": "Underswap Papyrus by NnN (remake version) No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Genocide No Heal", 
+    "name": "Undertale Genocide No Heal Run", 
     "tier": "Advanced", 
     "ctype": "No Heal", 
     "game": "Undertale", 
@@ -635,49 +623,49 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Neutral New Game+", 
+    "name": "Undertale Neutral New Game+ No Hit Run", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Undertale Neutral No Heal", 
+    "name": "Undertale Neutral No Heal Run", 
     "tier": "Advanced", 
     "ctype": "No Heal", 
     "game": "Undertale", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Undertoad Mission Luigi", 
+    "name": "Undertoad Mission Luigi No Hit Run", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Unofficial Disbelief Papyrus Phase 1", 
+    "name": "Unofficial Disbelief Papyrus Phase 1 No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Unofficial Disbelief Papyrus Phase 3", 
+    "name": "Unofficial Disbelief Papyrus Phase 3 No Hit", 
     "tier": "Advanced", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Aoharu Duo", 
+    "name": "Aoharu Duo No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "B-TTale ESPE Sans (original)", 
+    "name": "B-TTale ESPE Sans (original) No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Bad Time Trio", 
+    "name": "Bad Time Trio No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -692,22 +680,22 @@ export const challengeList = [{
     "name": "Delirium of Aeons No Item", 
     "tier": "Expert", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune Chapter 2 Main Route", 
+    "name": "Deltarune Chapter 2 Main Route No Hit Run", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Chapter 2 All Bosses", 
+    "name": "Deltarune Chapter 2 All Bosses No Hit Run", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune: Frozen Heart Secret Noelle Fight", 
+    "name": "Deltarune: Frozen Heart Secret Noelle Fight No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -719,21 +707,15 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "DTLG Phase 2", 
+    "name": "DTLG Phase 2 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "DTLG Phase 4", 
+    "name": "DTLG Phase 4 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Battle Phase"
-}, {
-    "name": "EdgeTale Sans 1st Run No Heal", 
-    "tier": "Expert", 
-    "ctype": "No Heal", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
@@ -743,7 +725,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "OS-T Sans by FDY Phase 1", 
+    "name": "OS-T Sans by FDY Phase 1 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -767,19 +749,19 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Dusttrust Thanatos by Benlabno", 
+    "name": "Dusttrust Thanatos by Benlabno No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Feeling Change Sans", 
+    "name": "Feeling Change Sans No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Flowey Final Phase", 
+    "name": "Undertale Flowey Final Phase No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Undertale", 
@@ -797,22 +779,22 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Idutshane", 
+    "name": "Idutshane No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Modernswap Phase 1", 
+    "name": "Modernswap Phase 1 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Modernswap Phases 1+2 No Heal", 
+    "name": "Modernswap Phases 1 + 2 No Heal", 
     "tier": "Expert", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
     "name": "No More Deals No Heal", 
@@ -833,7 +815,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "PS!Outertale Twinkly", 
+    "name": "PS!Outertale Twinkly No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -842,7 +824,7 @@ export const challengeList = [{
     "name": "Shanghaivania No Heal", 
     "tier": "Expert", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
     "name": "Spacedrift Phase 2 No Heal", 
@@ -863,37 +845,37 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Underfell Stories from the Sea Phases 1+2", 
+    "name": "Underfell Stories from the Sea Phases 1+2 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Unofficial Disbelief Papyrus Phase 2", 
+    "name": "Unofficial Disbelief Papyrus Phase 2 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "UTY Flowey Phase 1", 
+    "name": "UTY Flowey Phase 1 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Yum's Bad Time Trio", 
+    "name": "Yum's Bad Time Trio No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Zenith Martlet Phase 2", 
+    "name": "UTY Zenith Martlet Phase 2 No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Chaos' End Asriel Phase 1", 
+    "name": "Chaos' End Asriel Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -905,40 +887,40 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Deltarune Chapter 2 Snowgrave Route", 
+    "name": "Deltarune Chapter 2 Snowgrave Route No Hit Run", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Chapter 2 All Recruits", 
+    "name": "Deltarune Chapter 2 All Recruits No Hit Run", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Chapter 4", 
+    "name": "Deltarune Chapter 4 No Hit Run", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Deltarune Chapters 1+2", 
+    "name": "Deltarune Chapters 1 + 2 No Hit Run", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Disbelief Papyrus Jevil Survival", 
+    "name": "Disbelief Papyrus Jevil Survival No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Edge ZY Phase 1", 
+    "name": "Edge ZY Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Battle Phase"
 }, {
     "name": "EdgeEdge Half Damage No Heal", 
@@ -947,61 +929,61 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "EdgeTale Sans 1st Run", 
+    "name": "EdgeTale Sans 1st Run No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Battle Phase"
 }, {
     "name": "EdgeTale Sans 3rd Run No Heal", 
     "tier": "Master", 
     "ctype": "No Heal", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Endingtale Phase 1", 
+    "name": "Endingtale Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Endingtale Phase 2", 
+    "name": "Endingtale Phase 2 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Flowey All Phases", 
+    "name": "Undertale Flowey All Phases No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Genocide Asgore Normal Mode", 
+    "name": "Genocide Asgore Normal Mode No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "HarryLTS Hard Mode Fresh Sans", 
+    "name": "HarryLTS Hard Mode Fresh Sans No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "HarryLTS Hard Mode Sans", 
+    "name": "HarryLTS Hard Mode Sans No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Icebound Sans + Flowey", 
+    "name": "Icebound Sans + Flowey No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Ink Sans Phase 1", 
+    "name": "Ink Sans Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1013,187 +995,187 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "UTY Pacifist Ceroba All Phases", 
+    "name": "UTY Pacifist Ceroba All Phases No Hit", 
+    "tier": "Master", 
+    "ctype": "No Hit", 
+    "game": "UTY", 
+    "rtype": "Full Battle"
+}, {
+    "name": "Spacedrift Phase 2 No Hit", 
+    "tier": "Master", 
+    "ctype": "No Hit", 
+    "game": "Other", 
+    "rtype": "Battle Phase"
+}, {
+    "name": "SPMY Sans Phase 1 No Hit", 
+    "tier": "Master", 
+    "ctype": "No Hit", 
+    "game": "Other", 
+    "rtype": "Battle Phase"
+}, {
+    "name": "SPMY Sans Phase 2 No Hit", 
+    "tier": "Master", 
+    "ctype": "No Hit", 
+    "game": "Other", 
+    "rtype": "Battle Phase"
+}, {
+    "name": "Swapfell Papyrus Phases 1 + 2 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Spacedrift Phase 2", 
+    "name": "Swapfell Papyrus Phase 2 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "SPMY Sans Phase 1", 
+    "name": "The Heaven No Hit", 
+    "tier": "Master", 
+    "ctype": "No Hit", 
+    "game": "ZYDCN", 
+    "rtype": "Full Battle"
+}, {
+    "name": "UF Plan Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "SPMY Sans Phase 2", 
+    "name": "Undertale Last Breath Phase 2 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Swapfell Papyrus Phases 1+2", 
+    "name": "UTY Zenith Martlet Phase 1 No Hit", 
+    "tier": "Master", 
+    "ctype": "No Hit", 
+    "game": "UTY", 
+    "rtype": "Battle Phase"
+}, {
+    "name": "Endingsunrise Trio (Balanced mode) No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Swapfell Papyrus Phase 2", 
+    "name": "Lifefield Papyrus by ZYDCN No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Battle Phase"
+    "game": "ZYDCN", 
+    "rtype": "Full Battle"
 }, {
-    "name": "The Heaven", 
+    "name": "Altertale Toriel Fight by zhazha No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "UF Plan Phase 1", 
+    "name": "Spacedrift Sans Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Last Breath Phase 2", 
-    "tier": "Master", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Battle Phase"
-}, {
-    "name": "UTY Zenith Martlet Phase 1", 
-    "tier": "Master", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Battle Phase"
-}, {
-    "name": "Endingsunrise Trio (Balanced mode)", 
+    "name": "Ink JP No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Lifefield Papyrus by ZYDCN", 
-    "tier": "Master", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
-    "name": "Altertale Toriel Fight by zhazha", 
-    "tier": "Master", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
-    "name": "Spacedrift Sans Phase 1", 
+    "name": "Swapfell Papyrus Hardmode Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Ink JP", 
-    "tier": "Master", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
-    "name": "Swapfell Papyrus Hardmode Phase 1", 
+    "name": "TS!Underswap Papyrus by FDY Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "TS!Underswap Papyrus by FDY Phase 1", 
+    "name": "Underbrella Sans Phase 1 (everytale version) No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Underbrella Sans Phase 1 (everytale version)", 
-    "tier": "Master", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Battle Phase"
-}, {
-    "name": "Chaos' End Asriel Phase 2", 
+    "name": "Chaos' End Asriel Phase 2 No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Deltarune Chapters 1+2 All Bosses", 
+    "name": "Deltarune Chapters 1 + 2 All Bosses No Hit Run", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Disbelief Papyrus Gaster Survival", 
+    "name": "Disbelief Papyrus Gaster Survival No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Disbelief Papyrus All Phases", 
+    "name": "Disbelief Papyrus All Phases No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Endingtale Phases 1+2", 
+    "name": "Endingtale Phases 1 + 2 No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Keeptale Sans", 
+    "name": "Keeptale Sans No Hit", 
+    "tier": "Elite", 
+    "ctype": "No Hit", 
+    "game": "ZYDCN", 
+    "rtype": "Full Battle"
+}, {
+    "name": "No More Deals No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "No More Deals", 
+    "name": "SPMY Sans Phases 1 + 2 No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "SPMY Sans Phases 1+2", 
-    "tier": "Elite", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
-    "name": "Undertale Genocide", 
+    "name": "Undertale Genocide No Hit Run", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Undertale Last Breath Phase 3", 
+    "name": "Undertale Last Breath Phase 3 No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "UTY Flowey Phase 2", 
+    "name": "UTY Flowey Phase 2 No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Battle Phase"
 }, {
-    "name": "UTY Zenith Martlet Phases 1+2", 
+    "name": "UTY Zenith Martlet Phases 1+2 No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "Afterglory Phase 1", 
+    "name": "Afterglory Phase 1 No Hit", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1205,7 +1187,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Outertale Chaotic Route", 
+    "name": "Outertale Chaotic Route No Hit Run", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1217,7 +1199,7 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Deltarune Chapter 3", 
+    "name": "Deltarune Chapter 3 No Hit Run", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
@@ -1229,103 +1211,97 @@ export const challengeList = [{
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "OS-T B-TTale ESPE Sans Phase 1", 
+    "name": "OS-T B-TTale ESPE Sans Phase 1 No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "OS-T SC Sans Phase 1", 
+    "name": "OS-T SC Sans Phase 1 No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Shanghaivania", 
+    "name": "Shanghaivania No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Neutral", 
+    "name": "Undertale Neutral No Hit Run", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Game Run"
 }, {
-    "name": "Undertale Asriel All Phases", 
+    "name": "Undertale Asriel All Phases No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Spacedrift Sans Phases 1+2", 
+    "name": "Spacedrift Sans Phases 1 + 2 No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Chaos End Asriel Phases 1+2", 
+    "name": "Chaos End Asriel Phases 1 + 2 No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Niheme Underfell Sans", 
+    "name": "Niheme Underfell Sans No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "UTY Flowey Phases 1+2", 
+    "name": "UTY Flowey Phases 1 + 2 No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "Delirium of Aeons", 
-    "tier": "Grandmaster", 
+    "name": "Delirium of Aeons No Hit", 
+    "tier": "Champion", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
-    "name": "Deltarune TRACABARTPEEG Chapters 1+2", 
-    "tier": "Grandmaster", 
+    "name": "Deltarune TRACABARTPEEG Chapters 1 + 2 No Hit Run", 
+    "tier": "Champion", 
     "ctype": "No Hit", 
     "game": "Deltarune", 
     "rtype": "Full Game Run"
 }, {
-    "name": "EdgeEdge Sans", 
-    "tier": "Grandmaster", 
+    "name": "EdgeEdge Sans No Hit", 
+    "tier": "Champion", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Dusttale Sans by FDY Phases 1+2", 
-    "tier": "Grandmaster", 
+    "name": "Dusttale Sans by FDY Phases 1 + 2 No Hit", 
+    "tier": "Champion", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Dusttrust by FDY Phase 1 No Heal ", 
-    "tier": "Grandmaster", 
+    "name": "Dusttrust by FDY Phase 1 No Heal", 
+    "tier": "Champion", 
     "ctype": "No Heal", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Edgetale Sans 3rd Run", 
-    "tier": "Grandmaster", 
+    "name": "Edgetale Sans 3rd Run No Hit", 
+    "tier": "Champion", 
     "ctype": "No Hit", 
-    "game": "Other", 
+    "game": "ZYDCN", 
     "rtype": "Battle Phase"
 }, {
 	"name": "Storyshift Papyrus by Benlabno No Hit",
-	"tier": "Beginner",
-	"ctype": "No Hit",
-	"game": "Other",
-	"rtype": "Full Battle"
-}, {
-	"name": "Swapfell Desolation Asgore No Hit",
 	"tier": "Beginner",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -1434,12 +1410,6 @@ export const challengeList = [{
 	"rtype": "Full Battle"
 }, {
 	"name": "Dusttrust by Angelo No Hit",
-	"tier": "Advanced",
-	"ctype": "No Hit",
-	"game": "Other",
-	"rtype": "Full Battle"
-}, {
-	"name": "Swapfell Desolation Papyrus No Hit",
 	"tier": "Advanced",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -1592,13 +1562,13 @@ export const challengeList = [{
 	"name": "Lethetale Phase 1 No Heal",
 	"tier": "Expert",
 	"ctype": "No Heal",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "Lifefield Papyrus by ZYDCN No Heal",
 	"tier": "Expert",
 	"ctype": "No Heal",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Full Battle"
 }, {
 	"name": "Ink JP No Heal",
@@ -1640,7 +1610,7 @@ export const challengeList = [{
 	"name": "Lethetale Phase 2 No Heal",
 	"tier": "Expert",
 	"ctype": "No Heal",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "Chaos' End Asriel Light Frisk Fight No Heal",
@@ -1676,7 +1646,7 @@ export const challengeList = [{
 	"name": "Lethetale Phase 1 No Hit",
 	"tier": "Master",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "Covettale Papyrus No Hit",
@@ -1694,7 +1664,7 @@ export const challengeList = [{
 	"name": "Ultimatale Sans by ZYDCN Phase 1 No Hit",
 	"tier": "Master",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "Angry Sans Phases 1 + 2 RNG SUX No Hit",
@@ -1718,7 +1688,7 @@ export const challengeList = [{
 	"name": "Lethetale Phases 1 + 2 No Heal",
 	"tier": "Master",
 	"ctype": "No Heal",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Full Battle"
 }, {
 	"name": "Chaos' End Asriel Light Frisk Fight No Hit",
@@ -1730,7 +1700,7 @@ export const challengeList = [{
 	"name": "Underfell Plan Phase 2 No Heal",
 	"tier": "Master",
 	"ctype": "No Heal",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "Mistytale Papyrus No Hit",
@@ -1745,16 +1715,10 @@ export const challengeList = [{
 	"game": "Other",
 	"rtype": "Full Game Run"
 }, {
-	"name": "Distrust 2 Phase 1 No Hit",
-	"tier": "Elite",
-	"ctype": "No Hit",
-	"game": "Other",
-	"rtype": "Battle Phase"
-}, {
 	"name": "Modernswap Phase 2 No Hit",
 	"tier": "Elite",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "EdgeEdge Lost Edge Hazard Level 6 (KR)",
@@ -1772,25 +1736,25 @@ export const challengeList = [{
 	"name": "Edgetale Sans 2nd Run No Hit",
 	"tier": "Mythic",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "Modernswap Phases 1 + 2 No Hit",
 	"tier": "Mythic",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Full Battle"
 }, {
 	"name": "Lethetale Phase 2 No Hit",
 	"tier": "Mythic",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "Underfell Plan Phase 2 No Hit",
-	"tier": "Grandmaster",
+	"tier": "Champion",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
 	"name": "EdgeEdge Lost Edge No Hit",
@@ -1800,8 +1764,638 @@ export const challengeList = [{
 	"rtype": "Full Battle"
 }, {
 	"name": "Chaos' End All Phases No Hit",
+	"tier": "Champion",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale Wildfire Pacifist No Hit",
+	"tier": "Beginner",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "TS!Underswap Evacuation Crossbones No Heal",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Underfell Stories from the Sea Phase 1 No Heal",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Spacetime Migration Papyrus No Heal",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Eternal Fall Sans No Heal",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Deltarune Upper Hand No Item",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "SwApFell: I Hate You Asgore No Heal",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Underfell One Hell of a Show Mettaton LV1 No Heal",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Angry Sans Phase 2 RNG SUX Normal Mode No Heal",
+	"tier": "Beginner",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Cookies and Cream No Hit",
+	"tier": "Intermediate",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Dusttrust Finale Papyrus Encounter No Hit",
+	"tier": "Intermediate",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Revenge T.U.E. Revival Act 2 No Hit",
+	"tier": "Intermediate",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Dusttrust Lunacy by DEL No Hit",
+	"tier": "Intermediate",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Feeling Change Sans No Heal",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Aoharu Duo No Heal",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undera Sans No Heal",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Error Sans by Benlabno No Heal",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "DTMC Sans Act 2 No Item",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "DTMC Papyrus No Heal",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Numbertale Phase 1 No Heal",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Revenge Papyrus by Shiqi No Heal",
+	"tier": "Intermediate",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Deltarune Titans Spamton Sigma No Hit",
+	"tier": "Intermediate",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Swapfell Sans Survival by Big Fom No Hit",
+	"tier": "Intermediate",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Revenge T.U.E. Revival Act 3 No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Chaotic Time Trio Phase 1 No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Chaotic Time Trio Red Fight No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "DTMC Sans Act 1 No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "DTMC Papyrus No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Swapfell Maelstrom No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Revenge Papyrus by Shiqi No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Storyshift Chara Core Fight No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Vehement No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Bad Monday Simulator No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Justicetale re-written Sans Fight by DLW Phase 1 No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Swapfell Papyrus Hardmode Phase 1 No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "DTGE Act 1 (Advanced Mode) No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "SP!Dusttale the Final Posthumous by Kokakola No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale Last Breath Scrapped Phase 1 No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Numbertale Phase 2 No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Underfell One Hell of a Show Alphys No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Angry Sans Phase 1 RNG SUX Normal Mode No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Inverted Fate Sans by Proturba No Hit",
+	"tier": "Advanced",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undera Sans No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale Last Breath Scrapped Phase 1 No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Chaotic Time Trio Phase 2 No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Chaotic Time Trio Betrayer Sans Fight No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "DTMC Sans Act 2 No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "DTMC vs Undyne No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Numbertale Phase 1 No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Oath of No Demon (Easy Difficulty) No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Final Judgment Rerun No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Deltatraveler Jerry No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Shiqi's Justicetale Ben Phase 1 No Heal",
+	"tier": "Advanced",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Hide and Seek No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Endingsunrise Trio (Balanced Mode) No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Covettale Papyrus No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Underbrella Sans Phase 1 (Everytale Version) No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "OvertimeDell Fight by zhazha Phase 1 No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "OvertimeDell Fight by zhazha Phases 1 + 2 No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale Last Breath Scrapped Phase 2 No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "DTMC River Person No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Numbertale Phases 1 + 2 No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Underswap Endless Hatred No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale the Last 27 Hours Normal Damage No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Underfell One Hell of a Show Alphys No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Angry Sans Phases 1 + 2 RNG SUX Normal Mode No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale False Reset Phase 1 No Heal/Upgrades",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Triple the Psychotic No Heal",
+	"tier": "Expert",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Eternal Fall Sans No Hit",
+	"tier": "Expert",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Afterglory Phase 2 No Heal",
+	"tier": "Master",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Hide and Seek No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Dusttale Rikuhachima No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Spongeswap by DEL No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale Last Breath Scrapped Phase 2 No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Chaotic Time Trio Phase 3 No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Chaotic Time Trio Phase 4 No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Dusttrust Legacy Phase 1 No Heal",
+	"tier": "Master",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "DTMC River Person No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Numbertale Phase 2 No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Mirrortale Phase 2 No Item",
+	"tier": "Master",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Distrust Angela (Modern) RNG SUX Normal Mode All Phases No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale False Reset Phase 1 No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Triple the Psychotic No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Worldchange Chara Phase 1 Rank 1 No Item",
+	"tier": "Master",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "OvertimeDell Fight by zhazha Phases 1 + 2 No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Ribbit No Hit Run",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Game Run"
+}, {
+	"name": "SwApFell: I Hate You Area 1 Bloodspear No Hit",
+	"tier": "Master",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "SP!Dusttale Necroptosis by Kokakola No Hit",
+	"tier": "Elite",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Joketale by ZYDCN No Hit",
+	"tier": "Elite",
+	"ctype": "No Hit",
+	"game": "ZYDCN",
+	"rtype": "Full Battle"
+}, {
+	"name": "Numbertale Phases 1 + 2 No Hit",
+	"tier": "Elite",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Underswap Endless Hatred No Hit",
+	"tier": "Elite",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale the Last 27 Hours No Hit",
+	"tier": "Mythic",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "UTY Pacifist No Hit Run",
+	"tier": "Mythic",
+	"ctype": "No Hit",
+	"game": "UTY",
+	"rtype": "Full Game Run"
+}, {
+	"name": "Oversave-Tale ESPE Sans by FDY Phase 2 No Heal",
+	"tier": "Champion",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
+}, {
+	"name": "Oversave-Tale ESPE Sans by FDY Phases 1 + 2 No Heal",
+	"tier": "Grandmaster",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "UF Plan Phase 2 No Hit",
 	"tier": "Grandmaster",
 	"ctype": "No Hit",
 	"game": "Other",
 	"rtype": "Full Battle"
+}, {
+	"name": "Deltatraveler Flowey No Hit",
+	"tier": "Beginner",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Last 27 Hours x Edgetale Easy Mode No Act Heal",
+	"tier": "Master",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Deltarune Chapter 4 All Bosses No Hit Run",
+	"tier": "Elite",
+	"ctype": "No Hit",
+	"game": "Deltarune",
+	"rtype": "Full Game Run"
+}, {
+	"name": "Deltarune Chapter 4 All Recruits No Hit Run",
+	"tier": "Elite",
+	"ctype": "No Hit",
+	"game": "Deltarune",
+	"rtype": "Full Game Run"
+}, {
+	"name": "Deltarune Chapter 3 All Bosses No Hit Run",
+	"tier": "Champion",
+	"ctype": "No Hit",
+	"game": "Deltarune",
+	"rtype": "Full Game Run"
+}, {
+	"name": "Deltarune Chapter 3 All Recruits No Hit Run",
+	"tier": "Champion",
+	"ctype": "No Hit",
+	"game": "Deltarune",
+	"rtype": "Full Game Run"
+}, {
+	"name": "UTY Genocide No Hit Run",
+	"tier": "Champion",
+	"ctype": "No Hit",
+	"game": "UTY",
+	"rtype": "Full Game Run"
+}, {
+	"name": "TS!Underswap Papyrus by FDY Phases 1+2 (Orange Soul) No Hit",
+	"tier": "Grandmaster",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "FDY Dusttale Phase 3 No Heal",
+	"tier": "Grandmaster",
+	"ctype": "No Heal",
+	"game": "Other",
+	"rtype": "Battle Phase"
 }]

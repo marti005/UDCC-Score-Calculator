@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
-import { challengeList } from './challengelist.js';
-import { FILTERS } from './params.js';
+import challengeList from './challengelist.json';
+import filters from './filters.json';
 
 import soul from './img/red_soul.png';
 
@@ -28,7 +28,7 @@ export default function Sidebar({updateChallenges, clearSelection}) {
 
     const [checked, setChecked] = useState([]);
 
-    const [filter, setFilter] = useState(Array.from({length: FILTERS.length}, () => new Set()));
+    const [filter, setFilter] = useState(Array.from({length: filters.length}, () => new Set()));
 
     const [searchText, setSearchText] = useState("");
 
@@ -39,7 +39,7 @@ export default function Sidebar({updateChallenges, clearSelection}) {
     }
     
     function clearFilter() {
-        var newFilter = Array.from({length: FILTERS.length}, () => new Set());
+        var newFilter = Array.from({length: filters.length}, () => new Set());
         var newText = "";
 
         setFilter(newFilter);
@@ -86,7 +86,7 @@ export default function Sidebar({updateChallenges, clearSelection}) {
     if (enabled) {
         var filterCategories = [];
         var i = 0;
-        FILTERS.forEach((cat, index) => {
+        filters.forEach((cat, index) => {
             var filterOptions = [];
             Object.entries(cat.options).forEach((option) => {
                 var id = i;

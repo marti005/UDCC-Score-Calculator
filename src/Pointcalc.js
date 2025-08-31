@@ -2,8 +2,8 @@ import { useState } from 'react';
 
 import Sidebar from './Sidebar.js';
 
-import { TIERS } from './params.js';
-import { challengeList } from './challengelist.js';
+import tiers from './tiers.json';
+import challengeList from './challengelist.json';
 
 function TableHeader({tier}) {
     return (<div style={{ background: '#' + tier.color}} className="challengeheader">
@@ -44,17 +44,15 @@ function Column({tier, onClick, challenges, pressed}) {
 function Table({onClick, challenges, pressed}) {
     const columns = [];
     const headers = []
-    TIERS.forEach((t) => {
+    tiers.forEach((t) => {
         headers.push(<TableHeader key={t.name} tier={t}/>)
         columns.push(<div key={t.name} className="column"><Column tier={t} onClick={onClick} challenges={challenges.filter((c) => c.tier === t.name)} pressed={pressed}/></div>);
     });
 
     return (
         <div id="challengepicker">
-            <span id="content">
-                <div id="tiertitles">{headers}</div>
-                <div id="challenges">{columns}</div>
-            </span>
+            <div id="tiertitles">{headers}</div>
+            <div id="challenges">{columns}</div>
         </div>
     )
 }
