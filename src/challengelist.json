@@ -56,7 +56,7 @@
     "name": "Legacy Dusttrust by zhazha Phase 1 No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
-    "game": "ZhaZha", 
+    "game": "Other", 
     "rtype": "Battle Phase"
 }, {
     "name": "Undertale Mad Dummy No Hit", 
@@ -143,7 +143,7 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Red Updated Pacifist By zhazha No Hit", 
+    "name": "Undertale Red Updated Pacifist by zhazha No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -167,19 +167,13 @@
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Unofficial Disbelief Papyrus Phase 4 No Heal", 
-    "tier": "Beginner", 
-    "ctype": "No Heal", 
-    "game": "Other", 
-    "rtype": "Battle Phase"
-}, {
     "name": "Undertale Asriel Phase 1 No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Undertale", 
     "rtype": "Battle Phase"
 }, {
-    "name": "B-TTale ESPE Sans (Original) No Heal", 
+    "name": "B-TTale ESPE Sans No Heal", 
     "tier": "Intermediate", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -371,7 +365,7 @@
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Red Updated Genocide by ZhaZha No Hit", 
+    "name": "Undertale Red Updated Genocide by zhazha No Hit", 
     "tier": "Intermediate", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -461,7 +455,7 @@
     "game": "Deltarune", 
     "rtype": "Full Battle"
 }, {
-    "name": "FDY D-Tale Sans No Heal", 
+    "name": "D-Tale Sans No Heal", 
     "tier": "Advanced", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -485,7 +479,7 @@
     "game": "UTY", 
     "rtype": "Full Battle"
 }, {
-    "name": "HarryLTS Hard Mode Fresh Sans No Heal", 
+    "name": "Hard Mode Fresh Sans by HarryLTS No Heal", 
     "tier": "Advanced", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -659,13 +653,13 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "B-TTale ESPE Sans (original) No Hit", 
+    "name": "B-TTale ESPE Sans No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Bad Time Trio No Hit", 
+    "name": "Bad Time Trio by McatR No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -767,7 +761,7 @@
     "game": "Undertale", 
     "rtype": "Battle Phase"
 }, {
-    "name": "HarryLTS Hard Mode Sans No Heal", 
+    "name": "Hard Mode Sans by HarryLTS No Heal", 
     "tier": "Expert", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -809,7 +803,7 @@
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "OS-T SC Sans Phase 1 Noob Mode No Heal", 
+    "name": "OS-T Sudden Changes Sans Phase 1 Noob Mode No Heal", 
     "tier": "Expert", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -839,7 +833,7 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "UF Plan Phase 1 Normal Damage No Item", 
+    "name": "Underfell Plan Phase 1 Normal Damage No Item", 
     "tier": "Expert", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -863,7 +857,7 @@
     "game": "UTY", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Yum's Bad Time Trio No Hit", 
+    "name": "Bad Time Trio by Kosh No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -965,13 +959,13 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "HarryLTS Hard Mode Fresh Sans No Hit", 
+    "name": "Hard Mode Fresh Sans by HarryLTS No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "HarryLTS Hard Mode Sans No Hit", 
+    "name": "Hard Mode Sans by HarryLTS No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -989,7 +983,7 @@
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "OS-T SC Sans Phase 1 Normal Mode No Heal", 
+    "name": "OS-T Sudden Changes Sans Phase 1 Normal Mode No Heal", 
     "tier": "Master", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -1037,7 +1031,7 @@
     "game": "ZYDCN", 
     "rtype": "Full Battle"
 }, {
-    "name": "UF Plan Phase 1 No Hit", 
+    "name": "Underfell Plan Phase 1 No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1061,7 +1055,7 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Lifefield Papyrus by ZYDCN No Hit", 
+    "name": "Lifefield Papyrus No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "ZYDCN", 
@@ -1073,8 +1067,8 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Spacedrift Sans Phase 1 No Hit", 
-    "tier": "Master", 
+    "name": "Spacedrift Phase 1 No Hit", 
+    "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
@@ -1097,7 +1091,7 @@
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Underbrella Sans Phase 1 (everytale version) No Hit", 
+    "name": "Underbrella Sans Phase 1 (Everytale Version) No Hit", 
     "tier": "Master", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1181,13 +1175,13 @@
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "FDY Dusttale Sans Phases 1+2 No Heal", 
+    "name": "Dusttale Sans by FDY Phases 1+2 No Heal", 
     "tier": "Elite", 
     "ctype": "No Heal", 
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Outertale Chaotic Route No Hit Run", 
+    "name": "PS!Outertale Chaotic Route No Hit Run", 
     "tier": "Elite", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1211,13 +1205,13 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "OS-T B-TTale ESPE Sans Phase 1 No Hit", 
+    "name": "OS-T ESPE Sans Phase 1 No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "OS-T SC Sans Phase 1 No Hit", 
+    "name": "OS-T Sudden Changes Sans Phase 1 No Hit", 
     "tier": "Mythic", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1241,8 +1235,8 @@
     "game": "Undertale", 
     "rtype": "Full Battle"
 }, {
-    "name": "Spacedrift Sans Phases 1 + 2 No Hit", 
-    "tier": "Mythic", 
+    "name": "Spacedrift Phases 1 + 2 No Hit", 
+    "tier": "Champion", 
     "ctype": "No Hit", 
     "game": "Other", 
     "rtype": "Full Battle"
@@ -1289,7 +1283,7 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Dusttrust by FDY Phase 1 No Heal", 
+    "name": "OS-T Dusttrust by FDY Phase 1 Noob Mode No Heal", 
     "tier": "Champion", 
     "ctype": "No Heal", 
     "game": "Other", 
@@ -1307,7 +1301,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Mad Mew Mew No Hit",
+	"name": "Undertale Mad Mew Mew No Hit",
 	"tier": "Beginner",
 	"ctype": "No Hit",
 	"game": "Undertale",
@@ -1343,11 +1337,11 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Endingtale Papyrus Phase 1 No Hit",
+	"name": "Endingtale Papyrus No Hit",
 	"tier": "Intermediate",
 	"ctype": "No Hit",
 	"game": "Other",
-	"rtype": "Battle Phase"
+	"rtype": "Full Battle"
 }, {
 	"name": "Dustbelief Sans by Bricky No Hit",
 	"tier": "Intermediate",
@@ -1373,7 +1367,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Yum's Bad Time Trio No Heal",
+	"name": "Bad Time Trio by Kosh No Heal",
 	"tier": "Intermediate",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -1433,7 +1427,7 @@
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Shiqi's Justicetale Papyrus Phase 1 No Heal",
+	"name": "Justicetale Papyrus by Shiqi Phase 1 No Heal",
 	"tier": "Advanced",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -1451,7 +1445,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Spacedrift Sans Phase 1 No Item",
+	"name": "Spacedrift Phase 1 No Item",
 	"tier": "Advanced",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -1505,7 +1499,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Shiqi's Justicetale Ben Phase 1 No Hit",
+	"name": "Justicetale Ben by Shiqi Phase 1 No Hit",
 	"tier": "Expert",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -1565,7 +1559,7 @@
 	"game": "ZYDCN",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Lifefield Papyrus by ZYDCN No Heal",
+	"name": "Lifefield Papyrus No Heal",
 	"tier": "Expert",
 	"ctype": "No Heal",
 	"game": "ZYDCN",
@@ -1583,7 +1577,7 @@
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Spacedrift Sans Phases 1 + 2 No Item",
+	"name": "Spacedrift Phases 1 + 2 No Item",
 	"tier": "Expert",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -1595,7 +1589,7 @@
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Shiqi's Altertale Phase 1 No Heal",
+	"name": "Altertale by Shiqi Phase 1 No Heal",
 	"tier": "Expert",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -1625,19 +1619,19 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Shiqi's Altertale Phase 2 No Heal",
+	"name": "Altertale by Shiqi Phase 2 No Heal",
 	"tier": "Expert",
 	"ctype": "No Heal",
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Shiqi's Justicetale Papyrus Phase 1 No Hit",
+	"name": "Justicetale Papyrus by Shiqi Phase 1 No Hit",
 	"tier": "Expert",
 	"ctype": "No Hit",
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Outertale Neutral No Hit Run",
+	"name": "PS!Outertale Neutral No Hit Run",
 	"tier": "Master",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -1661,7 +1655,7 @@
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Ultimatale Sans by ZYDCN Phase 1 No Hit",
+	"name": "Ultimatale Sans Phase 1 No Hit",
 	"tier": "Master",
 	"ctype": "No Hit",
 	"game": "ZYDCN",
@@ -1673,13 +1667,13 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Shiqi's Altertale Phase 1 No Hit",
+	"name": "Altertale by Shiqi Phase 1 No Hit",
 	"tier": "Master",
 	"ctype": "No Hit",
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Shiqi's Altertale Phase 2 No Hit",
+	"name": "Altertale by Shiqi Phase 2 No Hit",
 	"tier": "Master",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -1697,7 +1691,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Underfell Plan Phase 2 No Heal",
+	"name": "Underfell Plan Phase 2 Normal Mode No Heal",
 	"tier": "Master",
 	"ctype": "No Heal",
 	"game": "ZYDCN",
@@ -1709,7 +1703,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Outertale True Pacifist No Hit Run",
+	"name": "PS!Outertale True Pacifist No Hit Run",
 	"tier": "Elite",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -1747,12 +1741,6 @@
 }, {
 	"name": "Lethetale Phase 2 No Hit",
 	"tier": "Mythic",
-	"ctype": "No Hit",
-	"game": "ZYDCN",
-	"rtype": "Battle Phase"
-}, {
-	"name": "Underfell Plan Phase 2 No Hit",
-	"tier": "Champion",
 	"ctype": "No Hit",
 	"game": "ZYDCN",
 	"rtype": "Battle Phase"
@@ -2081,7 +2069,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Shiqi's Justicetale Ben Phase 1 No Heal",
+	"name": "Justicetale Ben by Shiqi Phase 1 No Heal",
 	"tier": "Advanced",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -2171,7 +2159,7 @@
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Triple the Psychotic No Heal",
+	"name": "Great Time Trio Remake Triple the Psychotic No Heal",
 	"tier": "Expert",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -2225,7 +2213,7 @@
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Dusttrust Legacy Phase 1 No Heal",
+	"name": "Legacy Dusttrust by FDY Phase 1 No Heal",
 	"tier": "Master",
 	"ctype": "No Heal",
 	"game": "Other",
@@ -2261,7 +2249,7 @@
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Triple the Psychotic No Hit",
+	"name": "Great Time Trio Remake Triple the Psychotic No Hit",
 	"tier": "Master",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -2279,7 +2267,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Ribbit No Hit Run",
+	"name": "Deltarune Ribbit Mod No Hit Run",
 	"tier": "Master",
 	"ctype": "No Hit",
 	"game": "Other",
@@ -2297,7 +2285,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "Joketale by ZYDCN No Hit",
+	"name": "Joketale No Hit",
 	"tier": "Elite",
 	"ctype": "No Hit",
 	"game": "ZYDCN",
@@ -2327,22 +2315,22 @@
 	"game": "UTY",
 	"rtype": "Full Game Run"
 }, {
-	"name": "Oversave-Tale ESPE Sans by FDY Phase 2 No Heal",
+	"name": "OS-T ESPE Sans by FDY Phase 2 Noob Mode No Heal",
 	"tier": "Champion",
 	"ctype": "No Heal",
 	"game": "Other",
 	"rtype": "Battle Phase"
 }, {
-	"name": "Oversave-Tale ESPE Sans by FDY Phases 1 + 2 No Heal",
+	"name": "OS-T ESPE Sans by FDY Phases 1 + 2 Noob Mode No Heal",
 	"tier": "Grandmaster",
 	"ctype": "No Heal",
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "UF Plan Phase 2 No Hit",
+	"name": "Underfell Plan Phase 2 No Hit",
 	"tier": "Grandmaster",
 	"ctype": "No Hit",
-	"game": "Other",
+	"game": "ZYDCN",
 	"rtype": "Full Battle"
 }, {
 	"name": "Deltatraveler Flowey No Hit",
@@ -2393,7 +2381,7 @@
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
-	"name": "FDY Dusttale Phase 3 No Heal",
+	"name": "Dusttale by FDY Phase 3 No Heal",
 	"tier": "Grandmaster",
 	"ctype": "No Heal",
 	"game": "Other",
