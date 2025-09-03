@@ -143,12 +143,6 @@
     "game": "Other", 
     "rtype": "Full Battle"
 }, {
-    "name": "Undertale Red Updated Pacifist by zhazha No Hit", 
-    "tier": "Beginner", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
     "name": "Undertale Undyne (Neutral) No Hit", 
     "tier": "Beginner", 
     "ctype": "No Hit", 
@@ -365,12 +359,6 @@
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
-    "name": "Undertale Red Updated Genocide by zhazha No Hit", 
-    "tier": "Intermediate", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
     "name": "Unofficial Disbelief Papyrus All Phases No Item", 
     "tier": "Intermediate", 
     "ctype": "No Heal", 
@@ -378,13 +366,13 @@
     "rtype": "Full Battle"
 }, {
     "name": "Unofficial Disbelief Papyrus Phase 2 No Heal", 
-    "tier": "Intermediate", 
+    "tier": "Beginner", 
     "ctype": "No Heal", 
     "game": "Other", 
     "rtype": "Battle Phase"
 }, {
     "name": "Unofficial Disbelief Papyrus Phase 3 No Heal", 
-    "tier": "Intermediate", 
+    "tier": "Beginner", 
     "ctype": "No Heal", 
     "game": "Other", 
     "rtype": "Battle Phase"
@@ -744,12 +732,6 @@
     "rtype": "Full Battle"
 }, {
     "name": "Dusttrust Thanatos by Benlabno No Hit", 
-    "tier": "Expert", 
-    "ctype": "No Hit", 
-    "game": "Other", 
-    "rtype": "Full Battle"
-}, {
-    "name": "Feeling Change Sans No Hit", 
     "tier": "Expert", 
     "ctype": "No Hit", 
     "game": "Other", 
@@ -1416,7 +1398,7 @@
 	"rtype": "Full Battle"
 }, {
 	"name": "Angry Sans Phase 2 RNG SUX No Hit",
-	"tier": "Advanced",
+	"tier": "Intermediate",
 	"ctype": "No Hit",
 	"game": "Other",
 	"rtype": "Battle Phase"
@@ -1722,7 +1704,7 @@
 	"rtype": "Battle Phase"
 }, {
 	"name": "TS!Underswap Papyrus by FDY Phase 2 No Hit (Orange soul only)",
-	"tier": "Mythic",
+	"tier": "Champion",
 	"ctype": "No Hit",
 	"game": "Other",
 	"rtype": "Battle Phase"
@@ -1832,12 +1814,6 @@
 	"name": "Dusttrust Lunacy by DEL No Hit",
 	"tier": "Intermediate",
 	"ctype": "No Hit",
-	"game": "Other",
-	"rtype": "Full Battle"
-}, {
-	"name": "Feeling Change Sans No Heal",
-	"tier": "Intermediate",
-	"ctype": "No Heal",
 	"game": "Other",
 	"rtype": "Full Battle"
 }, {
@@ -2386,4 +2362,16 @@
 	"ctype": "No Heal",
 	"game": "Other",
 	"rtype": "Battle Phase"
+}, {
+	"name": "Undertale Red Pacifist No Hit",
+	"tier": "Beginner",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
+}, {
+	"name": "Undertale Red Genocide No Hit",
+	"tier": "Intermediate",
+	"ctype": "No Hit",
+	"game": "Other",
+	"rtype": "Full Battle"
 }]
