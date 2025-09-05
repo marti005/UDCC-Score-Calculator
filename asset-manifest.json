@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UDCC-Score-Calculator/static/css/main.cde5d69d.css",
-    "main.js": "/UDCC-Score-Calculator/static/js/main.511c046d.js",
+    "main.js": "/UDCC-Score-Calculator/static/js/main.67c2747e.js",
     "static/media/bg.png": "/UDCC-Score-Calculator/static/media/bg.998898ac28ea6c57c81e.png",
     "static/media/8bitoperator.woff": "/UDCC-Score-Calculator/static/media/8bitoperator.d057233e4b8d3001e46c.woff",
     "index.html": "/UDCC-Score-Calculator/index.html",
     "main.cde5d69d.css.map": "/UDCC-Score-Calculator/static/css/main.cde5d69d.css.map",
-    "main.511c046d.js.map": "/UDCC-Score-Calculator/static/js/main.511c046d.js.map"
+    "main.67c2747e.js.map": "/UDCC-Score-Calculator/static/js/main.67c2747e.js.map"
   },
   "entrypoints": [
     "static/css/main.cde5d69d.css",
-    "static/js/main.511c046d.js"
+    "static/js/main.67c2747e.js"
   ]
 }
