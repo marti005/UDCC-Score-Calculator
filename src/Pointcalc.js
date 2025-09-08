@@ -65,7 +65,7 @@ function Pointometer() {
     }
 
     const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
-    const sortedChallenges = filteredChallenges.sort(challengeSort);
+    const sortedChallenges = filteredChallenges;
 
     
     //CHALLENGE BUTTON HANDLERS
@@ -103,10 +103,6 @@ function Pointometer() {
         </>
     );
 }
-
-function challengeSort(a, b) {
-    return a.name.localeCompare(b.name);
-} 
 
 export default function App() {
     return <Pointometer />
