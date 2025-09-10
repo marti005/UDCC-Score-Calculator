@@ -109,15 +109,18 @@ function Pointometer() {
 function iniScore() {
     var score = 0;
 
-    JSON.parse(localStorage.getItem("selection")).forEach((c) => {
-        if (c[1]) {
-            var challenge = challengeList.filter(ch => ch.name === c[0]);
-            if (challenge.length === 1) {
-                var value = tiers.filter(t => t.name === challenge[0].tier);
-                score += value[0].points;
+    var selection = JSON.parse(localStorage.getItem("selection"));
+    if (selection !== null) {
+        selection.forEach((c) => {
+            if (c[1]) {
+                var challenge = challengeList.filter(ch => ch.name === c[0]);
+                if (challenge.length === 1) {
+                    var value = tiers.filter(t => t.name === challenge[0].tier);
+                    score += value[0].points;
+                }
             }
-        }
-    });
+        });
+    }
 
     return score;
 }
