@@ -146,7 +146,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -156,7 +156,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "Aoharu Duo No Heal"
     ]
@@ -196,7 +196,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -206,7 +206,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -216,7 +216,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -348,7 +348,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -358,7 +358,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -368,7 +368,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -378,7 +378,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -388,7 +388,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -398,7 +398,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -672,7 +672,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Deltarune",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -916,7 +916,7 @@
     "tier": "Elite",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -926,7 +926,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1016,7 +1016,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1026,7 +1026,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       "DTLG Phase 3 No Item"
     ]
@@ -1036,7 +1036,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1046,7 +1046,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       "DTLG Phase 4 No Heal"
     ]
@@ -1146,7 +1146,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1176,7 +1176,7 @@
     "tier": "Intermediate",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1196,7 +1196,7 @@
     "tier": "Intermediate",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1296,7 +1296,7 @@
     "tier": "Mythic",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1306,7 +1306,7 @@
     "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "EdgeEdge Lost Edge Hazard Level 6 (KR)"
     ]
@@ -1376,7 +1376,7 @@
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1459,7 +1459,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1469,7 +1469,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1479,9 +1479,9 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
-      ""
+      "Error Sans by Benlabno No Heal"
     ]
   },
   {
@@ -1509,7 +1509,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1519,7 +1519,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1529,9 +1529,9 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
-      ""
+      "Gemenatale No Heal"
     ]
   },
   {
@@ -1539,7 +1539,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1569,7 +1569,7 @@
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1579,7 +1579,7 @@
     "tier": "Beginner",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1589,7 +1589,7 @@
     "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1599,7 +1599,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "Great Time Trio Reanilovania No Heal"
     ]
@@ -1609,7 +1609,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1619,7 +1619,7 @@
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1629,7 +1629,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "Great Time Trio Remake Triple the Psychotic No Heal"
     ]
@@ -1639,7 +1639,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1649,7 +1649,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "Great Time Trio Trio of Hell Encore No Heal"
     ]
@@ -1699,7 +1699,7 @@
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1729,7 +1729,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1749,7 +1749,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1799,7 +1799,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1809,7 +1809,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1899,7 +1899,7 @@
     "tier": "Advanced",
     "ctype": "No Heal",
     "game": "ZYDCN",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -1909,7 +1909,7 @@
     "tier": "Elite",
     "ctype": "No Hit",
     "game": "ZYDCN",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "Keeptale Sans Expert Mode No Heal"
     ]
@@ -2131,7 +2131,7 @@
     "tier": "Mythic",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2456,7 +2456,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2486,7 +2486,7 @@
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2496,7 +2496,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "Revenge Papyrus by Shiqi No Heal"
     ]
@@ -2516,7 +2516,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2576,7 +2576,7 @@
     "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2596,7 +2596,7 @@
     "tier": "Beginner",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2606,9 +2606,9 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
-      ""
+      "Spacetime Migration Papyrus No Heal"
     ]
   },
   {
@@ -2762,7 +2762,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2792,7 +2792,7 @@
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2894,7 +2894,7 @@
     "tier": "Intermediate",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -2904,7 +2904,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3046,7 +3046,7 @@
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3056,7 +3056,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3236,7 +3236,7 @@
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3318,7 +3318,7 @@
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3388,7 +3388,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Undertale",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       "Undertale Flowey Final Phase No Hit"
     ]
@@ -3398,7 +3398,7 @@
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Undertale",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3460,7 +3460,7 @@
     "tier": "Elite",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3490,7 +3490,7 @@
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -3500,7 +3500,7 @@
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       "Undertale Last Breath Scrapped Phase 2 No Heal"
     ]
@@ -3939,7 +3939,7 @@
     "tier": "Elite",
     "ctype": "No Hit",
     "game": "UTY",
-    "rtype": "Battle Phase",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -4001,7 +4001,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]
@@ -4011,7 +4011,7 @@
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
-    "rtype": "Full Battle",
+    "rtype": "Survival Fight",
     "sub": [
       ""
     ]

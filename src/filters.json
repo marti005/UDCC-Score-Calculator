@@ -17,7 +17,8 @@
     "name": "Run Type",
     "options": [
         "Battle Phase",
-        "Full Battle", 
+        "Full Battle",
+        "Survival Fight", 
         "Full Game Run"
     ]
 }]
