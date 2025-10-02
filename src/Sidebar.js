@@ -5,7 +5,7 @@ import filters from './filters.json';
 
 import soul from './img/red_soul.png';
 
-function Checkbox({id, checked, text, cat, updateFilter}) {
+function FilterCheckbox({id, checked, text, cat, updateFilter}) {
     return (
         <div>
             <label>
@@ -91,7 +91,7 @@ export default function Sidebar({updateChallenges, clearSelection}) {
             Object.entries(cat.options).forEach((option) => {
                 var id = i;
                 var isChecked = checked[id] === undefined ? false : checked[id];
-                filterOptions.push(<Checkbox key={id} id={id} checked={isChecked} text={option[1]} cat={index} updateFilter={updateCheckbox}/>);
+                filterOptions.push(<FilterCheckbox key={id} id={id} checked={isChecked} text={option[1]} cat={index} updateFilter={updateCheckbox}/>);
                 ++i;
             });
 
@@ -99,7 +99,7 @@ export default function Sidebar({updateChallenges, clearSelection}) {
         });
 
         return (
-                <div id="sidenav">
+            <div id="sidenav">
                     <div><button onClick={() => setEnabled(false)} id="closebutton"><h1>X</h1></button></div>
                 <div><Searchbar searchText={searchText} updateSearchText={updateSearchText}/></div>
                 <div><h2>Filter by:</h2></div>

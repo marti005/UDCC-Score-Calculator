@@ -58,18 +58,20 @@ function Table({onClick, challenges, pressed}) {
 }
 
 function Pointometer() {
+    //TOTAL HANDLERS
     const [total, setTotal] = useState(iniScore());
 
     function updateTotal(difference) {
         setTotal(total+difference);
     }
 
-    const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
-    const sortedChallenges = filteredChallenges;
 
-    
     //CHALLENGE BUTTON HANDLERS
+    const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
+
     const [pressed, setPressed] = useState(new Map(JSON.parse(localStorage.getItem("selection"))));
+
+    const [dependencies, setDependencies] = useState(true);
 
     function handleClick(key, amount) {
         const tmp = Array.from(pressed).slice();
@@ -81,6 +83,15 @@ function Pointometer() {
         } else {
             nextPressed.set(key, true);
             updateTotal(amount);
+            if (dependencies) {
+                var challenge = challengeList.filter(c => c.name === key);
+
+                challenge.sub.forEach(s => {
+                    var sub = challengeList.filter(s2 => s2.name === s);
+
+                    handleClick(sub, tiers.filter(t => t.name === sub.tier).points)
+                })
+            }
         }
         setPressed(nextPressed);
 
@@ -97,7 +108,7 @@ function Pointometer() {
         <>
         <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection}/>
 
-        <Table onClick={handleClick} challenges={sortedChallenges} pressed={pressed}/>
+        <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
 
         <div id="total">
             <h1>{total} points</h1>
