@@ -111,7 +111,7 @@
   },
   {
     "name": "Angry Sans Phase 2 RNG SUX No Hit",
-    "tier": "Intermediate",
+    "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2258,8 +2258,8 @@
     ]
   },
   {
-    "name": "OS-T ESPE Sans by FDY Phase 2 Noob Mode No Heal",
-    "tier": "Champion",
+    "name": "OS-T ESPE Sans Phase 2 Noob Mode No Heal",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2268,18 +2268,18 @@
     ]
   },
   {
-    "name": "OS-T ESPE Sans by FDY Phases 1 + 2 Noob Mode No Heal",
+    "name": "OS-T ESPE Sans Phases 1 + 2 Noob Mode No Heal",
     "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
       "OS-T ESPE Sans Phase 1 Noob Mode No Heal",
-      "OS-T ESPE Sans by FDY Phase 2 Noob Mode No Heal"
+      "OS-T ESPE Sans Phase 2 Noob Mode No Heal"
     ]
   },
   {
-    "name": "OS-T Sans by FDY Phase 1 No Heal",
+    "name": "OS-T Sans Phase 1 No Heal",
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
@@ -2289,13 +2289,13 @@
     ]
   },
   {
-    "name": "OS-T Sans by FDY Phase 1 No Hit",
+    "name": "OS-T Sans Phase 1 No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "OS-T Sans by FDY Phase 1 No Heal"
+      "OS-T Sans Phase 1 No Heal"
     ]
   },
   {
@@ -3021,7 +3021,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by FDY Phase 2 No Hit (Orange soul only)",
-    "tier": "Champion",
+    "tier": "Mythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
