@@ -40,12 +40,11 @@ function Pointometer() {
             pointsDelta = amount;
             state = false;
         }
-        
-        if (dependencies && challenge.sub.length > 1) {
+
+        if (dependencies && challenge.sub.length > 0) {
             challenge.sub.map((s) => {
                 var sub = challengeList.find(s2 => s2.name == s);
 
-                console.log("Calling" + sub.name);
                 pointsDelta += handleClickRecursive(nextPressed, state, sub.name, tiers.find(t => t.name === sub.tier).points)
             })
         }

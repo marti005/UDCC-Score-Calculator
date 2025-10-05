@@ -2630,7 +2630,7 @@
     "sub": []
   },
   {
-    "name": "TS!Underswap Papyrus by FDY Phase 2 No Hit (Orange soul only)",
+    "name": "TS!Underswap Papyrus by FDY Phase 2 (Orange soul only) No Hit",
     "tier": "Mythic",
     "ctype": "No Hit",
     "game": "Other",
@@ -2647,8 +2647,7 @@
     "rtype": "Full Battle",
     "sub": [
       "TS!Underswap Papyrus by FDY Phase 1 No Hit",
-      "TS!Underswap Papyrus by FDY Phase 2 No Hit",
-      "TS!Underswap Papyrus by FDY Phases 1 + 2 (Orange soul only) No Heal"
+      "TS!Underswap Papyrus by FDY Phase 2 (Orange soul only) No Hit"
     ]
   },
   {
@@ -2665,7 +2664,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
-    "sub": []
+    "sub": [
+      "ULB Scrapped Phase 2 by RTF No Heal"
+    ]
   },
   {
     "name": "Ultimatale Sans Phase 1 No Hit",
