@@ -228,7 +228,7 @@
     "sub": []
   },
   {
-    "name": "Chaos End Asriel Phases 1 + 2 No Hit",
+    "name": "Chaos' End Asriel Phases 1 + 2 No Hit",
     "tier": "Mythic",
     "ctype": "No Hit",
     "game": "Other",
@@ -263,8 +263,8 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "Chaos End Asriel Phases 1 + 2 No Hit",
-      "Chaos' End Light Frisk Fight No Hit"
+      "Chaos' End Asriel Phases 1 + 2 No Hit",
+      "Chaos' End Asriel Light Frisk Fight No Hit"
     ]
   },
   {
@@ -711,7 +711,8 @@
     "rtype": "Full Game Run",
     "sub": [
       "Deltarune Chapter 1 + 2 All Bosses No Hit Run",
-      "Deltarune Chapter 2 Snowgrave Route No Hit Run"
+      "Deltarune Chapter 2 Snowgrave Route No Hit Run",
+      "Deltarune Chapter 2 All Recruits No Hit Run"
     ]
   },
   {

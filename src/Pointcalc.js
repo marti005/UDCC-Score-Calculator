@@ -71,7 +71,7 @@ function Pointometer() {
 
         var challenge = challengeList.find(c => c.name === key);
 
-        if (challenge.sub.length > 1) {
+        if (challenge.sub.length > 0) {
             challenge.sub.map((s) => {
                 var sub = challengeList.find(s2 => s2.name == s);
                 
