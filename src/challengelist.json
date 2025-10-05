@@ -442,7 +442,7 @@
     ]
   },
   {
-    "name": "Deltarune Chapters 1 + 2 All Bosses No Hit Run",
+    "name": "Deltarune Chapter 1 + 2 All Bosses No Hit Run",
     "tier": "Elite",
     "ctype": "No Hit",
     "game": "Deltarune",
@@ -465,7 +465,7 @@
     ]
   },
   {
-    "name": "Deltarune Chapters 1 + 2 No Hit Run",
+    "name": "Deltarune Chapter 1 + 2 No Hit Run",
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Deltarune",
@@ -711,7 +711,7 @@
     "rtype": "Full Game Run",
     "sub": [
       "Deltarune Chapter 1 + 2 All Bosses No Hit Run",
-      "Deltarune Chapter 2 Snowgrave No Hit Run"
+      "Deltarune Chapter 2 Snowgrave Route No Hit Run"
     ]
   },
   {

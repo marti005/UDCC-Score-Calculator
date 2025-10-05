@@ -30,7 +30,7 @@ body {
 #sidenav {
   z-index: 2;
   height: 100%; 
-  width: 15%;
+  width: 300px;
   min-width: 250px; 
   position: fixed; 
   padding-top: 20px;
@@ -79,7 +79,7 @@ body {
 #sidenav h2 {
   font-size: 18pt;
   margin-top: 15px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .catName {
@@ -92,7 +92,7 @@ body {
 }
 
 #sidenav #searchbar {
-  width: 170px;
+  width: 200px;
   margin: 0px;
 }
 
@@ -116,6 +116,7 @@ body {
   font-size: inherit;
   text-decoration: none;
   vertical-align: center;
+  text-align: center;
 }
 
 #sidebarbuttons {
@@ -127,6 +128,10 @@ body {
   height: 40px;
   margin-top: 5px;
   cursor: pointer;
+}
+
+#sidenav .otherOption label {
+  font-size: 10pt;
 }
 
 #total {

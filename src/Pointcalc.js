@@ -1,90 +1,86 @@
 import { useState } from 'react';
 
 import Sidebar from './Sidebar.js';
+import Table from './Table.js';
 
 import tiers from './tiers.json';
 import challengeList from './challengelist.json';
 
-function TableHeader({tier}) {
-    return (<div style={{ background: '#' + tier.color}} className="challengeheader">
-                <div>
-                    {tier.name}
-                </div>
-                <div className="headerpoints">
-                    {tier.points} points
-                </div>
-            </div>
-    )
-}
-
-function TableElement({challenge, isPressed, onChallengeClick}) {
-    var cname = isPressed ? "challengebuttonpressed" : "challengebutton";
-
-    return (
-        <div className="buttoncontainer">
-            <button style={{ whiteSpace: "pre-line" }} className={cname} onClick={onChallengeClick}>
-                {challenge.name.split("<br/>").join("\n")}
-            </button>
-        </div> 
-    )
-}
-
-function Column({tier, onClick, challenges, pressed}) {
-    return (
-        <>
-            {challenges.map((c) => {
-                let key = c.name;
-                if (!pressed.has(key)) pressed.set(key, false);
-                return <TableElement key={key} challenge={c} isPressed={pressed.get(key)} onChallengeClick={() => onClick(key, tier.points)}/>
-            })}
-        </>
-    );
-}
-
-function Table({onClick, challenges, pressed}) {
-    const columns = [];
-    const headers = []
-    tiers.forEach((t) => {
-        headers.push(<TableHeader key={t.name} tier={t}/>)
-        columns.push(<div key={t.name} className="column"><Column tier={t} onClick={onClick} challenges={challenges.filter((c) => c.tier === t.name)} pressed={pressed}/></div>);
-    });
-
-    return (
-        <div id="challengepicker">
-            <div id="tiertitles">{headers}</div>
-            <div id="challenges">{columns}</div>
-        </div>
-    )
-}
-
 function Pointometer() {
+    //TOTAL HANDLERS
     const [total, setTotal] = useState(iniScore());
 
     function updateTotal(difference) {
         setTotal(total+difference);
     }
 
-    const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
-    const sortedChallenges = filteredChallenges;
-
-    
     //CHALLENGE BUTTON HANDLERS
+    const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
+
     const [pressed, setPressed] = useState(new Map(JSON.parse(localStorage.getItem("selection"))));
 
-    function handleClick(key, amount) {
-        const tmp = Array.from(pressed).slice();
-        const nextPressed = new Map(tmp);
+    const [dependencies, setDependencies] = useState(false);
+
+    function handleClick(challenge) {
+        var tmp = Array.from(pressed).slice();
+        var nextPressed = new Map(tmp);
+
+        var key = challenge.name;
+        var amount = tiers.find(t => t.name === challenge.tier).points;
+
+        var pointsDelta = 0;
+        var state;
 
         if (pressed.get(key)) {
             nextPressed.set(key, false);
-            updateTotal(-amount);
+            pointsDelta = -amount;
+            state = true;
         } else {
             nextPressed.set(key, true);
-            updateTotal(amount);
+            pointsDelta = amount;
+            state = false;
         }
+        
+        if (dependencies && challenge.sub.length > 1) {
+            challenge.sub.map((s) => {
+                var sub = challengeList.find(s2 => s2.name == s);
+
+                console.log("Calling" + sub.name);
+                pointsDelta += handleClickRecursive(nextPressed, state, sub.name, tiers.find(t => t.name === sub.tier).points)
+            })
+        }
+
         setPressed(nextPressed);
+        setTotal(total + pointsDelta);
 
         localStorage.setItem("selection", JSON.stringify(Array.from(nextPressed)))
+    }
+
+    function handleClickRecursive(nextPressed, state, key, amount) {
+        var subPoints = 0;
+        var selfPoints = 0;
+        
+        if (state == nextPressed.get(key)) {
+            if (state) {
+                nextPressed.set(key, false);
+                selfPoints = -amount;
+            } else {
+                nextPressed.set(key, true);
+                selfPoints = amount;
+            }
+        }
+
+        var challenge = challengeList.find(c => c.name === key);
+
+        if (challenge.sub.length > 1) {
+            challenge.sub.map((s) => {
+                var sub = challengeList.find(s2 => s2.name == s);
+                
+                subPoints += handleClickRecursive(nextPressed, state, sub.name, tiers.find(t => t.name === sub.tier).points)
+            })
+        }
+        
+        return subPoints + selfPoints;
     }
 
     function clearSelection() {
@@ -95,9 +91,9 @@ function Pointometer() {
 
     return (
         <>
-        <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection}/>
+        <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySwitch={() => setDependencies(!dependencies)}/>
 
-        <Table onClick={handleClick} challenges={sortedChallenges} pressed={pressed}/>
+        <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
 
         <div id="total">
             <h1>{total} points</h1>
