@@ -90,7 +90,7 @@ function Pointometer() {
 
     return (
         <>
-        <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySwitch={() => setDependencies(!dependencies)}/>
+        <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies}/>
 
         <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
 

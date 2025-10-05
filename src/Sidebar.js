@@ -35,7 +35,7 @@ function Searchbar({searchText, updateSearchText}) {
     )
 }
 
-export default function Sidebar({updateChallenges, clearSelection, dependencySwitch}) {
+export default function Sidebar({updateChallenges, clearSelection, dependencySet}) {
     const [enabled, setEnabled] = useState(false);
 
     const [checked, setChecked] = useState([]);
@@ -48,6 +48,8 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySwi
         setChecked([]);
 
         clearFilter();
+
+        dependencySet(false);
     }
     
     function clearFilter() {
@@ -100,7 +102,7 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySwi
         nextChecked[id] = !nextChecked[id];
         setChecked(nextChecked);
 
-        dependencySwitch();
+        dependencySet(nextChecked[id]);
     }
 
     if (enabled) {
