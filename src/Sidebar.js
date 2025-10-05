@@ -17,13 +17,25 @@ function FilterCheckbox({id, checked, text, cat, updateFilter}) {
     );
 }
 
+function Checkbox({id, checked, text, onChange}) {
+    return(
+        <div className="otherOption">
+            <label>
+                <input checked={checked} type="checkbox" onChange={(e) => onChange(id)}/>
+                {' '}
+                {text}
+            </label>
+        </div>
+    )
+}
+
 function Searchbar({searchText, updateSearchText}) {
     return (
         <input id="searchbar" type="text" value={searchText} onChange={(e) => updateSearchText(e.target.value)} placeholder="Search..."/>
     )
 }
 
-export default function Sidebar({updateChallenges, clearSelection}) {
+export default function Sidebar({updateChallenges, clearSelection, dependencySwitch}) {
     const [enabled, setEnabled] = useState(false);
 
     const [checked, setChecked] = useState([]);
@@ -83,13 +95,22 @@ export default function Sidebar({updateChallenges, clearSelection}) {
         filterChallenges(filter, text);
     }
 
+    function updateDependencyCheckbox(id) {
+        var nextChecked = checked.slice();
+        nextChecked[id] = !nextChecked[id];
+        setChecked(nextChecked);
+
+        dependencySwitch();
+    }
+
     if (enabled) {
         var filterCategories = [];
         var i = 0;
+        var id;
         filters.forEach((cat, index) => {
             var filterOptions = [];
             Object.entries(cat.options).forEach((option) => {
-                var id = i;
+                id = i;
                 var isChecked = checked[id] === undefined ? false : checked[id];
                 filterOptions.push(<FilterCheckbox key={id} id={id} checked={isChecked} text={option[1]} cat={index} updateFilter={updateCheckbox}/>);
                 ++i;
@@ -98,13 +119,20 @@ export default function Sidebar({updateChallenges, clearSelection}) {
             filterCategories.push(<div key={index}><div className="catName">{cat.name}</div><div>{filterOptions}</div></div>);
         });
 
+        ++id;
+        var otherCheckboxes = [];
+        var isChecked = checked[id] === undefined ? false : checked[id];
+        otherCheckboxes.push(<Checkbox key={id} id={id} checked={isChecked} text="Autoselect dependencies" onChange={updateDependencyCheckbox} />)
+
         return (
             <div id="sidenav">
                     <div><button onClick={() => setEnabled(false)} id="closebutton"><h1>X</h1></button></div>
                 <div><Searchbar searchText={searchText} updateSearchText={updateSearchText}/></div>
-                <div><h2>Filter by:</h2></div>
+                <div><h2>Filter by</h2></div>
                 <form>
                     {filterCategories}
+                    <h2>Options</h2>
+                    {otherCheckboxes}
                 </form>
 
                 <div id="sidebarbuttons">
