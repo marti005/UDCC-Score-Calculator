@@ -128,21 +128,29 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
 
         return (
             <div id="sidenav">
-                    <div><button onClick={() => setEnabled(false)} id="closebutton"><h1>X</h1></button></div>
-                <div><Searchbar searchText={searchText} updateSearchText={updateSearchText}/></div>
-                <div><h2>Filter by</h2></div>
-                <form>
-                    {filterCategories}
-                    <h2>Options</h2>
-                    {otherCheckboxes}
-                </form>
+                <ul>
+                    <li id="filter">
+                        <button onClick={() => setEnabled(false)} id="closebutton"><h1>X</h1></button>
+                        <Searchbar searchText={searchText} updateSearchText={updateSearchText}/>
 
-                <div id="sidebarbuttons">
-                    <div><button onClick={resetCheckboxes}>Clear filters</button></div>
-                    <div><button onClick={clearSelection}>Clear selection</button></div>
-                </div>
+                        <h2>Filter by</h2>
+                        <form>
+                            {filterCategories}
+                            <h2>Options</h2>
+                            {otherCheckboxes}
+                        </form>
+                    </li>
 
-                <p>Made with <img src={soul}></img> for <a href="https://discord.gg/WVFcWXwT6A" target="_blank">UDCC</a></p>
+
+                    <li id="sidebarbuttons"> 
+                        <button onClick={resetCheckboxes}>Clear filter</button>
+                        <button onClick={clearSelection}>Clear selection</button>
+
+                        <div id="bottomtext">
+                            <p>Made with <img src={soul}></img> for <a href="https://discord.gg/WVFcWXwT6A" target="_blank">UDCC</a></p>
+                        </div>
+                    </li>
+                </ul>
             </div>
         );
     } else {

@@ -33,14 +33,33 @@ body {
   width: 300px;
   min-width: 250px; 
   position: fixed; 
-  padding-top: 20px;
-  padding-left: 20px;
   border-right: 1px solid #111;
   top: 0;
   margin: 0;
-  display: table;
   background-color: black;
   color: white;
+}
+
+#sidenav ul {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+#sidenav li {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+#sidenav #bottomtext {
+  display: flex;
+  justify-content: center;
+  padding-left: 0px;
+  align-items: end;
+  margin-top: 20px;
 }
 
 #openbutton {
@@ -96,14 +115,15 @@ body {
   margin: 0px;
 }
 
+#sidenav #filter {
+  padding-left: 20px;
+}
+
 #sidenav p {
-  position: absolute;
-  bottom: 2px;
   font-size: 7pt;
-  width: 200px;
-  text-align: center;
   color: darkgray;
   opacity: 50%;
+  margin: 0;
 }
 
 #sidenav p img {
@@ -120,7 +140,11 @@ body {
 }
 
 #sidebarbuttons {
-  margin-top: 20px
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0px;
 }
 
 #sidebarbuttons button {

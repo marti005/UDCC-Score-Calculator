@@ -24,7 +24,7 @@ function TableElement({name, isPressed, onChallengeClick}) {
     )
 }
 
-function Column({tier, onClick, challenges, pressed}) {
+function Column({onClick, challenges, pressed}) {
     return (
         <>
             {challenges.map((c) => {
@@ -41,7 +41,7 @@ export default function Table({onClick, challenges, pressed}) {
     const headers = []
     tiers.forEach((t) => {
         headers.push(<TableHeader key={t.name} tier={t}/>)
-        columns.push(<div key={t.name} className="column"><Column tier={t} onClick={onClick} challenges={challenges.filter((c) => c.tier === t.name)} pressed={pressed}/></div>);
+        columns.push(<div key={t.name} className="column"><Column onClick={onClick} challenges={challenges.filter((c) => c.tier === t.name)} pressed={pressed}/></div>);
     });
 
     return (
