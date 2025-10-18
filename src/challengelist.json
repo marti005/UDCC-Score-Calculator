@@ -76,13 +76,13 @@
     "sub": []
   },
   {
-    "name": "Angry Sans Phase 1 RNG SUX No Hit",
+    "name": "Angry Sans Phase 1 RNG SUX Normal Mode No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "Angry Sans Phase 1 RNG SUX No Heal"
+      "Angry Sans Phase 1 RNG SUX Normal Mode No Heal"
     ]
   },
   {
@@ -94,13 +94,13 @@
     "sub": []
   },
   {
-    "name": "Angry Sans Phase 2 RNG SUX No Hit",
+    "name": "Angry Sans Phase 2 RNG SUX Normal Mode No Hit",
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "Angry Sans Phase 2 RNG SUX No Heal"
+      "Angry Sans Phase 2 RNG SUX Normal Mode No Heal"
     ]
   },
   {
@@ -109,10 +109,7 @@
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": [
-      "Angry Sans Phase 1 RNG SUX No Heal",
-      "Angry Sans Phase 2 RNG SUX No Heal"
-    ]
+    "sub": []
   },
   {
     "name": "Angry Sans Phases 1 + 2 RNG SUX No Hit",
@@ -121,8 +118,9 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "Angry Sans Phase 1 RNG SUX No Hit",
-      "Angry Sans Phase 2 RNG SUX No Hit"
+      "Angry Sans Phase 1 RNG SUX Normal Mode No Hit",
+      "Angry Sans Phase 2 RNG SUX Normal Mode No Hit",
+      "Angry Sans Phases 1 + 2 RNG SUX Normal Mode No Heal"
     ]
   },
   {
@@ -1067,7 +1065,7 @@
     "sub": []
   },
   {
-    "name": "Dusttale Sans by FDY Phases 1+2 No Heal",
+    "name": "Dusttale Sans by FDY Phases 1 + 2 No Heal",
     "tier": "Elite",
     "ctype": "No Heal",
     "game": "Other",
@@ -1114,7 +1112,9 @@
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
-    "sub": []
+    "sub": [
+      "Edge ZY Phase 1 No Heal"
+    ]
   },
   {
     "name": "EdgeEdge Half Damage No Heal",
@@ -2641,7 +2641,7 @@
     ]
   },
   {
-    "name": "TS!Underswap Papyrus by FDY Phases 1+2 (Orange Soul) No Hit",
+    "name": "TS!Underswap Papyrus by FDY Phases 1 + 2 (Orange Soul) No Hit",
     "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
@@ -2824,17 +2824,15 @@
     "sub": []
   },
   {
-    "name": "Underfell Stories from the Sea Phases 1+2 No Heal",
+    "name": "Underfell Stories from the Sea Phases 1 + 2 No Heal",
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": [
-      "Underfell Stories from the Sea Phase 1 No Heal"
-    ]
+    "sub": []
   },
   {
-    "name": "Underfell Stories from the Sea Phases 1+2 No Hit",
+    "name": "Underfell Stories from the Sea Phases 1 + 2 No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
@@ -2842,7 +2840,7 @@
     "sub": [
       "Underfell Stories from the Sea Phase 1 No Hit",
       "Underfell Stories from the Sea Phase 2 No Hit",
-      "Underfell Stories from the Sea Phase 1 + 2 No Heal"
+      "Underfell Stories from the Sea Phases 1 + 2 No Heal"
     ]
   },
   {
