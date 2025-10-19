@@ -7,8 +7,10 @@ import tiers from './tiers.json';
 import challengeList from './challengelist.json';
 
 function Pointometer() {
+    var selection = JSON.parse(localStorage.getItem("selection"));
+
     //TOTAL HANDLERS
-    const [total, setTotal] = useState(iniScore());
+    const [total, setTotal] = useState(iniScore(selection));
 
     function updateTotal(difference) {
         setTotal(total+difference);
@@ -17,7 +19,7 @@ function Pointometer() {
     //CHALLENGE BUTTON HANDLERS
     const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
 
-    const [pressed, setPressed] = useState(new Map(JSON.parse(localStorage.getItem("selection"))));
+    const [pressed, setPressed] = useState(new Map(selection));
 
     const [dependencies, setDependencies] = useState(false);
 
@@ -86,6 +88,7 @@ function Pointometer() {
         setTotal(0);
 
         setPressed(new Map());
+        localStorage.setItem("selection", JSON.stringify([]))
     }
 
     return (
@@ -101,10 +104,9 @@ function Pointometer() {
     );
 }
 
-function iniScore() {
+function iniScore(selection) {
     var score = 0;
 
-    var selection = JSON.parse(localStorage.getItem("selection"));
     if (selection !== null) {
         selection.forEach((c) => {
             if (c[1]) {

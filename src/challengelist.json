@@ -13,7 +13,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
-    "sub": []
+    "sub": [
+      "Afterglory Phase 1 No Heal"
+    ]
   },
   {
     "name": "Afterglory Phase 2 No Heal",
@@ -109,7 +111,10 @@
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": []
+    "sub": [
+      "Angry Sans Phase 1 RNG SUX Normal Mode No Heal",
+      "Angry Sans Phase 2 RNG SUX Normal Mode No Heal"
+    ]
   },
   {
     "name": "Angry Sans Phases 1 + 2 RNG SUX No Hit",
@@ -181,7 +186,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
-    "sub": []
+    "sub": [
+      "Bad Time Trio by Kosh No Heal"
+    ]
   },
   {
     "name": "Bad Time Trio by McatR No Hit",
@@ -670,9 +677,9 @@
     "sub": []
   },
   {
-    "name": "Deltarune: Frozen Heart Noelle (Sparing Ending)",
+    "name": "Deltarune: Frozen Heart Noelle (Sparing Ending) No Hit",
     "tier": "Intermediate",
-    "ctype": "No Heal",
+    "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": []
@@ -788,7 +795,7 @@
     "sub": []
   },
   {
-    "name": "Disbelief Papyrus All Phases No Hit",
+    "name": "Unofficial Disbelief Papyrus All Phases No Hit",
     "tier": "Elite",
     "ctype": "No Hit",
     "game": "Other",
@@ -797,7 +804,8 @@
       "Unofficial Disbelief Papyrus Phase 1 No Hit",
       "Unofficial Disbelief Papyrus Phase 2 No Hit",
       "Unofficial Disbelief Papyrus Phase 3 No Hit",
-      "Unofficial Disbelief Papyrus Phase 4 No Hit"
+      "Unofficial Disbelief Papyrus Phase 4 No Hit",
+      "Unofficial Disbelief Papyrus All Phases No Item"
     ]
   },
   {
@@ -1079,7 +1087,7 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "Dusttale Sans by FDY Phases 1 + 2 No Item"
+      "Dusttale Sans by FDY Phases 1 + 2 No Heal"
     ]
   },
   {
@@ -1096,7 +1104,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": []
+    "sub": [
+      "Dusttrust Thanatos by Benlabno No Heal"
+    ]
   },
   {
     "name": "Edge ZY Phase 1 No Heal",
@@ -1179,7 +1189,7 @@
     "sub": []
   },
   {
-    "name": "EdgeTale Sans 3rd Run No Heal",
+    "name": "Edgetale Sans 3rd Run No Heal",
     "tier": "Master",
     "ctype": "No Heal",
     "game": "ZYDCN",
@@ -1605,7 +1615,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
-    "sub": []
+    "sub": [
+      "Ultimate Realm Ben by Shiqi Phase 1 No Heal"
+    ]
   },
   {
     "name": "Justicetale re-written Sans Fight by DLW Phase 1 No Heal",
@@ -1616,13 +1628,13 @@
     "sub": []
   },
   {
-    "name": "Justicetale re-written Sans fight by DLW Phase 1 No Hit",
+    "name": "Justicetale re-written Sans Fight by DLW Phase 1 No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "Justicetale re-written Sans fight by DLW Phase 1 No Heal"
+      "Justicetale re-written Sans Fight by DLW Phase 1 No Heal"
     ]
   },
   {
@@ -1854,7 +1866,8 @@
     "rtype": "Full Battle",
     "sub": [
       "Modernswap Phase 1 No Hit",
-      "Modernswap Phase 2 No Hit"
+      "Modernswap Phase 2 No Hit",
+      "Modernswap Phases 1 + 2 No Heal"
     ]
   },
   {
@@ -1925,7 +1938,10 @@
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": []
+    "sub": [
+      "Numbertale Phase 1 No Heal",
+      "Numbertale Phase 2 No Heal"
+    ]
   },
   {
     "name": "Numbertale Phases 1 + 2 No Hit",
@@ -1935,7 +1951,8 @@
     "rtype": "Full Battle",
     "sub": [
       "Numbertale Phase 1 No Hit",
-      "Numbertale Phase 2 No Hit"
+      "Numbertale Phase 2 No Hit", 
+      "Numbertale Phases 1 + 2 No Heal"
     ]
   },
   {
@@ -2069,7 +2086,8 @@
     "rtype": "Full Battle",
     "sub": [
       "OvertimeDell Fight by zhazha Phase 1 No Hit",
-      "OvertimeDell Fight by zhazha Phase 2 No Hit"
+      "OvertimeDell Fight by zhazha Phase 2 No Hit",
+      "OvertimeDell Fight by zhazha Phases 1 + 2 No Heal"
     ]
   },
   {
@@ -2310,7 +2328,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
-    "sub": []
+    "sub": [
+      "Spacedrift Phase 2 No Heal"
+    ]
   },
   {
     "name": "Spacedrift Phases 1 + 2 No Item",
@@ -2449,8 +2469,8 @@
     "game": "Other",
     "rtype": "Full Game Run",
     "sub": [
-      "Swapfell: I Hate You Asgore No Heal",
-      "Swapfell: I Hate You Asgore No Hit"
+      "SwApFell: I Hate You Asgore No Heal",
+      "SwApFell: I Hate You Asgore No Hit"
     ]
   },
   {
@@ -2578,7 +2598,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": []
+    "sub": [
+      "TS!Underswap Evacuation Crossbones No Heal"
+    ]
   },
   {
     "name": "TS!Underswap Genocide Crossbones No Hit",
@@ -2641,7 +2663,7 @@
     ]
   },
   {
-    "name": "TS!Underswap Papyrus by FDY Phases 1 + 2 (Orange Soul) No Hit",
+    "name": "TS!Underswap Papyrus by FDY Phases 1+2 (Orange Soul) No Hit",
     "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
@@ -2725,7 +2747,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": []
+    "sub": [
+      "Underfell Asgore Insane Mode No Heal"
+    ]
   },
   {
     "name": "Underfell One Hell of a Show Mettaton No Hit",
@@ -2769,7 +2793,9 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
-    "sub": []
+    "sub": [
+      "Underfell Plan Phase 1 Normal Damage No Item"
+    ]
   },
   {
     "name": "Underfell Plan Phase 1 Normal Damage No Item",
@@ -2784,7 +2810,7 @@
     "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
-    "rtype": "Full Battle",
+    "rtype": "Battle Phase",
     "sub": [
       "Underfell Plan Phase 2 Normal Mode No Heal"
     ]
@@ -2829,7 +2855,9 @@
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": []
+    "sub": [
+      "Underfell Stories from the Sea Phase 1 No Heal"
+    ]
   },
   {
     "name": "Underfell Stories from the Sea Phases 1 + 2 No Hit",
@@ -2969,7 +2997,9 @@
     "ctype": "No Heal",
     "game": "Undertale",
     "rtype": "Full Game Run",
-    "sub": []
+    "sub": [
+      "Undertale Sans No Heal"
+    ]
   },
   {
     "name": "Undertale Genocide No Hit Run",
@@ -3096,8 +3126,9 @@
       "Undertale Mad Dummy No Hit",
       "Undertale Mettaton EX No Hit",
       "Undertale Muffet No Hit",
-      "Undertale Neutral Undyne No Hit",
-      "Undertale Papyrus No Hit"
+      "Undertale Undyne (Neutral) No Hit",
+      "Undertale Papyrus No Hit",
+      "Undertale Toriel No Hit"
     ]
   },
   {
@@ -3453,7 +3484,7 @@
     "sub": [
       "UTY Dalv No Hit",
       "UTY Neutral Martlet No Hit",
-      "UTY Neutral El Balidor No Hit",
+      "UTY Neutral El Bailador No Hit",
       "UTY Feisty Four No Hit",
       "UTY Guardener No Hit",
       "UTY Neutral Axis No Hit",
@@ -3475,7 +3506,7 @@
     ]
   },
   {
-    "name": "Vehement No Hit",
+    "name": "Great Time Trio Remake Vehement No Hit",
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
