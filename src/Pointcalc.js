@@ -52,9 +52,9 @@ function Pointometer() {
         }
 
         setPressed(nextPressed);
-        setTotal(total + pointsDelta);
+        updateTotal(pointsDelta);
 
-        localStorage.setItem("selection", JSON.stringify(Array.from(nextPressed)))
+        localStorage.setItem("selection", JSON.stringify(Array.from(nextPressed).filter(c => c[1])))
     }
 
     function handleClickRecursive(nextPressed, state, key, amount) {
@@ -109,12 +109,11 @@ function iniScore(selection) {
 
     if (selection !== null) {
         selection.forEach((c) => {
-            if (c[1]) {
-                var challenge = challengeList.filter(ch => ch.name === c[0]);
-                if (challenge.length === 1) {
-                    var value = tiers.filter(t => t.name === challenge[0].tier);
-                    score += value[0].points;
-                }
+            var challenge = challengeList.find(ch => ch.name === c[0]);
+
+            if (challenge !== undefined) {
+                var value = tiers.find(t => t.name === challenge.tier).points;
+                score += value;
             }
         });
     }
