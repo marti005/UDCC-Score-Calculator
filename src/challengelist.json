@@ -2791,7 +2791,7 @@
     "name": "Underfell Plan Phase 1 No Hit",
     "tier": "Master",
     "ctype": "No Hit",
-    "game": "Other",
+    "game": "ZYDCN",
     "rtype": "Battle Phase",
     "sub": [
       "Underfell Plan Phase 1 Normal Damage No Item"
@@ -2801,7 +2801,7 @@
     "name": "Underfell Plan Phase 1 Normal Damage No Item",
     "tier": "Expert",
     "ctype": "No Heal",
-    "game": "Other",
+    "game": "ZYDCN",
     "rtype": "Battle Phase",
     "sub": []
   },
