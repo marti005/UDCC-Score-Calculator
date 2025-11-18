@@ -129,24 +129,6 @@
     ]
   },
   {
-    "name": "Aoharu Duo No Heal",
-    "tier": "Intermediate",
-    "ctype": "No Heal",
-    "game": "Other",
-    "rtype": "Survival Fight",
-    "sub": []
-  },
-  {
-    "name": "Aoharu Duo No Hit",
-    "tier": "Expert",
-    "ctype": "No Hit",
-    "game": "Other",
-    "rtype": "Survival Fight",
-    "sub": [
-      "Aoharu Duo No Heal"
-    ]
-  },
-  {
     "name": "B-TTale ESPE Sans No Heal",
     "tier": "Intermediate",
     "ctype": "No Heal",
