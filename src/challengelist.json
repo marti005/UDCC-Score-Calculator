@@ -3014,40 +3014,6 @@
     ]
   },
   {
-    "name": "Undertale Last Breath Phase 1 No Heal",
-    "tier": "Advanced",
-    "ctype": "No Heal",
-    "game": "Other",
-    "rtype": "Battle Phase",
-    "sub": []
-  },
-  {
-    "name": "Undertale Last Breath Phase 2 No Heal",
-    "tier": "Intermediate",
-    "ctype": "No Heal",
-    "game": "Other",
-    "rtype": "Battle Phase",
-    "sub": []
-  },
-  {
-    "name": "Undertale Last Breath Phase 2 No Hit",
-    "tier": "Master",
-    "ctype": "No Hit",
-    "game": "Other",
-    "rtype": "Battle Phase",
-    "sub": [
-      "Undertale Last Breath Phase 2 No Heal"
-    ]
-  },
-  {
-    "name": "Undertale Last Breath Phase 3 No Hit",
-    "tier": "Elite",
-    "ctype": "No Hit",
-    "game": "Other",
-    "rtype": "Survival Fight",
-    "sub": []
-  },
-  {
     "name": "Undertale Last Breath Scrapped Phase 1 No Heal",
     "tier": "Advanced",
     "ctype": "No Heal",
@@ -3085,14 +3051,6 @@
   },
   {
     "name": "Undertale Mad Dummy No Hit",
-    "tier": "Beginner",
-    "ctype": "No Hit",
-    "game": "Undertale",
-    "rtype": "Full Battle",
-    "sub": []
-  },
-  {
-    "name": "Undertale Mad Mew Mew No Hit",
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Undertale",
@@ -3238,14 +3196,6 @@
   {
     "name": "Undertale Wildfire Pacifist No Hit",
     "tier": "Beginner",
-    "ctype": "No Hit",
-    "game": "Other",
-    "rtype": "Full Battle",
-    "sub": []
-  },
-  {
-    "name": "Undertale: Tears in the Rain by Fired No Hit",
-    "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
