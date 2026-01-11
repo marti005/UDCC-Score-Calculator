@@ -9,6 +9,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  pull-requests: write
 
 jobs:
   build:
@@ -42,8 +43,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm ci
-      - run: git remote set-url --push origin https://your_username:$GITHUB_TOKEN@github.com/marti005/UDCC-Score-Calculator
-      - run: npm run deploy
+      - run: |
+          npm ci
+      - run: |
+          git remote set-url --push origin https://your_username:$GITHUB_TOKEN@github.com/marti005/UDCC-Score-Calculator
+      - run: |
+          npm run deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
