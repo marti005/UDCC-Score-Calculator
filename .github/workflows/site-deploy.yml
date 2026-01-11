@@ -51,10 +51,16 @@ jobs:
       - run: |
           npm ci
 
-      - name: Deploy changes to gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build optimized version
         run: |
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-          npm run deploy
+          npm run predeploy
+
+      - name: Commit & push site 
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        run: | 
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com" 
+          git config user.name "github-actions[bot]" 
+          git add -A build 
+          git commit -m "Deploy changes"
+          git push origin HEAD:gh-pages
