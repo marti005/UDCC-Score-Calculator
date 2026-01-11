@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "react-scripts": "^5.0.1"
+    "jsonlint": "^1.6.3",
+    "react-scripts": "^0.0.0"
   }
 }
