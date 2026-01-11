@@ -47,7 +47,9 @@ jobs:
           npm ci
       - run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: | 
           git config --local user.name "github-actions[bot]"
+      - run: |
           npm run deploy
       - uses: ad-m/github-push-action@master
         with:
