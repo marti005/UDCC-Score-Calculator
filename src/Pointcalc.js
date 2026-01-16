@@ -23,6 +23,8 @@ function Pointometer() {
 
     const [dependencies, setDependencies] = useState(false);
 
+    const [bucketList, setBucketList] = useState(false);
+
     function handleClick(challenge) {
         var tmp = Array.from(pressed).slice();
         var nextPressed = new Map(tmp);
@@ -93,7 +95,7 @@ function Pointometer() {
 
     return (
         <>
-        <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies}/>
+        <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies} bucketListSet={setBucketList}/>
 
         <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
 
