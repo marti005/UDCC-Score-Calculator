@@ -26,35 +26,35 @@
     "sub": []
   },
   {
-    "name": "Altertale by Shiqi Phase 1 No Hit",
+    "name": "Altertale by Shiqi Unbalanced Mode Phase 1 No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "Altertale by Shiqi Phase 1 No Heal"
+      "Altertale by Shiqi Unbalanced Mode Phase 1 No Heal"
     ]
   },
   {
-    "name": "Altertale by Shiqi Phase 2 No Hit",
+    "name": "Altertale by Shiqi Unbalanced Mode Phase 2 No Hit",
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "Altertale by Shiqi Phase 2 No Heal"
+      "Altertale by Shiqi Unbalanced Mode Phase 2 No Heal"
     ]
   },
   {
-    "name": "Altertale by Shiqi Phase 1 No Heal",
-    "tier": "Expert",
+    "name": "Altertale by Shiqi Unbalanced Mode Phase 1 No Heal",
+    "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": []
   },
   {
-    "name": "Altertale by Shiqi Phase 2 No Heal",
+    "name": "Altertale by Shiqi Unbalanced Mode Phase 2 No Heal",
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
