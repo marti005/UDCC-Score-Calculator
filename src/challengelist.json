@@ -477,8 +477,9 @@
     "rtype": "Full Game Run",
     "sub": [
       "Deltarune Chapter 1 + 2 No Heal Run",
-      "Deltarune Chapter 1 No Hit Run",
+      "Deltarune Chapter 1 No Hit Run"
     ]
+  },
   {
     "name": "Deltarune Chapters 1-4 No Hit Run",
     "tier": "Grandmaster",
@@ -489,7 +490,7 @@
       "Deltarune Chapter 1 + 2 No Heal Run",
       "Deltarune Chapter 1 No Hit Run",
       "Deltarune Chapter 3 No Hit Run",
-      "Deltarune Chapter 4 No Hit Run",
+      "Deltarune Chapter 4 No Hit Run"
     ]
   },
   {
@@ -1451,6 +1452,7 @@
     "game": "Other",
     "rtype": "Survival Fight",
     "sub": []
+  },
   {
     "name": "Great Time Trio Remake Reanimation No Hit",
     "tier": "Expert",
