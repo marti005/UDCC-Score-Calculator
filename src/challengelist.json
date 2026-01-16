@@ -27,7 +27,7 @@
   },
   {
     "name": "Altertale by Shiqi Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "name": "Deltarune Chapter 1 + 2 No Hit Run",
+    "name": "Deltarune Chapters 1 + 2 No Hit Run",
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Deltarune",
@@ -478,7 +478,18 @@
     "sub": [
       "Deltarune Chapter 1 + 2 No Heal Run",
       "Deltarune Chapter 1 No Hit Run",
-      "Deltarune Chapter 2 Main Route No Hit Run"
+    ]
+  {
+    "name": "Deltarune Chapters 1-4 No Hit Run",
+    "tier": "Grandmaster",
+    "ctype": "No Hit",
+    "game": "Deltarune",
+    "rtype": "Full Game Run",
+    "sub": [
+      "Deltarune Chapter 1 + 2 No Heal Run",
+      "Deltarune Chapter 1 No Hit Run",
+      "Deltarune Chapter 3 No Hit Run",
+      "Deltarune Chapter 4 No Hit Run",
     ]
   },
   {
@@ -686,7 +697,7 @@
   },
   {
     "name": "Deltarune Tenna No Hit",
-    "tier": "Intermediate",
+    "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -814,6 +825,22 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
+    "sub": []
+  },
+  {
+    "name": "Disbelief Hard Mode by ACDD Phase 1 No Hit",
+    "tier": "Expert",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+  },
+  {
+    "name": "Disbelief Hard Mode by ACDD Phase 2 No Hit",
+    "tier": "Master",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
     "sub": []
   },
   {
@@ -1009,6 +1036,14 @@
     "sub": []
   },
   {
+    "name": "Dusttale Obitus No Hit",
+    "tier": "Intermediate",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Survival Fight",
+    "sub": []
+  },
+  {
     "name": "Dusttale Rikuhachima No Hit",
     "tier": "Master",
     "ctype": "No Hit",
@@ -1030,6 +1065,22 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
+    "sub": []
+  },
+  {
+    "name": "Dusttrust Finale by DEL Phase 1 No Hit",
+    "tier": "Expert",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+  },
+  {
+    "name": "Dusttrust Finale by DEL Phase 2 No Hit",
+    "tier": "Master",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
     "sub": []
   },
   {
@@ -1059,6 +1110,14 @@
   {
     "name": "Dustbelief Sans by Bricky No Hit",
     "tier": "Intermediate",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": []
+  },
+  {
+    "name": "Dustbelief Sans Encounter by Swagbob No Hit",
+    "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1380,6 +1439,21 @@
   {
     "name": "Great Time Trio Remake Great Time Villains Encore No Hit",
     "tier": "Beginner",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Survival Fight",
+    "sub": []
+  },
+  {
+    "name": "Great Time Trio Remake Angelovania No Hit",
+    "tier": "Expert",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Survival Fight",
+    "sub": []
+  {
+    "name": "Great Time Trio Remake Reanimation No Hit",
+    "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1767,8 +1841,16 @@
     "game": "ZYDCN",
     "rtype": "Full Battle",
     "sub": [
-      "Lifefield Papyrus No Heal"
+      "Lifefiled Papyrus No Heal"
     ]
+  },
+  {
+    "name": "Lifefield Sans by Kokakola No Hit",
+    "tier": "Elite",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": []
   },
   {
     "name": "Mike's Big Showdown No Item/No Healing ACT",
@@ -2053,6 +2135,14 @@
     "sub": [
       "OS-T Sudden Changes Sans Phase 1 Normal Mode No Heal"
     ]
+  },
+  {
+    "name": "OvertimeDell Fight by GermanPeter No Hit",
+    "tier": "Advanced",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": []
   },
   {
     "name": "OvertimeDell Fight by zhazha Phase 1 No Hit",
@@ -2672,6 +2762,14 @@
       "TS!Underswap Papyrus by FDY Phase 1 No Hit",
       "TS!Underswap Papyrus by FDY Phase 2 (Orange soul only) No Hit"
     ]
+  },
+  {
+    "name": "TS!Underswap Papyrus by Team Unizone Phase 1 No Hit",
+    "tier": "Beginner",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
   },
   {
     "name": "ULB Scrapped Phase 2 by RTF No Heal",
