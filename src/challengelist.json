@@ -78,7 +78,7 @@
     "sub": []
   },
   {
-    "name": "Angry Sans Phase 1 RNG SUX Normal Mode No Hit",
+    "name": "Angry Sans Phase 1 RNG SUX No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
@@ -96,7 +96,7 @@
     "sub": []
   },
   {
-    "name": "Angry Sans Phase 2 RNG SUX Normal Mode No Hit",
+    "name": "Angry Sans Phase 2 RNG SUX No Hit",
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
@@ -123,8 +123,8 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "Angry Sans Phase 1 RNG SUX Normal Mode No Hit",
-      "Angry Sans Phase 2 RNG SUX Normal Mode No Hit",
+      "Angry Sans Phase 1 RNG SUX No Hit",
+      "Angry Sans Phase 2 RNG SUX No Hit",
       "Angry Sans Phases 1 + 2 RNG SUX Normal Mode No Heal"
     ]
   },
@@ -199,7 +199,7 @@
     "sub": []
   },
   {
-    "name": "BS!Natural Origins Papyrus fight by zhazha No Hit",
+    "name": "BS!Natural Origins Papyrus by zhazha No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
@@ -244,7 +244,7 @@
     ]
   },
   {
-    "name": "Chaos' End Asriel Light Frisk Fight No Heal",
+    "name": "Chaos' End Asriel Light Frisk No Heal",
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
@@ -252,13 +252,13 @@
     "sub": []
   },
   {
-    "name": "Chaos' End Asriel Light Frisk Fight No Hit",
+    "name": "Chaos' End Asriel Light Frisk No Hit",
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "Chaos' End Asriel Light Frisk Fight No Heal"
+      "Chaos' End Asriel Light Frisk No Heal"
     ]
   },
   {
@@ -269,7 +269,7 @@
     "rtype": "Full Battle",
     "sub": [
       "Chaos' End Asriel Phases 1 + 2 No Hit",
-      "Chaos' End Asriel Light Frisk Fight No Hit"
+      "Chaos' End Asriel Light Frisk No Hit"
     ]
   },
   {
@@ -357,7 +357,7 @@
     "sub": []
   },
   {
-    "name": "Chapter 4: Angelic Altercation No Hit",
+    "name": "Deltarune: Reimagined Angelic Altercation No Hit",
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Other",
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "name": "Deltarune Chapter 1 + 2 All Bosses No Hit Run",
+    "name": "Deltarune Chapters 1 + 2 All Bosses No Hit Run",
     "tier": "Elite",
     "ctype": "No Hit",
     "game": "Deltarune",
@@ -455,11 +455,11 @@
     "sub": [
       "Deltarune Chapter 1 All Bosses No Hit Run",
       "Deltarune Chapter 2 All Bosses No Hit Run",
-      "Deltarune Chapter 1 + 2 No Hit Run"
+      "Deltarune Chapters 1 + 2 No Hit Run"
     ]
   },
   {
-    "name": "Deltarune Chapter 1 + 2 No Heal Run",
+    "name": "Deltarune Chapters 1 + 2 No Heal Run",
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Deltarune",
@@ -476,7 +476,7 @@
     "game": "Deltarune",
     "rtype": "Full Game Run",
     "sub": [
-      "Deltarune Chapter 1 + 2 No Heal Run",
+      "Deltarune Chapters 1 + 2 No Heal Run",
       "Deltarune Chapter 1 No Hit Run"
     ]
   },
@@ -487,7 +487,7 @@
     "game": "Deltarune",
     "rtype": "Full Game Run",
     "sub": [
-      "Deltarune Chapter 1 + 2 No Heal Run",
+      "Deltarune Chapters 1 + 2 No Heal Run",
       "Deltarune Chapter 1 No Hit Run",
       "Deltarune Chapter 3 No Hit Run",
       "Deltarune Chapter 4 No Hit Run"
@@ -727,7 +727,7 @@
     "game": "Deltarune",
     "rtype": "Full Game Run",
     "sub": [
-      "Deltarune Chapter 1 + 2 All Bosses No Hit Run",
+      "Deltarune Chapters 1 + 2 All Bosses No Hit Run",
       "Deltarune Chapter 2 Snowgrave Route No Hit Run",
       "Deltarune Chapter 2 All Recruits No Hit Run"
     ]
@@ -959,7 +959,7 @@
     ]
   },
   {
-    "name": "DTMC Papyrus No Heal",
+    "name": "DTMC Papyrus 100% Difficulty No Heal",
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
@@ -973,11 +973,11 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "DTMC Papyrus No Heal"
+      "DTMC Papyrus 100% Difficulty No Heal"
     ]
   },
   {
-    "name": "DTMC River Person No Heal",
+    "name": "DTMC River Person 100% Difficulty No Heal",
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
@@ -991,7 +991,7 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "DTMC River Person No Heal"
+      "DTMC River Person 100% Difficulty No Heal"
     ]
   },
   {
@@ -1003,7 +1003,7 @@
     "sub": []
   },
   {
-    "name": "DTMC Sans Act 2 No Item",
+    "name": "DTMC Sans Act 2 100% Difficulty No Item",
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "Other",
@@ -1017,7 +1017,7 @@
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "DTMC Sans Act 2 No Item"
+      "DTMC Sans Act 2 100% Difficulty No Item"
     ]
   },
   {
@@ -1133,7 +1133,7 @@
     "sub": []
   },
   {
-    "name": "Dusttale Sans by FDY Phases 1 + 2 No Heal",
+    "name": "Dusttale Sans by FDY Phases 1 + 2 No Item",
     "tier": "Elite",
     "ctype": "No Heal",
     "game": "Other",
@@ -1147,7 +1147,7 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "Dusttale Sans by FDY Phases 1 + 2 No Heal"
+      "Dusttale Sans by FDY Phases 1 + 2 No Item"
     ]
   },
   {
@@ -1169,7 +1169,7 @@
     ]
   },
   {
-    "name": "Edge ZY Phase 1 No Heal",
+    "name": "Edgetale ZY Phase 1 No Heal",
     "tier": "Intermediate",
     "ctype": "No Heal",
     "game": "ZYDCN",
@@ -1177,13 +1177,13 @@
     "sub": []
   },
   {
-    "name": "Edge ZY Phase 1 No Hit",
+    "name": "Edgetale ZY Phase 1 No Hit",
     "tier": "Master",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
     "sub": [
-      "Edge ZY Phase 1 No Heal"
+      "Edgetale ZY Phase 1 No Heal"
     ]
   },
   {
@@ -1249,7 +1249,7 @@
     "sub": []
   },
   {
-    "name": "Edgetale Sans 3rd Run No Heal",
+    "name": "Edgetale Sans 3rd Run No Item/Act Heal",
     "tier": "Master",
     "ctype": "No Heal",
     "game": "ZYDCN",
@@ -1263,7 +1263,7 @@
     "game": "ZYDCN",
     "rtype": "Battle Phase",
     "sub": [
-      "Edgetale Sans 3rd Run No Heal"
+      "Edgetale Sans 3rd Run No Item/Act Heal"
     ]
   },
   {
@@ -1386,7 +1386,7 @@
     ]
   },
   {
-    "name": "Final Judgment Rerun No Hit",
+    "name": "Great Time Trio Remake Final Judgment Rerun No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
@@ -1696,7 +1696,7 @@
     ]
   },
   {
-    "name": "Justicetale re-written Sans Fight by DLW Phase 1 No Heal",
+    "name": "Justicetale re-written Sans by DLW Phase 1 No Heal",
     "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
@@ -1704,13 +1704,13 @@
     "sub": []
   },
   {
-    "name": "Justicetale re-written Sans Fight by DLW Phase 1 No Hit",
+    "name": "Justicetale re-written Sans by DLW Phase 1 No Hit",
     "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "Justicetale re-written Sans Fight by DLW Phase 1 No Heal"
+      "Justicetale Re-written Sans by DLW Phase 1 No Heal"
     ]
   },
   {
@@ -1800,7 +1800,7 @@
     ]
   },
   {
-    "name": "Lethetale Phase 2 No Heal",
+    "name": "Lethetale Phase 2 No Item",
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "ZYDCN",
@@ -1814,18 +1814,18 @@
     "game": "ZYDCN",
     "rtype": "Battle Phase",
     "sub": [
-      "Lethetale Phase 2 No Heal"
+      "Lethetale Phase 2 No Item"
     ]
   },
   {
-    "name": "Lethetale Phases 1 + 2 No Heal",
+    "name": "Lethetale Phases 1 + 2 No Item",
     "tier": "Master",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
     "sub": [
       "Lethetale Phase 1 No Heal",
-      "Lethetale Phase 2 No Heal"
+      "Lethetale Phase 2 No Item"
     ]
   },
   {
@@ -2017,7 +2017,7 @@
     ]
   },
   {
-    "name": "Numbertale Phases 1 + 2 No Heal",
+    "name": "Numbertale Phases 1 + 2 No Item",
     "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
@@ -2036,7 +2036,7 @@
     "sub": [
       "Numbertale Phase 1 No Hit",
       "Numbertale Phase 2 No Hit", 
-      "Numbertale Phases 1 + 2 No Heal"
+      "Numbertale Phases 1 + 2 No Item"
     ]
   },
   {
@@ -2321,7 +2321,7 @@
     "sub": []
   },
   {
-    "name": "Shadbroketale Sans Fight by zhazha No Heal",
+    "name": "Shadbroketale Sans by zhazha No Heal",
     "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
@@ -2515,7 +2515,7 @@
     "sub": []
   },
   {
-    "name": "Storyshift Chara Core Fight No Hit",
+    "name": "Storyshift Chara Core Encounter No Hit",
     "tier": "Advanced",
     "ctype": "No Hit",
     "game": "Other",
@@ -2669,7 +2669,7 @@
     "sub": []
   },
   {
-    "name": "TS!Underswap Evacuation Crossbones No Heal",
+    "name": "TS!Underswap Evacuation Sans No Heal",
     "tier": "Beginner",
     "ctype": "No Heal",
     "game": "Other",
@@ -2677,13 +2677,13 @@
     "sub": []
   },
   {
-    "name": "TS!Underswap Evacuation Crossbones No Hit",
+    "name": "TS!Underswap Evacuation Sans No Hit",
     "tier": "Intermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "TS!Underswap Evacuation Crossbones No Heal"
+      "TS!Underswap Evacuation Sans No Heal"
     ]
   },
   {
@@ -2737,7 +2737,7 @@
     "sub": []
   },
   {
-    "name": "TS!Underswap Papyrus by FDY Phase 2 (Orange soul only) No Hit",
+    "name": "TS!Underswap Papyrus by FDY Phase 2 (Orange Soul) No Hit",
     "tier": "Mythic",
     "ctype": "No Hit",
     "game": "Other",
@@ -2747,14 +2747,14 @@
     ]
   },
   {
-    "name": "TS!Underswap Papyrus by FDY Phases 1+2 (Orange Soul) No Hit",
+    "name": "TS!Underswap Papyrus by FDY Phases 1 + 2 (Orange Soul) No Hit",
     "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
       "TS!Underswap Papyrus by FDY Phase 1 No Hit",
-      "TS!Underswap Papyrus by FDY Phase 2 (Orange soul only) No Hit"
+      "TS!Underswap Papyrus by FDY Phase 2 (Orange Soul) No Hit"
     ]
   },
   {
@@ -2862,7 +2862,7 @@
     "sub": []
   },
   {
-    "name": "Underfell One Hell of a Show Alphys No Heal",
+    "name": "Underfell One Hell of a Show Alphys LV1 No Heal",
     "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
@@ -2876,7 +2876,7 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "Underfell One Hell of a Show Alphys No Heal"
+      "Underfell One Hell of a Show Alphys LV1 No Heal"
     ]
   },
   {
@@ -2904,11 +2904,11 @@
     "game": "ZYDCN",
     "rtype": "Battle Phase",
     "sub": [
-      "Underfell Plan Phase 2 Normal Mode No Heal"
+      "Underfell Plan Phase 2 Normal Damage No Item"
     ]
   },
   {
-    "name": "Underfell Plan Phase 2 Normal Mode No Heal",
+    "name": "Underfell Plan Phase 2 Normal Damage No Item",
     "tier": "Master",
     "ctype": "No Heal",
     "game": "ZYDCN",
@@ -3176,7 +3176,7 @@
       "Undertale Mad Dummy No Hit",
       "Undertale Mettaton EX No Hit",
       "Undertale Muffet No Hit",
-      "Undertale Undyne (Neutral) No Hit",
+      "Undertale Neutral Undyne No Hit",
       "Undertale Papyrus No Hit",
       "Undertale Toriel No Hit"
     ]
@@ -3270,7 +3270,7 @@
     "sub": []
   },
   {
-    "name": "Undertale Undyne (Neutral) No Hit",
+    "name": "Undertale Neutral Undyne No Hit",
     "tier": "Beginner",
     "ctype": "No Hit",
     "game": "Undertale",
