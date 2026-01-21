@@ -38,6 +38,7 @@ body {
   margin: 0;
   background-color: black;
   color: white;
+  overflow-y: scroll;
 }
 
 #sidenav ul {
@@ -256,6 +257,16 @@ body {
   opacity: 90%;
   font-size: 8pt;
   font-family: '8bitoperator Regular';
+  line-height: 1.5;
+}
+
+.challengebutton {
+  color: black;
+}
+
+.challengebuttonbucket {
+  color: black;
+  background-color: gold;
 }
 
 .challengebuttonpressed {

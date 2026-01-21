@@ -12,8 +12,20 @@ function TableHeader({tier}) {
     )
 }
 
-function TableElement({name, isPressed, onChallengeClick}) {
-    var cname = isPressed ? "challengebuttonpressed" : "challengebutton";
+function TableElement({name, state, onChallengeClick}) {
+    var cname = "challengebutton";
+    
+    switch(state) {
+        case 1: 
+            cname = "challengebuttonpressed";
+            break;
+        case 2: 
+            cname = "challengebuttonbucket";
+            break;
+    }
+
+    // Backwards compatibility
+    if (state == 1) cname = "challengebuttonpressed";
 
     return (
         <div className="buttoncontainer">
@@ -29,8 +41,8 @@ function Column({onClick, challenges, pressed}) {
         <>
             {challenges.map((c) => {
                 let key = c.name;
-                if (!pressed.has(key)) pressed.set(key, false);
-                return <TableElement key={key} name={key} isPressed={pressed.get(key)} onChallengeClick={() => onClick(c)}/>
+                if (!pressed.has(key)) pressed.set(key, 0);
+                return <TableElement key={key} name={key} state={pressed.get(key)} onChallengeClick={() => onClick(c)}/>
             })}
         </>
     );

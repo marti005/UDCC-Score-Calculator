@@ -35,7 +35,7 @@ function Searchbar({searchText, updateSearchText}) {
     )
 }
 
-export default function Sidebar({updateChallenges, clearSelection, dependencySet}) {
+export default function Sidebar({updateChallenges, clearSelection, dependencySet, bucketListSet}) {
     const [enabled, setEnabled] = useState(false);
 
     const [checked, setChecked] = useState([]);
@@ -50,6 +50,7 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
         clearFilter();
 
         dependencySet(false);
+        bucketListSet(false);
     }
     
     function clearFilter() {
@@ -58,6 +59,7 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
 
         setFilter(newFilter);
         setSearchText(newText);
+        
         filterChallenges(newFilter, newText);
     }
 
@@ -105,6 +107,14 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
         dependencySet(nextChecked[id]);
     }
 
+    function updateBucketListCheckbox(id) {
+        var nextChecked = checked.slice();
+        nextChecked[id] = !nextChecked[id];
+        setChecked(nextChecked);
+
+        bucketListSet(nextChecked[id]);
+    }
+
     if (enabled) {
         var filterCategories = [];
         var i = 0;
@@ -121,10 +131,16 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
             filterCategories.push(<div key={index}><div className="catName">{cat.name}</div><div>{filterOptions}</div></div>);
         });
 
-        ++id;
+        var isChecked
         var otherCheckboxes = [];
-        var isChecked = checked[id] === undefined ? false : checked[id];
+        
+        ++id;
+        isChecked = checked[id] === undefined ? false : checked[id];
         otherCheckboxes.push(<Checkbox key={id} id={id} checked={isChecked} text="Autoselect dependencies" onChange={updateDependencyCheckbox} />)
+
+        ++id;
+        isChecked = checked[id] === undefined ? false : checked[id];
+        otherCheckboxes.push(<Checkbox key={id} id={id} checked={isChecked} text="Bucket list mode" onChange={updateBucketListCheckbox} />)
 
         return (
             <div id="sidenav">
