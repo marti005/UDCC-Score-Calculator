@@ -50,6 +50,7 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
         clearFilter();
 
         dependencySet(false);
+        bucketListSet(false);
     }
     
     function clearFilter() {
@@ -58,6 +59,7 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
 
         setFilter(newFilter);
         setSearchText(newText);
+        
         filterChallenges(newFilter, newText);
     }
 
