@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UDCC-Score-Calculator/static/css/main.5fd4c28c.css",
-    "main.js": "/UDCC-Score-Calculator/static/js/main.71685b69.js",
+    "main.css": "/UDCC-Score-Calculator/static/css/main.b781733a.css",
+    "main.js": "/UDCC-Score-Calculator/static/js/main.cbf0f538.js",
     "static/media/bg.png": "/UDCC-Score-Calculator/static/media/bg.998898ac28ea6c57c81e.png",
     "static/media/8bitoperator.woff": "/UDCC-Score-Calculator/static/media/8bitoperator.d057233e4b8d3001e46c.woff",
     "index.html": "/UDCC-Score-Calculator/index.html",
-    "main.5fd4c28c.css.map": "/UDCC-Score-Calculator/static/css/main.5fd4c28c.css.map",
-    "main.71685b69.js.map": "/UDCC-Score-Calculator/static/js/main.71685b69.js.map"
+    "main.b781733a.css.map": "/UDCC-Score-Calculator/static/css/main.b781733a.css.map",
+    "main.cbf0f538.js.map": "/UDCC-Score-Calculator/static/js/main.cbf0f538.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fd4c28c.css",
-    "static/js/main.71685b69.js"
+    "static/css/main.b781733a.css",
+    "static/js/main.cbf0f538.js"
   ]
 }
