@@ -37,7 +37,7 @@ function Pointometer() {
 
         setPressed(nextPressed);
 
-        var selection = Array.from(nextPressed).filter(c => c[1] > 0)
+        var selection = Array.from(nextPressed).filter(c => c[1] != States.Incomplete)
         setTotal(calcScore(selection));
         localStorage.setItem("selection", JSON.stringify(selection))
     }
@@ -69,11 +69,7 @@ function Pointometer() {
                     }
                     break;
             }
-        } else {
-            if (pressed.get(key) === States.Completed && bucketList) state = States.Completed;
-            //if (state !== States.Completed && pressed.get(key) === States.Completed) {
-            //} else if (!bucketList) ;
-        }
+        } else if (pressed.get(key) === States.Completed && bucketList) state = States.Completed;
 
         nextPressed.set(key, state);
         
