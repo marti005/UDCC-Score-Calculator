@@ -171,13 +171,18 @@ body {
   border-image: url("./img/border.png") 30 round;
   border-image-outset: 13px;
   background-color: black;
-  display: table;
 }
 
 #total h1 {
-  display: table-cell;
+  text-align: center;
   vertical-align: middle;
   font-size: 22pt;
+  margin: 0;
+}
+
+#total h2 {
+  margin: 1px;
+  color: gold;
 }
 
 @media only screen and (max-width: 600px) {
@@ -186,11 +191,18 @@ body {
     height: 70px;
     padding: 0;
     right: 15px;
+    border: 15px solid transparent;
+    border-image: url("./img/border.png") 30 round;
+    border-image-outset: 8px;
   }
 
   #total h1 {
     font-size: 14pt;
     margin: auto;
+  }
+
+  #total h2 {
+    font-size: 9pt;
   }
 }
 

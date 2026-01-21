@@ -12,11 +12,14 @@ export const States = {
     Bucket_List: 2
 }
 
+
 function Pointometer() {
     var selection = JSON.parse(localStorage.getItem("selection"));
 
-    //TOTAL HANDLERS
-    const [total, setTotal] = useState(calcScore(selection));
+    //SCORE HANDLERS
+    var iniScore = calcScore(selection);
+    const [total, setTotal] = useState(iniScore[0]);
+    const [bucketListScore, setBucketListScore] = useState(iniScore[1])
 
     //CHALLENGE BUTTON HANDLERS
     const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
@@ -38,7 +41,9 @@ function Pointometer() {
         setPressed(nextPressed);
 
         var selection = Array.from(nextPressed).filter(c => c[1] != States.Incomplete)
-        setTotal(calcScore(selection));
+        var score = calcScore(selection);
+        setTotal(score[0]);
+        setBucketListScore(score[1]);
         localStorage.setItem("selection", JSON.stringify(selection))
     }
 
@@ -83,6 +88,7 @@ function Pointometer() {
 
     function clearSelection() {
         setTotal(0);
+        setBucketListScore(0);
 
         setPressed(new Map());
         localStorage.setItem("selection", JSON.stringify([]))
@@ -96,6 +102,7 @@ function Pointometer() {
 
         <div id="total">
             <h1>{total} points</h1>
+            <h2>+{bucketListScore} in bucket list</h2>
         </div>
         </>
     );
@@ -103,19 +110,21 @@ function Pointometer() {
 
 function calcScore(selection) {
     var score = 0;
+    var bucketScore = 0;
 
     if (selection !== null) {
         selection.forEach((c) => {
             var challenge = challengeList.find(ch => ch.name === c[0]);
 
-            if (challenge !== undefined && (c[1] === States.Completed || c[1] === true)) {
+            if (challenge !== undefined) {
                 var value = tiers.find(t => t.name === challenge.tier).points;
-                score += value;
+                if (c[1] === States.Completed || c[1] === true) score += value;
+                else if (c[1] === States.Bucket_List) bucketScore += value; 
             }
         });
     }
 
-    return score;
+    return [score, bucketScore];
 }
 
 export default function App() {
