@@ -417,6 +417,22 @@
     ]
   },
   {
+    "name": "Delirium of Aeons Silence Echo Normal Difficulty No Item",
+    "tier": "Master",
+    "ctype": "No Heal",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": []
+  },
+  {
+    "name": "Delirium of Aeons Silence Echo Easy Difficulty No Hit",
+    "tier": "Grandmaster",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": []
+  },
+  {
     "name": "Deltarune Chapter 1 All Bosses No Hit Run",
     "tier": "Advanced",
     "ctype": "No Hit",
@@ -959,6 +975,33 @@
     ]
   },
   {
+    "name": "DTLG Phase 4 No Hit",
+    "tier": "Expert",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Survival Fight",
+    "sub": [
+      "DTLG Phase 4 No Heal"
+    ]
+  },
+  {
+    "name": "DTLG Phases 1-4 No Hit",
+    "tier": "Mythic",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": [
+      "DTLG Phase 4 No Heal",
+      "DTLG Phase 4 No Hit",
+      "DTLG Phase 3 No Hit",
+      "DTLG Phase 3 No Item",
+      "DTLG Phase 2 No Hit",
+      "DTLG Phase 2 No Item",
+      "DTLG Phase 1 No Hit",
+      "DTLG Phase 1 No Heal"
+    ]
+  },
+  {
     "name": "DTMC Papyrus 100% Difficulty No Heal",
     "tier": "Intermediate",
     "ctype": "No Heal",
@@ -1142,7 +1185,7 @@
   },
   {
     "name": "Dusttale Sans by FDY Phases 1 + 2 No Hit",
-    "tier": "Champion",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1981,6 +2024,24 @@
     ]
   },
   {
+    "name": "NK!Sans Remake by NnN v0.45 First Half No Heal",
+    "tier": "Elite",
+    "ctype": "No Heal",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+  },
+  {
+    "name": "NK!Sans Remake by NnN v0.45 Full Fight No Heal",
+    "tier": "Grandmaster",
+    "ctype": "No Heal",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": [
+      "NK!Sans Remake by NnN v0.45 First Half No Heal"
+      ]
+  },
+  {
     "name": "Numbertale Phase 1 No Heal",
     "tier": "Intermediate",
     "ctype": "No Heal",
@@ -2548,6 +2609,17 @@
   },
   {
     "name": "SwApFell: I Hate You Area 1 Bloodspear No Hit",
+    "tier": "Master",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Game Run",
+    "sub": [
+      "SwApFell: I Hate You Asgore No Heal",
+      "SwApFell: I Hate You Asgore No Hit"
+    ]
+    },
+    {
+    "name": "SwApFell: I Hate You Area 1 Peacemaker No Hit",
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
