@@ -274,7 +274,7 @@
   },
   {
     "name": "Chaos' End Asriel Phase 1 No Item",
-    "tier": "Expert",
+    "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1999,7 +1999,7 @@
   },
   {
     "name": "Niheme Underfell Sans No Hit",
-    "tier": "Mythic",
+    "tier": "Champion",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
