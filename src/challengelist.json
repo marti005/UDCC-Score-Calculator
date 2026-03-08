@@ -1807,9 +1807,9 @@
     "sub": []
   },
   {
-    "name": "Legacy Dusttrust Phase 4 by FDY No Heal",
+    "name": "Legacy Dusttrust Phase 4 by FDY No Hit",
     "tier": "Expert",
-    "ctype": "No Heal",
+    "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": []
