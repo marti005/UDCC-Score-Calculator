@@ -18,7 +18,7 @@
     ]
   },
   {
-    "name": "Afterglory Phase 2 No Heal",
+    "name": "Afterglory Phase 2 1x Damage No Heal",
     "tier": "Master",
     "ctype": "No Heal",
     "game": "Other",
@@ -417,8 +417,8 @@
     ]
   },
   {
-    "name": "Delirium of Aeons Silence Echo Normal Difficulty No Item",
-    "tier": "Master",
+    "name": "Delirium of Aeons Silence Echo Normal Difficulty No Item/Act Heal",
+    "tier": "Expert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -634,7 +634,7 @@
   },
   {
     "name": "Deltarune ERAM/Mantle No Hit",
-    "tier": "Advanced",
+    "tier": "Intermediate",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Survival Fight",
@@ -1070,22 +1070,6 @@
     "sub": []
   },
   {
-    "name": "Dusttale Obitus No Hit",
-    "tier": "Intermediate",
-    "ctype": "No Hit",
-    "game": "Other",
-    "rtype": "Survival Fight",
-    "sub": []
-  },
-  {
-    "name": "Dusttale Rikuhachima No Hit",
-    "tier": "Master",
-    "ctype": "No Hit",
-    "game": "Other",
-    "rtype": "Survival Fight",
-    "sub": []
-  },
-  {
     "name": "Dusttrust by Angelo No Hit",
     "tier": "Advanced",
     "ctype": "No Hit",
@@ -1480,7 +1464,7 @@
   },
   {
     "name": "Great Time Trio Remake Angelovania No Hit",
-    "tier": "Expert",
+    "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1810,6 +1794,30 @@
     "name": "Legacy Dusttrust by zhazha Phase 1 No Hit",
     "tier": "Beginner",
     "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+  },
+  {
+    "name": "Legacy Dusttrust Phase 2 by FDY No Heal",
+    "tier": "Master",
+    "ctype": "No Heal",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+  },
+  {
+    "name": "Legacy Dusttrust Phase 4 by FDY No Heal",
+    "tier": "Expert",
+    "ctype": "No Heal",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+   },
+  {
+    "name": "Legacy Dusttrust Phase 5 by FDY No Heal",
+    "tier": "Champion",
+    "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": []
@@ -2810,7 +2818,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by FDY Phases 1+2 (Orange Soul) No Hit",
-    "tier": "Grandmaster",
+    "tier": "Champion",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3581,7 +3589,7 @@
   },
   {
     "name": "UTY Pacifist No Hit Run",
-    "tier": "Mythic",
+    "tier": "Champion",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Game Run",
@@ -3608,6 +3616,24 @@
       "UTY Genocide Axis No Hit",
       "UTY Zenith Martlet Phases 1 + 2 No Hit"
     ]
+  },
+  {
+    "name": "UTY Neutral No Hit Run",
+    "tier": "Grandmaster",
+    "ctype": "No Hit",
+    "game": "UTY",
+    "rtype": "Full Game Run",
+    "sub": [
+      "UTY Dalv No Hit",
+      "UTY Neutral Martlet No Hit",
+      "UTY Neutral El Bailador No Hit",
+      "UTY Feisty Four No Hit",
+      "UTY Guardener No Hit",
+      "UTY Neutral Axis No Hit",
+      "UTY Flowey Phase 1 No Hit",
+      "UTY Flowey Phase 2 No Hit",
+      "UTY Flowey Phases 1 + 2 No Hit"
+    ]    
   },
   {
     "name": "Great Time Trio Remake Vehement No Hit",
