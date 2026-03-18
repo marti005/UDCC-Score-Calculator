@@ -15,6 +15,7 @@ export const States = {
 
 function Pointometer() {
     var selection = JSON.parse(localStorage.getItem("selection"));
+    const sortedChallenges = challengeList.sort((a, b) => a.name.localeCompare(b.name));
 
     //SCORE HANDLERS
     var iniScore = calcScore(selection);
@@ -22,7 +23,7 @@ function Pointometer() {
     const [bucketListScore, setBucketListScore] = useState(iniScore[1])
 
     //CHALLENGE BUTTON HANDLERS
-    const [filteredChallenges, setFilteredChallenges] = useState(challengeList);
+    const [filteredChallenges, setFilteredChallenges] = useState(sortedChallenges);
     const [pressed, setPressed] = useState(new Map(selection));
 
     //OPTIONS HANDLERS
@@ -48,7 +49,7 @@ function Pointometer() {
     }
 
     function handleClickRecursive(nextPressed, state, key) {
-        var challenge = challengeList.find(c => c.name === key);
+        var challenge = sortedChallenges.find(c => c.name === key);
         
         if (state == null) {
             switch (pressed.get(key)) {
@@ -80,7 +81,7 @@ function Pointometer() {
         
         if (dependencies && challenge.sub.length > 0) {
             challenge.sub.map((s) => {
-                var sub = challengeList.find(s2 => s2.name == s);
+                var sub = sortedChallenges.find(s2 => s2.name == s);
                 handleClickRecursive(nextPressed, state, sub.name)
             })
         }
@@ -114,7 +115,7 @@ function calcScore(selection) {
 
     if (selection !== null) {
         selection.forEach((c) => {
-            var challenge = challengeList.find(ch => ch.name === c[0]);
+            var challenge = sortedChallenges.find(ch => ch.name === c[0]);
 
             if (challenge !== undefined) {
                 var value = tiers.find(t => t.name === challenge.tier).points;
@@ -126,6 +127,10 @@ function calcScore(selection) {
 
     return [score, bucketScore];
 }
+
+function challengeSort(a, b) {
+    return a.name.localeCompare(b.name);
+} 
 
 export default function App() {
     return <Pointometer />
