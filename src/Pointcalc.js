@@ -12,10 +12,10 @@ export const States = {
     Bucket_List: 2
 }
 
+const sortedChallenges = challengeList.sort((a, b) => a.name.localeCompare(b.name));
 
 function Pointometer() {
     var selection = JSON.parse(localStorage.getItem("selection"));
-    const sortedChallenges = challengeList.sort((a, b) => a.name.localeCompare(b.name));
 
     //SCORE HANDLERS
     var iniScore = calcScore(selection);
