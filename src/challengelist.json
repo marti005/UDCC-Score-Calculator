@@ -3276,13 +3276,7 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
-    "sub": [
-      "Undertale Help From the Void Phase 1 No Hit",
-      "Undertale Help From the Void Phase 2 No Hit",
-      "Undertale Help From the Void Phase 3 No Hit",
-      "Undertale Help From the Void Phase 4 No Hit",
-      "Undertale Help From the Void Phase 5 No Hit"
-    ]
+    "sub": []
   },
   {
     "name": "Undertale Help From the Void All Phases No Hit",
@@ -3290,7 +3284,13 @@
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
-    "sub": []
+    "sub": [
+      "Undertale Help From the Void Phase 1 No Hit",
+      "Undertale Help From the Void Phase 2 No Hit",
+      "Undertale Help From the Void Phase 3 No Hit",
+      "Undertale Help From the Void Phase 4 No Hit",
+      "Undertale Help From the Void Phase 5 No Hit"
+    ]
   },
   {
     "name": "Undertale Last Breath Scrapped Phase 1 No Heal",
