@@ -6,7 +6,7 @@ function TableHeader({tier}) {
                     {tier.name}
                 </div>
                 <div className="headerpoints">
-                    {tier.points} points
+                    {tier.points} UDCCoins
                 </div>
             </div>
     )

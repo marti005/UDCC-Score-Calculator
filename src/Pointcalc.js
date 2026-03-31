@@ -45,7 +45,7 @@ function Pointometer() {
         var score = calcScore(selection);
         setTotal(score[0]);
         setBucketListScore(score[1]);
-        localStorage.setItem("selection", JSON.stringify(selection))
+        //localStorage.setItem("selection", JSON.stringify(selection))
     }
 
     function handleClickRecursive(nextPressed, state, key) {
@@ -102,7 +102,7 @@ function Pointometer() {
         <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
 
         <div id="total">
-            <h1>{total} points</h1>
+            <h1>{total} UDCCoins</h1>
             <h2>+{bucketListScore} in bucket list</h2>
         </div>
         </>
