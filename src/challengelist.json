@@ -1,7 +1,7 @@
 [
   {
     "name": "Afterglory Phase 1 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Afterglory Phase 1 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Afterglory Phase 2 1x Damage No Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Altertale by Shiqi Unbalanced Mode Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Altertale by Shiqi Unbalanced Mode Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -47,7 +47,7 @@
   },
   {
     "name": "Altertale by Shiqi Unbalanced Mode Phase 1 Normal Damage No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Altertale by Shiqi Unbalanced Mode Phase 2 Normal Damage No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -63,7 +63,7 @@
   },
   {
     "name": "Altertale Toriel Fight by zhazha No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -71,7 +71,7 @@
   },
   {
     "name": "Angry Sans Phase 1 RNG SUX Normal Mode No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Angry Sans Phase 1 RNG SUX No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Angry Sans Phase 2 RNG SUX Normal Mode No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Angry Sans Phase 2 RNG SUX No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -107,7 +107,7 @@
   },
   {
     "name": "Angry Sans Phases 1 + 2 RNG SUX Normal Mode No Item",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Angry Sans Phases 1 + 2 RNG SUX No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -130,7 +130,7 @@
   },
   {
     "name": "Aoharu Duo No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -138,7 +138,7 @@
   },
   {
     "name": "Aoharu Duo No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -148,7 +148,7 @@
   },
   {
     "name": "B-TTale ESPE Sans No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -156,7 +156,7 @@
   },
   {
     "name": "B-TTale ESPE Sans No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -166,7 +166,7 @@
   },
   {
     "name": "Bad Monday Simulator No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -174,7 +174,7 @@
   },
   {
     "name": "Bad Time Trio by Kosh No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -182,7 +182,7 @@
   },
   {
     "name": "Bad Time Trio by McatR No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -190,7 +190,7 @@
   },
   {
     "name": "BS!Natural Origins Papyrus by zhazha No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -198,7 +198,7 @@
   },
   {
     "name": "Call of the Void Placek's Take No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -206,7 +206,7 @@
   },
   {
     "name": "Call of the Void Placek's Take No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -216,7 +216,7 @@
   },
   {
     "name": "Chaos Edition Hard Mode Jevil No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -224,7 +224,7 @@
   },
   {
     "name": "Chaos' End Asriel Phases 1 + 2 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Chaos' End Asriel Light Frisk No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -243,7 +243,7 @@
   },
   {
     "name": "Chaos' End Asriel Light Frisk No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Chaos' End All Phases No Hit",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -264,7 +264,7 @@
   },
   {
     "name": "Chaos' End Asriel Phase 1 No Item",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -272,7 +272,7 @@
   },
   {
     "name": "Chaos' End Asriel Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -282,7 +282,7 @@
   },
   {
     "name": "Chaos' End Asriel Phase 2 No Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -290,7 +290,7 @@
   },
   {
     "name": "Chaos' End Asriel Phase 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -300,7 +300,7 @@
   },
   {
     "name": "Chaotic Time Trio v0.3.8 Betrayer Sans Fight No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -308,7 +308,7 @@
   },
   {
     "name": "Chaotic Time Trio v0.3.8 Phase 1 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -316,7 +316,7 @@
   },
   {
     "name": "Chaotic Time Trio v0.3.8 Phase 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -324,7 +324,7 @@
   },
   {
     "name": "Chaotic Time Trio v0.3.8 Phase 3 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -332,7 +332,7 @@
   },
   {
     "name": "Chaotic Time Trio v0.3.8 Phase 4 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -340,7 +340,7 @@
   },
   {
     "name": "Classic Dusttrust No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -348,7 +348,7 @@
   },
   {
     "name": "Classic Dusttrust No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -358,7 +358,7 @@
   },
   {
     "name": "Deltarune: Reimagined Angelic Altercation No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -366,7 +366,7 @@
   },
   {
     "name": "Cookies and Cream No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -374,7 +374,7 @@
   },
   {
     "name": "Cocoon into Butterfly No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -382,7 +382,7 @@
   },
   {
     "name": "Covettale Papyrus No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -390,7 +390,7 @@
   },
   {
     "name": "Covettale Papyrus No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -400,7 +400,7 @@
   },
   {
     "name": "D-Tale Sans No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -408,7 +408,7 @@
   },
   {
     "name": "Delirium of Aeons No Item",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -416,7 +416,7 @@
   },
   {
     "name": "Delirium of Aeons No Hit",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -426,7 +426,7 @@
   },
   {
     "name": "Delirium of Aeons Silence Echo Normal Difficulty No Item/Act Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -434,7 +434,7 @@
   },
   {
     "name": "Delirium of Aeons Silence Echo Easy Difficulty No Hit",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -442,7 +442,7 @@
   },
   {
     "name": "Deltarune Chapter 1 All Bosses No Hit Run",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -453,7 +453,7 @@
   },
   {
     "name": "Deltarune Chapter 1 No Heal Run",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -461,7 +461,7 @@
   },
   {
     "name": "Deltarune Chapter 1 No Hit Run",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -472,7 +472,7 @@
   },
   {
     "name": "Deltarune Chapters 1 + 2 All Bosses No Hit Run",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -484,7 +484,7 @@
   },
   {
     "name": "Deltarune Chapters 1 + 2 No Heal Run",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -495,7 +495,7 @@
   },
   {
     "name": "Deltarune Chapters 1 + 2 No Hit Run",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -506,7 +506,7 @@
   },
   {
     "name": "Deltarune Chapters 1-4 No Hit Run",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -519,7 +519,7 @@
   },
   {
     "name": "Deltarune Chapter 2 All Bosses No Hit Run",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -530,7 +530,7 @@
   },
   {
     "name": "Deltarune Chapter 2 All Recruits No Hit Run",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -540,7 +540,7 @@
   },
   {
     "name": "Deltarune Chapter 2 Main Route No Hit Run",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -552,7 +552,7 @@
   },
   {
     "name": "Deltarune Chapter 2 No Heal Run",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -560,7 +560,7 @@
   },
   {
     "name": "Deltarune Chapter 2 Snowgrave Route No Hit Run",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -571,7 +571,7 @@
   },
   {
     "name": "Deltarune Chapter 3 All Bosses No Hit Run",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -582,7 +582,7 @@
   },
   {
     "name": "Deltarune Chapter 3 All Recruits No Hit Run",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -592,7 +592,7 @@
   },
   {
     "name": "Deltarune Chapter 3 No Hit Run",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -603,7 +603,7 @@
   },
   {
     "name": "Deltarune Chapter 4 All Bosses No Hit Run",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -614,7 +614,7 @@
   },
   {
     "name": "Deltarune Chapter 4 All Recruits No Hit Run",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -624,7 +624,7 @@
   },
   {
     "name": "Deltarune Chapter 4 No Hit Run",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -634,7 +634,7 @@
   },
   {
     "name": "Deltarune Chaser No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -642,7 +642,7 @@
   },
   {
     "name": "Deltarune ERAM/Mantle No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Survival Fight",
@@ -650,7 +650,7 @@
   },
   {
     "name": "Deltarune Giga Queen No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -658,7 +658,7 @@
   },
   {
     "name": "Deltarune Hammer of Justice Gerson No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -666,7 +666,7 @@
   },
   {
     "name": "Deltarune Jevil No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -674,7 +674,7 @@
   },
   {
     "name": "Deltarune King No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -682,7 +682,7 @@
   },
   {
     "name": "Deltarune Queen No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -690,7 +690,7 @@
   },
   {
     "name": "Deltarune Ribbit Mod No Hit Run",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Game Run",
@@ -698,7 +698,7 @@
   },
   {
     "name": "Deltarune Roaring Knight No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -706,7 +706,7 @@
   },
   {
     "name": "Deltarune Spamton NEO No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -714,7 +714,7 @@
   },
   {
     "name": "Deltarune: Frozen Heart Noelle (Sparing Ending) No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -722,7 +722,7 @@
   },
   {
     "name": "Deltarune Tenna No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -730,7 +730,7 @@
   },
   {
     "name": "Deltarune Titan No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -738,7 +738,7 @@
   },
   {
     "name": "Deltarune Titans Spamton Sigma No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -746,7 +746,7 @@
   },
   {
     "name": "Deltarune TRC1+2ABARTPEEG No Hit Run",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Game Run",
@@ -758,7 +758,7 @@
   },
   {
     "name": "Deltarune Upper Hand No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -768,7 +768,7 @@
   },
   {
     "name": "Deltarune Upper Hand No Item",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -776,7 +776,7 @@
   },
   {
     "name": "Deltarune: Frozen Heart Secret Noelle Fight No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -784,7 +784,7 @@
   },
   {
     "name": "Deltarune: Frozen Heart Spamton NEO No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -792,7 +792,7 @@
   },
   {
     "name": "Deltatraveler Flowey No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -800,7 +800,7 @@
   },
   {
     "name": "Deltatraveler Jerry No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -808,7 +808,7 @@
   },
   {
     "name": "Deltatraveler Paula and Ness No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -816,7 +816,7 @@
   },
   {
     "name": "Deltatraveler Porky No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -824,7 +824,7 @@
   },
   {
     "name": "Deltatraveler Underfell Sans No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -832,7 +832,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus All Phases No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -846,7 +846,7 @@
   },
   {
     "name": "Disbelief Papyrus Gaster Survival No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -854,7 +854,7 @@
   },
   {
     "name": "Disbelief Hard Mode by ACDD Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -862,7 +862,7 @@
   },
   {
     "name": "Disbelief Hard Mode by ACDD Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -870,7 +870,7 @@
   },
   {
     "name": "Disbelief Hard Mode by ACDD Phase 3 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -878,7 +878,7 @@
   },
   {
     "name": "Disbelief Hard Mode by ACDD Phase 4 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -886,7 +886,7 @@
   },
   {
     "name": "Disbelief Hard Mode by ACDD Phase 5 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -894,7 +894,7 @@
   },
   {
     "name": "Disbelief Papyrus Jevil Survival No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -902,7 +902,7 @@
   },
   {
     "name": "Distrust 2 Phase 1 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -910,15 +910,15 @@
   },
   {
     "name": "Distrust Angela (Modern) RNG SUX Normal Mode All Phases No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": []
   },
   {
-    "name": "DTGE Act 1 (Advanced Mode) No Heal",
-    "tier": "Advanced",
+    "name": "DTGE Act 1 (Grandadvanced Mode) No Heal",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -926,17 +926,17 @@
   },
   {
     "name": "DTGE Act 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "DTGE Act 1 (Advanced Mode) No Heal"
+      "DTGE Act 1 (Grandadvanced Mode) No Heal"
     ]
   },
   {
     "name": "DTLG Phase 1 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -944,7 +944,7 @@
   },
   {
     "name": "DTLG Phase 1 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -954,7 +954,7 @@
   },
   {
     "name": "DTLG Phase 2 No Item",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -962,7 +962,7 @@
   },
   {
     "name": "DTLG Phase 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -972,7 +972,7 @@
   },
   {
     "name": "DTLG Phase 3 No Item",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -980,7 +980,7 @@
   },
   {
     "name": "DTLG Phase 3 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -990,7 +990,7 @@
   },
   {
     "name": "DTLG Phase 4 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -998,7 +998,7 @@
   },
   {
     "name": "DTLG Phase 4 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1008,7 +1008,7 @@
   },
   {
     "name": "DTLG Phases 1-4 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "DTMC Papyrus 100% Difficulty No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "DTMC Papyrus No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1043,7 +1043,7 @@
   },
   {
     "name": "DTMC River Person 100% Difficulty No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1051,7 +1051,7 @@
   },
   {
     "name": "DTMC River Person No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "DTMC Sans Act 1 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1069,7 +1069,7 @@
   },
   {
     "name": "DTMC Sans Act 2 100% Difficulty No Item",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1077,7 +1077,7 @@
   },
   {
     "name": "DTMC Sans Act 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1087,7 +1087,7 @@
   },
   {
     "name": "DTMC vs Undyne No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1095,7 +1095,7 @@
   },
   {
     "name": "Dusttale by FDY Phase 3 No Heal",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1103,7 +1103,7 @@
   },
   {
     "name": "Dusttrust by Angelo No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "Dusttrust by Dingyspy No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1119,7 +1119,7 @@
   },
   {
     "name": "Dusttrust Finale by DEL Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1127,7 +1127,7 @@
   },
   {
     "name": "Dusttrust Finale by DEL Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1135,7 +1135,7 @@
   },
   {
     "name": "Dusttrust Finale Papyrus Encounter No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1143,7 +1143,7 @@
   },
   {
     "name": "Dusttrust Lunacy by DEL No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1151,7 +1151,7 @@
   },
   {
     "name": "Dustbelief Papyrus by Ari No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1159,7 +1159,7 @@
   },
   {
     "name": "Dustbelief Sans by Bricky No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1167,7 +1167,7 @@
   },
   {
     "name": "Dustbelief Sans Encounter by Swagbob No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1175,7 +1175,7 @@
   },
   {
     "name": "Dustbelief Sans by Dingspy No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1183,7 +1183,7 @@
   },
   {
     "name": "Dusttale Sans by FDY Phases 1 + 2 No Item",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "Dusttale Sans by FDY Phases 1 + 2 No Hit",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Dusttrust Thanatos by Benlabno No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1209,7 +1209,7 @@
   },
   {
     "name": "Dusttrust Thanatos by Benlabno No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1219,7 +1219,7 @@
   },
   {
     "name": "Edgetale ZY Phase 1 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1227,7 +1227,7 @@
   },
   {
     "name": "Edgetale ZY Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "EdgeEdge Half Damage No Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1245,7 +1245,7 @@
   },
   {
     "name": "EdgeEdge Lost Edge Hazard Level 6 (KR)",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1253,7 +1253,7 @@
   },
   {
     "name": "EdgeEdge Lost Edge No Hit",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1263,7 +1263,7 @@
   },
   {
     "name": "EdgeEdge Sans Normal Mode No Heal",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1273,7 +1273,7 @@
   },
   {
     "name": "EdgeEdge Sans No Hit",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1283,7 +1283,7 @@
   },
   {
     "name": "Edgetale Sans 1st Run No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Edgetale Sans 2nd Run No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1299,7 +1299,7 @@
   },
   {
     "name": "Edgetale Sans 3rd Run No Item/Act Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1307,7 +1307,7 @@
   },
   {
     "name": "Edgetale Sans 3rd Run No Hit",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1317,7 +1317,7 @@
   },
   {
     "name": "Endingsunrise Trio (Balanced Mode) No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1325,7 +1325,7 @@
   },
   {
     "name": "Endingtale Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1335,7 +1335,7 @@
   },
   {
     "name": "Endingtale Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Endingtale Phase 1 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1353,7 +1353,7 @@
   },
   {
     "name": "Endingtale Phase 2 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Endingtale Papyrus No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "Endingtale Phases 1 + 2 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1380,7 +1380,7 @@
   },
   {
     "name": "Endingtale Phases 1 + 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1392,7 +1392,7 @@
   },
   {
     "name": "Endingsunrise Trio (Balanced mode) No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1400,7 +1400,7 @@
   },
   {
     "name": "Error Sans by Benlabno No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1408,7 +1408,7 @@
   },
   {
     "name": "Error Sans by Benlabno No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1418,7 +1418,7 @@
   },
   {
     "name": "Eternal Fall Sans No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1426,7 +1426,7 @@
   },
   {
     "name": "Eternal Fall Sans No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1436,7 +1436,7 @@
   },
   {
     "name": "Great Time Trio Remake Final Judgment Rerun No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1444,7 +1444,7 @@
   },
   {
     "name": "Gemenatale No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1452,7 +1452,7 @@
   },
   {
     "name": "Genocide Asgore Blue Zenith Normal Mode No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1460,7 +1460,7 @@
   },
   {
     "name": "Genocide Asgore Normal Mode No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1468,7 +1468,7 @@
   },
   {
     "name": "Genocide Asgore Normal Mode No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1478,7 +1478,7 @@
   },
   {
     "name": "Great Time Trio Remake Great Time Villains Encore No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1486,7 +1486,7 @@
   },
   {
     "name": "Great Time Trio Remake Angelovania No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1494,7 +1494,7 @@
   },
   {
     "name": "Great Time Trio Remake Reanimation No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1502,7 +1502,7 @@
   },
   {
     "name": "Great Time Trio Remake MEGALOVANIA Encore No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1510,7 +1510,7 @@
   },
   {
     "name": "Great Time Trio Reanilovania No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1518,7 +1518,7 @@
   },
   {
     "name": "Great Time Trio Reanilovania No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1528,7 +1528,7 @@
   },
   {
     "name": "Great Time Trio Remake MEGALOVANIA Encore No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1536,7 +1536,7 @@
   },
   {
     "name": "Great Time Trio Remake Triple the Psychotic No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1544,7 +1544,7 @@
   },
   {
     "name": "Great Time Trio Remake Triple the Psychotic No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1554,7 +1554,7 @@
   },
   {
     "name": "Great Time Trio Trio of Hell Encore No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1562,7 +1562,7 @@
   },
   {
     "name": "Great Time Trio Trio of Hell Encore No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1572,7 +1572,7 @@
   },
   {
     "name": "Hard Mode Fresh Sans by HarryLTS No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1580,7 +1580,7 @@
   },
   {
     "name": "Hard Mode Fresh Sans by HarryLTS No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1590,7 +1590,7 @@
   },
   {
     "name": "Hard Mode Sans by HarryLTS No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1598,7 +1598,7 @@
   },
   {
     "name": "Hard Mode Sans by HarryLTS No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1608,7 +1608,7 @@
   },
   {
     "name": "Hello (BPM) 2023 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1616,7 +1616,7 @@
   },
   {
     "name": "Hide and Seek No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1624,7 +1624,7 @@
   },
   {
     "name": "Hide and Seek No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1634,7 +1634,7 @@
   },
   {
     "name": "Icebound Papyrus No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1642,7 +1642,7 @@
   },
   {
     "name": "Icebound Sans + Flowey No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1650,7 +1650,7 @@
   },
   {
     "name": "Idutshane No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1658,7 +1658,7 @@
   },
   {
     "name": "Ink JP No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1668,7 +1668,7 @@
   },
   {
     "name": "Ink JP No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1676,7 +1676,7 @@
   },
   {
     "name": "Ink Sans Phase 1 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1684,7 +1684,7 @@
   },
   {
     "name": "Ink Sans Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1694,7 +1694,7 @@
   },
   {
     "name": "Inverted Fate Papyrus by Uralisimus Normal Mode No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1702,7 +1702,7 @@
   },
   {
     "name": "Inverted Fate Sans by Proturba No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1710,7 +1710,7 @@
   },
   {
     "name": "Joketale No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -1718,7 +1718,7 @@
   },
   {
     "name": "Ultimate Realm Ben by Shiqi Phase 1 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1726,7 +1726,7 @@
   },
   {
     "name": "Ultimate Realm Ben by Shiqi Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1736,7 +1736,7 @@
   },
   {
     "name": "Ultimate Realm Ben by Shiqi Phase 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1744,7 +1744,7 @@
   },
   {
     "name": "Ultimate Realm Ben by Shiqi Phases 1 + 2 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1755,7 +1755,7 @@
   },
   {
     "name": "Justicetale re-written Sans by DLW Phase 1 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1763,7 +1763,7 @@
   },
   {
     "name": "Justicetale re-written Sans by DLW Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1773,7 +1773,7 @@
   },
   {
     "name": "Justicetale Papyrus by Shiqi Phase 1 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1781,7 +1781,7 @@
   },
   {
     "name": "Justicetale Papyrus by Shiqi Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1791,15 +1791,15 @@
   },
   {
     "name": "KDTM Revenge Papyrus (Act 2) No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
     "sub": []
   },
   {
-    "name": "Keeptale Sans Expert Mode No Heal",
-    "tier": "Advanced",
+    "name": "Keeptale Sans Grandexpert Mode No Heal",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Survival Fight",
@@ -1807,17 +1807,17 @@
   },
   {
     "name": "Keeptale Sans No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Survival Fight",
     "sub": [
-      "Keeptale Sans Expert Mode No Heal"
+      "Keeptale Sans Grandexpert Mode No Heal"
     ]
   },
   {
     "name": "Last 27 Hours x Edgetale Easy Mode No Act Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1825,7 +1825,7 @@
   },
   {
     "name": "Last 27 Hours x Edgetale Hell Mode No Act Heal",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1833,7 +1833,7 @@
   },
   {
     "name": "Legacy Dusttrust by FDY Phase 1 No Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1841,7 +1841,7 @@
   },
   {
     "name": "Legacy Dusttrust by zhazha Phase 1 No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "Legacy Dusttrust Phase 2 by FDY No Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1857,7 +1857,7 @@
   },
   {
     "name": "Legacy Dusttrust Phase 4 by FDY No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1865,7 +1865,7 @@
    },
   {
     "name": "Legacy Dusttrust Phase 5 by FDY No Heal",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Lethetale Phase 1 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1881,7 +1881,7 @@
   },
   {
     "name": "Lethetale Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1891,7 +1891,7 @@
   },
   {
     "name": "Lethetale Phase 2 No Item",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1899,7 +1899,7 @@
   },
   {
     "name": "Lethetale Phase 2 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -1909,7 +1909,7 @@
   },
   {
     "name": "Lethetale Phases 1 + 2 No Item",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -1920,7 +1920,7 @@
   },
   {
     "name": "Lifefield Papyrus No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -1928,7 +1928,7 @@
   },
   {
     "name": "Lifefield Papyrus No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -1938,7 +1938,7 @@
   },
   {
     "name": "Lifefield Sans by Kokakola No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1946,7 +1946,7 @@
   },
   {
     "name": "Mike's Big Showdown No Item/No Healing ACT",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1954,7 +1954,7 @@
   },
   {
     "name": "Mike's Big Showdown (Updated Version) No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1964,7 +1964,7 @@
   },
   {
     "name": "Mirrortale Phase 1 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1972,7 +1972,7 @@
   },
   {
     "name": "Mirrortale Phase 2 No Item",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -1980,7 +1980,7 @@
   },
   {
     "name": "Mistytale Papyrus No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1988,7 +1988,7 @@
   },
   {
     "name": "Mistytale Papyrus No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -1998,7 +1998,7 @@
   },
   {
     "name": "Modernswap Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -2006,7 +2006,7 @@
   },
   {
     "name": "Modernswap Phase 2 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -2014,7 +2014,7 @@
   },
   {
     "name": "Modernswap Phase 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -2024,7 +2024,7 @@
   },
   {
     "name": "Modernswap Phases 1 + 2 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -2034,7 +2034,7 @@
   },
   {
     "name": "Modernswap Phases 1 + 2 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -2046,7 +2046,7 @@
   },
   {
     "name": "Niheme Underfell Sans No Hit",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2054,7 +2054,7 @@
   },
   {
     "name": "No More Deals No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2062,7 +2062,7 @@
   },
   {
     "name": "No More Deals No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2072,7 +2072,7 @@
   },
   {
     "name": "NK!Sans Remake by NnN v0.45 First Half No Heal",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2080,7 +2080,7 @@
   },
   {
     "name": "NK!Sans Remake by NnN v0.45 Full Fight No Heal",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2090,7 +2090,7 @@
   },
   {
     "name": "Numbertale Phase 1 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2098,7 +2098,7 @@
   },
   {
     "name": "Numbertale Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2108,7 +2108,7 @@
   },
   {
     "name": "Numbertale Phase 2 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2116,7 +2116,7 @@
   },
   {
     "name": "Numbertale Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2126,7 +2126,7 @@
   },
   {
     "name": "Numbertale Phases 1 + 2 No Item",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2137,7 +2137,7 @@
   },
   {
     "name": "Numbertale Phases 1 + 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2149,7 +2149,7 @@
   },
   {
     "name": "Oath of No Demon (Easy Difficulty) No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2157,7 +2157,7 @@
   },
   {
     "name": "OS-T Dusttrust by FDY Phase 1 Noob Mode No Heal",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2165,7 +2165,7 @@
   },
   {
     "name": "OS-T ESPE Sans Phase 1 Noob Mode No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2173,7 +2173,7 @@
   },
   {
     "name": "OS-T ESPE Sans Phase 1 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2183,7 +2183,7 @@
   },
   {
     "name": "OS-T ESPE Sans Phase 2 Noob Mode No Heal",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2191,7 +2191,7 @@
   },
   {
     "name": "OS-T ESPE Sans Phases 1 + 2 Noob Mode No Heal",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2202,7 +2202,7 @@
   },
   {
     "name": "OS-T Sans Phase 1 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2210,7 +2210,7 @@
   },
   {
     "name": "OS-T Sans Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2220,7 +2220,7 @@
   },
   {
     "name": "OS-T Sudden Changes Sans Phase 1 Noob Mode No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2228,7 +2228,7 @@
   },
   {
     "name": "OS-T Sudden Changes Sans Phase 1 Normal Mode No Heal",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2238,7 +2238,7 @@
   },
   {
     "name": "OS-T Sudden Changes Sans Phase 1 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2248,7 +2248,7 @@
   },
   {
     "name": "OvertimeDell Fight by GermanPeter No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2256,7 +2256,7 @@
   },
   {
     "name": "OvertimeDell Fight by zhazha Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2264,7 +2264,7 @@
   },
   {
     "name": "OvertimeDell Fight by zhazha Phase 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2272,7 +2272,7 @@
   },
   {
     "name": "OvertimeDell Fight by zhazha Phases 1 + 2 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2280,7 +2280,7 @@
   },
   {
     "name": "OvertimeDell Fight by zhazha Phases 1 + 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2292,7 +2292,7 @@
   },
   {
     "name": "PS!Outertale Alphys No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2300,7 +2300,7 @@
   },
   {
     "name": "PS!Outertale Asriel No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2308,7 +2308,7 @@
   },
   {
     "name": "PS!Outertale Chaotic Route No Hit Run",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Game Run",
@@ -2320,7 +2320,7 @@
   },
   {
     "name": "PS!Outertale Darker Neutral Undyne No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2328,7 +2328,7 @@
   },
   {
     "name": "PS!Outertale Mettaton NEO No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2336,7 +2336,7 @@
   },
   {
     "name": "PS!Outertale Mettaton Sigma No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2344,7 +2344,7 @@
   },
   {
     "name": "PS!Outertale Neutral No Hit Run",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Game Run",
@@ -2354,7 +2354,7 @@
   },
   {
     "name": "PS!Outertale True Pacifist No Hit Run",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Game Run",
@@ -2365,7 +2365,7 @@
   },
   {
     "name": "PS!Outertale Twinkly No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2373,7 +2373,7 @@
   },
   {
     "name": "PS!Outertale Undyne the Undying No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "Really Cool Bird No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2389,7 +2389,7 @@
   },
   {
     "name": "Revenge Papyrus by Shiqi No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2397,7 +2397,7 @@
   },
   {
     "name": "Revenge Papyrus by Shiqi No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2407,7 +2407,7 @@
   },
   {
     "name": "Revenge T.U.E. Revival Act 2 No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2415,7 +2415,7 @@
   },
   {
     "name": "Revenge T.U.E. Revival Act 3 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2423,7 +2423,7 @@
   },
   {
     "name": "Scampton the Great No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2431,7 +2431,7 @@
   },
   {
     "name": "Shadbroketale Sans by zhazha No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2439,7 +2439,7 @@
   },
   {
     "name": "Shanghaivania No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -2447,7 +2447,7 @@
   },
   {
     "name": "Shanghaivania No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -2457,7 +2457,7 @@
   },
   {
     "name": "SP!Dusttale the Final Posthumous by Kokakola No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2465,7 +2465,7 @@
   },
   {
     "name": "SP!Dusttale the Final Posthumous by Kokakola No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2473,7 +2473,7 @@
   },
   {
     "name": "Spacetime Migration Papyrus No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2481,7 +2481,7 @@
   },
   {
     "name": "Spacetime Migration Papyrus No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2491,7 +2491,7 @@
   },
   {
     "name": "Spacedrift Phase 1 No Item",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2499,7 +2499,7 @@
   },
   {
     "name": "Spacedrift Phase 1 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2509,7 +2509,7 @@
   },
   {
     "name": "Spacedrift Phase 2 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2517,7 +2517,7 @@
   },
   {
     "name": "Spacedrift Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2527,7 +2527,7 @@
   },
   {
     "name": "Spacedrift Phases 1 + 2 No Item",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2538,7 +2538,7 @@
   },
   {
     "name": "Spacedrift Phases 1 + 2 No Hit",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2550,7 +2550,7 @@
   },
   {
     "name": "Spamton Restitched No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2558,7 +2558,7 @@
   },
   {
     "name": "SPMY Sans Phase 1 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2566,7 +2566,7 @@
   },
   {
     "name": "SPMY Sans Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2576,7 +2576,7 @@
   },
   {
     "name": "SPMY Sans Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2586,7 +2586,7 @@
   },
   {
     "name": "SPMY Sans Phases 1 + 2 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2597,7 +2597,7 @@
   },
   {
     "name": "SPMY Sans Phases 1 + 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2609,7 +2609,7 @@
   },
   {
     "name": "SPMY Sans Phase 2 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2617,7 +2617,7 @@
   },
   {
     "name": "SPMY ORIT Sans and Chara No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2625,7 +2625,7 @@
   },
   {
     "name": "Spongeswap by DEL No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2633,7 +2633,7 @@
   },
   {
     "name": "Storyshift Chara Core Encounter No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2641,7 +2641,7 @@
   },
   {
     "name": "Storyswap Color Asriel No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2649,7 +2649,7 @@
   },
   {
     "name": "Storyshift Genocide Ending No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2657,7 +2657,7 @@
   },
   {
     "name": "Storyshift Papyrus by Benlabno No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2665,7 +2665,7 @@
   },
   {
     "name": "SwApFell: I Hate You Area 1 Bloodspear No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Game Run",
@@ -2676,7 +2676,7 @@
     },
     {
     "name": "SwApFell: I Hate You Area 1 Peacemaker No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Game Run",
@@ -2687,7 +2687,7 @@
   },
   {
     "name": "SwApFell: I Hate You Asgore No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2695,7 +2695,7 @@
   },
   {
     "name": "SwApFell: I Hate You Asgore No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2705,7 +2705,7 @@
   },
   {
     "name": "Swapfell Maelstrom No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2713,7 +2713,7 @@
   },
   {
     "name": "Swapfell Papyrus Hardmode Phase 1 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2721,7 +2721,7 @@
   },
   {
     "name": "Swapfell Papyrus Hardmode Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2729,7 +2729,7 @@
   },
   {
     "name": "Swapfell Papyrus Phase 1 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2737,7 +2737,7 @@
   },
   {
     "name": "Swapfell Papyrus Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2745,7 +2745,7 @@
   },
   {
     "name": "Swapfell Papyrus Phases 1 + 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2756,7 +2756,7 @@
   },
   {
     "name": "Swapfell Sans Survival by Big Fom No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2764,7 +2764,7 @@
   },
   {
     "name": "Tears in the Rain by Benlabno No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2772,7 +2772,7 @@
   },
   {
     "name": "The Heaven No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -2780,7 +2780,7 @@
   },
   {
     "name": "The Heaven No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Full Battle",
@@ -2790,7 +2790,7 @@
   },
   {
     "name": "TS!Underswap Asgore No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2798,7 +2798,7 @@
   },
   {
     "name": "TS!Underswap Evacuation Sans No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2806,7 +2806,7 @@
   },
   {
     "name": "TS!Underswap Evacuation Sans No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2816,7 +2816,7 @@
   },
   {
     "name": "TS!Underswap Genocide Crossbones No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2824,7 +2824,7 @@
   },
   {
     "name": "TS!Underswap Pacifist Crossbones No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2832,7 +2832,7 @@
   },
   {
     "name": "TS!Underswap Pacifist Muffet No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2840,7 +2840,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by FDY Phase 1 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2848,7 +2848,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by FDY Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2858,7 +2858,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by FDY Phase 2 No Heal",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2866,7 +2866,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by FDY Phase 2 (Orange Soul) No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2876,7 +2876,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by FDY Phases 1+2 (Orange Soul) No Hit",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2887,7 +2887,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by Team Unizone Phase 1 No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2895,7 +2895,7 @@
   },
   {
     "name": "TS!Underswap Papyrus by Team Unizone Phases 1 + 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2905,7 +2905,7 @@
   },
   {
     "name": "ULB Scrapped Phase 2 by RTF No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "ULB Scrapped Phase 2 by RTF No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -2923,7 +2923,7 @@
   },
   {
     "name": "Ultimatale Sans Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -2931,7 +2931,7 @@
   },
   {
     "name": "Undera Sans No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2939,7 +2939,7 @@
   },
   {
     "name": "Undera Sans No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2949,7 +2949,7 @@
   },
   {
     "name": "Underbrella Sans Phase 1 (Everytale Version) No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2957,7 +2957,7 @@
   },
   {
     "name": "Underbrella Sans Phase 1 (Everytale Version) No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -2965,7 +2965,7 @@
   },
   {
     "name": "Underfell Asgore Insane Mode No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2973,7 +2973,7 @@
   },
   {
     "name": "Underfell Asgore Insane Mode No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2983,7 +2983,7 @@
   },
   {
     "name": "Underfell One Hell of a Show Mettaton No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -2993,7 +2993,7 @@
   },
   {
     "name": "Underfell One Hell of a Show Mettaton LV1 No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3001,7 +3001,7 @@
   },
   {
     "name": "Underfell One Hell of a Show Alphys LV1 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3009,7 +3009,7 @@
   },
   {
     "name": "Underfell One Hell of a Show Alphys No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3019,7 +3019,7 @@
   },
   {
     "name": "Underfell Plan Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -3029,7 +3029,7 @@
   },
   {
     "name": "Underfell Plan Phase 1 Normal Damage No Item",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -3037,7 +3037,7 @@
   },
   {
     "name": "Underfell Plan Phase 2 No Hit",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Hit",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -3047,7 +3047,7 @@
   },
   {
     "name": "Underfell Plan Phase 2 Normal Damage No Item",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "ZYDCN",
     "rtype": "Battle Phase",
@@ -3055,7 +3055,7 @@
   },
   {
     "name": "Underfell Stories from the Sea Phase 1 No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3063,7 +3063,7 @@
   },
   {
     "name": "Underfell Stories from the Sea Phase 1 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3073,7 +3073,7 @@
   },
   {
     "name": "Underfell Stories from the Sea Phase 2 No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -3081,7 +3081,7 @@
   },
   {
     "name": "Underfell Stories from the Sea Phases 1 + 2 No Heal",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3091,7 +3091,7 @@
   },
   {
     "name": "Underfell Stories from the Sea Phases 1 + 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3103,7 +3103,7 @@
   },
   {
     "name": "Underfell Undyne Insane Mode No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3111,7 +3111,7 @@
   },
   {
     "name": "Underswap Endless Hatred No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3119,7 +3119,7 @@
   },
   {
     "name": "Underswap Endless Hatred No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3129,7 +3129,7 @@
   },
   {
     "name": "Underswap Papyrus by Gamejolter No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3137,7 +3137,7 @@
   },
   {
     "name": "Underswap Papyrus by NnN (remake version) No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3145,7 +3145,7 @@
   },
   {
     "name": "Underswap Spine Snatcher No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -3153,7 +3153,7 @@
   },
   {
     "name": "Undertale All Together No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3161,7 +3161,7 @@
   },
   {
     "name": "Undertale Asgore No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3169,7 +3169,7 @@
   },
   {
     "name": "Undertale Asriel All Phases No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3179,7 +3179,7 @@
   },
   {
     "name": "Undertale Asriel Phase 1 No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Battle Phase",
@@ -3187,7 +3187,7 @@
   },
   {
     "name": "Undertale False Reset Phase 1 No Heal/Upgrades",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3195,7 +3195,7 @@
   },
   {
     "name": "Undertale False Reset Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3205,7 +3205,7 @@
   },
   {
     "name": "Undertale Flowey All Phases No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Survival Fight",
@@ -3215,7 +3215,7 @@
   },
   {
     "name": "Undertale Flowey Final Phase No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Survival Fight",
@@ -3223,7 +3223,7 @@
   },
   {
     "name": "Undertale Genocide No Heal Run",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Undertale",
     "rtype": "Full Game Run",
@@ -3233,7 +3233,7 @@
   },
   {
     "name": "Undertale Genocide No Hit Run",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Game Run",
@@ -3245,7 +3245,7 @@
   },
   {
     "name": "Undertale Help From the Void Phase 1 No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3253,7 +3253,7 @@
   },
   {
     "name": "Undertale Help From the Void Phase 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3261,7 +3261,7 @@
   },
   {
     "name": "Undertale Help From the Void Phase 3 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3269,7 +3269,7 @@
   },
   {
     "name": "Undertale Help From the Void Phase 4 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3277,7 +3277,7 @@
   },
   {
     "name": "Undertale Help From the Void Phase 5 No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3285,7 +3285,7 @@
   },
   {
     "name": "Undertale Help From the Void All Phases No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3299,7 +3299,7 @@
   },
   {
     "name": "Undertale Last Breath Scrapped Phase 1 No Heal",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3307,7 +3307,7 @@
   },
   {
     "name": "Undertale Last Breath Scrapped Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3317,7 +3317,7 @@
   },
   {
     "name": "Undertale Last Breath Scrapped Phase 2 No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -3325,7 +3325,7 @@
   },
   {
     "name": "Undertale Last Breath Scrapped Phase 2 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -3335,7 +3335,7 @@
   },
   {
     "name": "Undertale Mad Dummy No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3343,7 +3343,7 @@
   },
   {
     "name": "Undertale Mettaton EX No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3351,7 +3351,7 @@
   },
   {
     "name": "Undertale Muffet No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3359,7 +3359,7 @@
   },
   {
     "name": "Undertale Neutral New Game+ No Hit Run",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Game Run",
@@ -3369,7 +3369,7 @@
   },
   {
     "name": "Undertale Neutral No Heal Run",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Heal",
     "game": "Undertale",
     "rtype": "Full Game Run",
@@ -3377,7 +3377,7 @@
   },
   {
     "name": "Undertale Neutral No Hit Run",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Game Run",
@@ -3389,7 +3389,7 @@
   },
   {
     "name": "Undertale Papyrus No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3397,7 +3397,7 @@
   },
   {
     "name": "Undertale Red Genocide No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3405,7 +3405,7 @@
   },
   {
     "name": "Undertale Red Pacifist No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3413,7 +3413,7 @@
   },
   {
     "name": "Undertale Sans No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3421,7 +3421,7 @@
   },
   {
     "name": "Undertale Sans No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3431,7 +3431,7 @@
   },
   {
     "name": "Undertale the Last 27 Hours Normal Damage No Heal",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3439,7 +3439,7 @@
   },
   {
     "name": "Undertale the Last 27 Hours No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3449,7 +3449,7 @@
   },
   {
     "name": "Undertale Toriel No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3457,7 +3457,7 @@
   },
   {
     "name": "Undertale Neutral Undyne No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3465,7 +3465,7 @@
   },
   {
     "name": "Undertale Undyne The Undying No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Undertale",
     "rtype": "Full Battle",
@@ -3473,7 +3473,7 @@
   },
   {
     "name": "Undertale Wildfire Pacifist No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3481,7 +3481,7 @@
   },
   {
     "name": "Undertoad Mission Luigi No Hit Run",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Full Game Run",
@@ -3489,7 +3489,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus All Phases No Item",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Full Battle",
@@ -3501,7 +3501,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus Phase 1 No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3509,7 +3509,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus Phase 1 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3519,7 +3519,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus Phase 2 No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3527,7 +3527,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus Phase 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3537,7 +3537,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus Phase 3 No Heal",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3545,7 +3545,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus Phase 3 No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3555,7 +3555,7 @@
   },
   {
     "name": "Unofficial Disbelief Papyrus Phase 4 No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
@@ -3563,7 +3563,7 @@
   },
   {
     "name": "UTY Feisty Four No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3571,7 +3571,7 @@
   },
   {
     "name": "UTY Genocide Snowdin Martlet No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3579,7 +3579,7 @@
   },
   {
     "name": "UTY Neutral Axis No Hit",
-    "tier": "Intermediate",
+    "tier": "Grandintermediate",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3587,7 +3587,7 @@
   },
   {
     "name": "UTY Neutral El Bailador No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3595,7 +3595,7 @@
   },
   {
     "name": "UTY Starlo No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3603,7 +3603,7 @@
   },
   {
     "name": "UTY Neutral Martlet No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3611,7 +3611,7 @@
   },
   {
     "name": "UTY Dalv No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3619,7 +3619,7 @@
   },
   {
     "name": "UTY Guardener No Hit",
-    "tier": "Beginner",
+    "tier": "Grandbeginner",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3627,7 +3627,7 @@
   },
   {
     "name": "UTY Genocide Axis No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3635,7 +3635,7 @@
   },
   {
     "name": "UTY Genocide Ceroba No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3643,7 +3643,7 @@
   },
   {
     "name": "UTY Flowey Phase 1 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Battle Phase",
@@ -3651,7 +3651,7 @@
   },
   {
     "name": "UTY Zenith Martlet Phase 2 No Hit",
-    "tier": "Expert",
+    "tier": "Grandexpert",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Battle Phase",
@@ -3659,7 +3659,7 @@
   },
   {
     "name": "UTY Pacifist Ceroba All Phases No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3667,7 +3667,7 @@
   },
   {
     "name": "UTY Zenith Martlet Phase 1 No Hit",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Battle Phase",
@@ -3675,7 +3675,7 @@
   },
   {
     "name": "UTY Flowey Phase 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Survival Fight",
@@ -3683,7 +3683,7 @@
   },
   {
     "name": "UTY Zenith Martlet Phases 1 + 2 No Hit",
-    "tier": "Elite",
+    "tier": "Grandelite",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3694,7 +3694,7 @@
   },
   {
     "name": "UTY Flowey Phases 1 + 2 No Hit",
-    "tier": "Mythic",
+    "tier": "Grandmythic",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Battle",
@@ -3705,7 +3705,7 @@
   },
   {
     "name": "UTY Pacifist No Hit Run",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Game Run",
@@ -3722,7 +3722,7 @@
   },
   {
     "name": "UTY Genocide No Hit Run",
-    "tier": "Champion",
+    "tier": "Grandchampion",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Game Run",
@@ -3736,7 +3736,7 @@
   },
   {
     "name": "UTY Neutral No Hit Run",
-    "tier": "Grandmaster",
+    "tier": "Grandgrandmaster",
     "ctype": "No Hit",
     "game": "UTY",
     "rtype": "Full Game Run",
@@ -3747,7 +3747,7 @@
   },
   {
     "name": "Great Time Trio Remake Vehement No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -3755,7 +3755,7 @@
   },
   {
     "name": "What if Sans had a third phase? by Uralisimus No Hit",
-    "tier": "Advanced",
+    "tier": "Grandadvanced",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -3763,7 +3763,7 @@
   },
   {
     "name": "Worldchange Chara Phase 1 Rank 1 No Item",
-    "tier": "Master",
+    "tier": "Grandmaster",
     "ctype": "No Heal",
     "game": "Other",
     "rtype": "Battle Phase",

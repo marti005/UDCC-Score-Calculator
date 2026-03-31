@@ -9,15 +9,14 @@
 * {
   box-sizing: border-box;
   font-family: '8bitoperator Regular';
-  font-size: 12pt;
 }
 
 html {
   padding: 0;
   background-color: black;
-  background-image: url("./img/bg.png");
+  background-image: url("./img/background.gif");
   background-position: center bottom;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -94,6 +93,7 @@ body {
   font-weight: lighter;
   text-align: center;
   line-height: 100%;
+  font-size: 12pt;
 }
 
 #sidenav h2 {
@@ -183,6 +183,7 @@ body {
 #total h2 {
   margin: 1px;
   color: gold;
+  font-size: 12pt;
 }
 
 @media only screen and (max-width: 600px) {
@@ -234,7 +235,7 @@ body {
   padding: 10px 0px;
   margin: 10px 0px;
   font-weight: bold;
-  font-size: 15pt;
+  font-size: 10pt;
   text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
   border-radius: 2px;
   border: 3px white solid;

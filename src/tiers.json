@@ -1,37 +1,41 @@
 [{
-    "name": "Beginner",
+    "name": "Grandbeginner",
     "points": 10,
     "color": "6d9eeb"
 }, { 
-    "name": "Intermediate",
+    "name": "Grandintermediate",
     "points": 30,
     "color": "93c47d"
 }, { 
-    "name": "Advanced",
+    "name": "Grandadvanced",
     "points": 50,
     "color": "ffe599"
 }, {
-    "name": "Expert",
+    "name": "Grandexpert",
     "points": 100,
     "color": "ff9900"
 }, {
-    "name": "Master",
+    "name": "Grandmaster",
     "points": 300,
     "color": "cc0000"
 }, {
-    "name": "Elite",
+    "name": "Grandelite",
     "points": 500,
     "color": "9900ff"
 }, {
-    "name": "Mythic",
+    "name": "Grandmythic",
     "points": 750,
     "color": "00ffff"
 }, {
-    "name": "Champion",
+    "name": "Grandchampion",
     "points": 1000,
     "color": "fa70f1"
 }, {
-    "name": "Grandmaster",
+    "name": "Grandgrandmaster",
     "points": 2000,
     "color": "f1c232"
+}, {
+    "name": "Grandhacker",
+    "points": 9999,
+    "color": "000000"
 }]
