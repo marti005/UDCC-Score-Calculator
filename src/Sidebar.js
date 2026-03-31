@@ -161,6 +161,10 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
                     <li id="sidebarbuttons"> 
                         <button onClick={resetCheckboxes}>Clear filter</button>
                         <button onClick={clearSelection}>Clear selection</button>
+                        <div id="importexport">
+                            <button>Import selection</button>
+                            <button>Export selection</button>
+                        </div>
 
                         <div id="bottomtext">
                             <p>Made with <img src={soul}></img> for <a href="https://discord.gg/WVFcWXwT6A" target="_blank">UDCC</a></p>

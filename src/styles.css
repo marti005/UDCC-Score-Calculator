@@ -289,3 +289,10 @@ body {
 .buttoncontainer {
   width: 150px;
 }
+
+#importexportbuttons {
+  padding: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
