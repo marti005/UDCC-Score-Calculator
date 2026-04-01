@@ -20,7 +20,7 @@ function Pointometer() {
     //SCORE HANDLERS
     var iniScore = calcScore(selection);
     const [total, setTotal] = useState(iniScore[0]);
-    const [bucketListScore, setBucketListScore] = useState(iniScore[1])
+    const [bucketListScore, setBucketListScore] = useState(iniScore[1]);
 
     //CHALLENGE BUTTON HANDLERS
     const [filteredChallenges, setFilteredChallenges] = useState(sortedChallenges);
