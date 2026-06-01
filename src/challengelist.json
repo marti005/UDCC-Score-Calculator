@@ -499,8 +499,7 @@
     "game": "Deltarune",
     "rtype": "Full Game Run",
     "sub": [
-      "Deltarune Chapters 1 + 2 No Heal Run",
-      "Deltarune Chapter 1 No Hit Run",
+      "Deltarune Chapters 1 + 2 No Hit Run",      
       "Deltarune Chapter 3 No Hit Run",
       "Deltarune Chapter 4 No Hit Run"
     ]
@@ -1070,7 +1069,7 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "DTMC Act 2 Genocide 100% Difficulty No Item"
+      "DTMC Sans Act 2 Genocide 100% Difficulty No Item"
     ]
   },
   {
@@ -1088,7 +1087,7 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": [
-      "DTMC Sans Act 2 100% Difficulty No Item"
+      "DTMC Sans Act 2 Pacifist 100% Difficulty No Item"
     ]
   },
   {
@@ -1931,7 +1930,7 @@
     "game": "ZYDCN",
     "rtype": "Full Battle",
     "sub": [
-      "Lifefiled Papyrus No Heal"
+      "Lifefield Papyrus No Heal"
     ]
   },
   {
