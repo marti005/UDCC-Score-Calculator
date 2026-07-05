@@ -23,22 +23,26 @@ html {
 }
 
 body {
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  height: 100vh;
 }
 
 #sidenav {
-  z-index: 2;
-  height: 100%; 
-  width: 300px;
-  min-width: 250px; 
-  position: fixed; 
+  z-index: 1;
+  height: 100%;
+  width: 17%;
+  min-width: 300px;
   border-right: 1px solid #111;
   top: 0;
   margin: 0;
   background-color: black;
   color: white;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 #sidenav ul {
@@ -112,8 +116,8 @@ body {
 }
 
 #sidenav #searchbar {
-  width: 200px;
-  margin: 0px;
+  width: 190px;
+  margin: 0;
 }
 
 #sidenav #filter {
@@ -209,11 +213,11 @@ body {
 #challengepicker {
   margin: auto;
   padding: auto;
-  position: absolute;
   text-align: center;
   height: 100%;
-  width: 100%;
-  overflow: auto;
+  flex: 1;
+  min-width: 0;
+  overflow-y: auto;
   scrollbar-gutter: stable;
 }
 
