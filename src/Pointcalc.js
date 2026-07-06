@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useDownloadFile } from 'react-downloadfile-hook'
 
 import Sidebar from './Sidebar.js';
 import Table from './Table.js';
@@ -95,9 +96,15 @@ function Pointometer() {
         localStorage.setItem("selection", JSON.stringify([]))
     }
 
+    const { downloadFile } = useDownloadFile({
+        fileName: "selection.json",
+        format: "application/json",
+        data: JSON.stringify(selection)
+    })
+
     return (
         <>
-        <Sidebar updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies} bucketListSet={setBucketList}/>
+        <Sidebar exportSelection={downloadFile} updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies} bucketListSet={setBucketList}/>
 
         <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
 

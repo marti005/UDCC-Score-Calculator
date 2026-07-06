@@ -15,6 +15,7 @@
     "git": "^0.1.5",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-downloadfile-hook": "^1.0.3",
     "yaml": "^2.8.2"
   },
   "browserslist": {
