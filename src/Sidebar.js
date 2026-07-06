@@ -35,7 +35,7 @@ function Searchbar({searchText, updateSearchText}) {
     )
 }
 
-export default function Sidebar({updateChallenges, clearSelection, dependencySet, bucketListSet}) {
+export default function Sidebar({exportSelection, updateChallenges, clearSelection, dependencySet, bucketListSet}) {
     const [enabled, setEnabled] = useState(false);
 
     const [checked, setChecked] = useState([]);
@@ -161,9 +161,9 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
                     <li id="sidebarbuttons"> 
                         <button onClick={resetCheckboxes}>Clear filter</button>
                         <button onClick={clearSelection}>Clear selection</button>
-                        <div id="importexport">
-                            <button>Import selection</button>
-                            <button>Export selection</button>
+                        <div className="importexport">
+                            <button>Import</button>
+                            <button onClick={exportSelection}>Export</button>
                         </div>
 
                         <div id="bottomtext">

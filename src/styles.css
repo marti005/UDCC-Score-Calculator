@@ -149,7 +149,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 0px;
+  padding: 0;
 }
 
 #sidebarbuttons button {
@@ -157,6 +157,12 @@ body {
   height: 40px;
   margin-top: 5px;
   cursor: pointer;
+}
+
+.importexport {
+  display: flex;
+  width: 200px;
+  gap: 4px;
 }
 
 #sidenav .otherOption label {
