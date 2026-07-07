@@ -35,7 +35,7 @@ function Searchbar({searchText, updateSearchText}) {
     )
 }
 
-export default function Sidebar({exportSelection, updateChallenges, clearSelection, dependencySet, bucketListSet}) {
+export default function Sidebar({importSelection, exportSelection, updateChallenges, clearSelection, dependencySet, bucketListSet}) {
     const [enabled, setEnabled] = useState(false);
 
     const [checked, setChecked] = useState([]);
@@ -115,6 +115,18 @@ export default function Sidebar({exportSelection, updateChallenges, clearSelecti
         bucketListSet(nextChecked[id]);
     }
 
+    async function handleFileUpload(e) {
+        try {
+            if (e.target.files) {
+                const data = await e.target.files[0].text()
+                importSelection(data)
+            }
+        } catch (e) {
+            alert("Could not import selection. Make sure the selected file is valid and try again.")
+            console.error(e)
+        }
+    }
+
     if (enabled) {
         var filterCategories = [];
         var i = 0;
@@ -162,8 +174,9 @@ export default function Sidebar({exportSelection, updateChallenges, clearSelecti
                         <button onClick={resetCheckboxes}>Clear filter</button>
                         <button onClick={clearSelection}>Clear selection</button>
                         <div className="importexport">
-                            <button>Import</button>
-                            <button onClick={exportSelection}>Export</button>
+                            <input id="fileUpload" type="file" onChange={handleFileUpload} hidden/>
+                            <button className="importexportbutton" onClick={() => document.getElementById('fileUpload').click()}>Import</button>
+                            <button className="importexportbutton" onClick={exportSelection}>Export</button>
                         </div>
 
                         <div id="bottomtext">
