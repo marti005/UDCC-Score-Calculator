@@ -102,9 +102,20 @@ function Pointometer() {
         data: JSON.stringify(selection)
     })
 
+    function importSelection(data) {
+        const newSelection = JSON.parse(data)
+
+        setPressed(new Map(newSelection))
+        localStorage.setItem("selection", data)
+
+        const newScores = calcScore(newSelection)
+        setTotal(newScores[0])
+        setBucketListScore(newScores[1])
+    }
+
     return (
         <>
-        <Sidebar exportSelection={downloadFile} updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies} bucketListSet={setBucketList}/>
+        <Sidebar importSelection={importSelection} exportSelection={downloadFile} updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies} bucketListSet={setBucketList}/>
 
         <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
 
