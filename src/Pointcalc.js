@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { useDownloadFile } from 'react-downloadfile-hook'
+import {useState} from 'react';
+import {useDownloadFile} from 'react-downloadfile-hook'
 
 import Sidebar from './Sidebar.js';
 import Table from './Table.js';
@@ -17,6 +17,15 @@ const sortedChallenges = challengeList.sort((a, b) => a.name.localeCompare(b.nam
 
 function Pointometer() {
     var selection = JSON.parse(localStorage.getItem("selection"));
+
+    // REMOVE AFTER MOVING TO NEW URL
+    if (typeof selection[0][0] === "string") {
+        selection = selection.map(function (challenge) {
+            const newChallenge = sortedChallenges.find((targetChallenge) => targetChallenge.name === challenge[0])
+            return [newChallenge.id, challenge[1]]
+        })
+        localStorage.setItem("selection", JSON.stringify(selection))
+    }
 
     //SCORE HANDLERS
     var iniScore = calcScore(selection);
