@@ -19,7 +19,7 @@ function Pointometer() {
     var selection = JSON.parse(localStorage.getItem("selection"));
 
     // REMOVE AFTER MOVING TO NEW URL
-    if (typeof selection[0][0] === "string") {
+    if (typeof selection?.[0]?.[0] === "string") {
         selection = selection.map(function (challenge) {
             const newChallenge = sortedChallenges.find((targetChallenge) => targetChallenge.name === challenge[0])
             return [newChallenge.id, challenge[1]]
