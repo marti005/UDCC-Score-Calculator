@@ -36,6 +36,17 @@
     ]
   },
   {
+    "name": "Altertale by Shiqi Unbalanced Mode Phases 1+2 No Hit",
+    "tier": "Elite",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": [
+      "Altertale by Shiqi Unbalanced Mode Phase 1 Normal Damage No Heal",
+      "Altertale by Shiqi Unbalanced Mode Phase 2 Normal Damage No Heal"
+    ]
+  },
+  {
     "name": "Altertale by Shiqi Unbalanced Mode Phase 2 No Hit",
     "tier": "Master",
     "ctype": "No Hit",
@@ -86,14 +97,6 @@
     "sub": [
       "Angry Sans Phase 1 RNG SUX Normal Mode No Heal"
     ]
-  },
-  {
-    "name": "Angry Sans Phase 2 RNG SUX Normal Mode No Heal",
-    "tier": "Beginner",
-    "ctype": "No Heal",
-    "game": "Other",
-    "rtype": "Battle Phase",
-    "sub": []
   },
   {
     "name": "Angry Sans Phase 2 RNG SUX No Hit",
@@ -620,6 +623,39 @@
     ]
   },
   {
+    "name": "Deltarune Chapter 5 All Bosses No Hit Run",
+    "tier": "Champion",
+    "ctype": "No Hit",
+    "game": "Deltarune",
+    "rtype": "Full Game Run",
+    "sub": [
+      "Deltarune Chapter 5 Main Route No Hit Run",
+      "Deltarune Pink No Hit",
+      "Deltarune Flowery No Hit"
+    ]
+  },
+  {
+    "name": "Deltarune Chapter 5 All Recruits No Hit Run",
+    "tier": "Mythic",
+    "ctype": "No Hit",
+    "game": "Deltarune",
+    "rtype": "Full Game Run",
+    "sub": [
+      "Deltarune Chapter 5 Main Route No Hit Run",
+      "Deltarune Flowery No Hit"
+    ]
+  },
+  {
+    "name": "Deltarune Chapter 5 Main Route No Hit Run",
+    "tier": "Mythic",
+    "ctype": "No Hit",
+    "game": "Deltarune",
+    "rtype": "Full Game Run",
+    "sub": [
+      "Deltarune Flowery No Hit"
+    ]
+  },
+  {
     "name": "Deltarune Chaser No Hit",
     "tier": "Advanced",
     "ctype": "No Hit",
@@ -633,6 +669,14 @@
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Survival Fight",
+    "sub": []
+  },
+  {
+    "name": "Deltarune Flowery No Hit",
+    "tier": "Expert",
+    "ctype": "No Hit",
+    "game": "Deltarune",
+    "rtype": "Full Battle",
     "sub": []
   },
   {
@@ -662,6 +706,30 @@
   {
     "name": "Deltarune King No Hit",
     "tier": "Beginner",
+    "ctype": "No Hit",
+    "game": "Deltarune",
+    "rtype": "Full Battle",
+    "sub": []
+  },
+  {
+    "name": "Deltarune Kaizo Roaring Knight Main Route (Default Party) No Hit",
+    "tier": "Master",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": []
+  },
+  {
+    "name": "Deltarune Kaizo Roaring Knight Weird Route (Default Party) No Hit",
+    "tier": "Elite",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": []
+  },
+  {
+    "name": "Deltarune Pink No Hit",
+    "tier": "Intermediate",
     "ctype": "No Hit",
     "game": "Deltarune",
     "rtype": "Full Battle",
@@ -1448,8 +1516,8 @@
     "sub": []
   },
   {
-    "name": "Gemenatale No Hit",
-    "tier": "Advanced",
+    "name": "Gemenatale Sans Phase 1 v2 No Hit",
+    "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1767,6 +1835,14 @@
     "sub": [
       "Justicetale re-written Sans by DLW Phase 1 No Heal"
     ]
+  },
+  {
+    "name": "Justicetale re-written Sans by DLW Phase 2 No Hit",
+    "tier": "Elite",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
   },
   {
     "name": "Justicetale Papyrus by Shiqi Phase 1 No Heal",
@@ -2391,6 +2467,24 @@
     "game": "Other",
     "rtype": "Full Battle",
     "sub": []
+  },
+  {
+    "name": "Relieftale Sans by LQV Phase 1 No Heal",
+    "tier": "Advanced",
+    "ctype": "No Heal",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+  },
+  {
+    "name": "Relieftale Sans by LQV Phase 1 No Hit",
+    "tier": "Master",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": [
+      "Relieftale Sans by LQV Phase 1 No Heal"
+    ]
   },
   {
     "name": "Revenge Papyrus by Shiqi No Heal",
