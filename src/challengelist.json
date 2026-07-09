@@ -2469,7 +2469,7 @@
     "sub": []
   },
   {
-    "name": "Relieftale Sans by LQV Phase 1 No Heal",
+    "name": "Relieftale Sans by LQY Phase 1 No Heal",
     "tier": "Advanced",
     "ctype": "No Heal",
     "game": "Other",
@@ -2477,13 +2477,13 @@
     "sub": []
   },
   {
-    "name": "Relieftale Sans by LQV Phase 1 No Hit",
+    "name": "Relieftale Sans by LQY Phase 1 No Hit",
     "tier": "Master",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Battle Phase",
     "sub": [
-      "Relieftale Sans by LQV Phase 1 No Heal"
+      "Relieftale Sans by LQY Phase 1 No Heal"
     ]
   },
   {
