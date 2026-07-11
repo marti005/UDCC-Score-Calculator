@@ -228,7 +228,7 @@ body {
 }
 
 #tiertitles {
-  min-width: 1400px;
+  min-width: 1700px;
   display: flex;
   justify-content: space-evenly;
   margin-right: 10px;
@@ -240,7 +240,7 @@ body {
 }
 
 .challengeheader {
-  width: 150px;
+  width: 170px;
   padding: 10px 0px;
   margin: 10px 0px;
   font-weight: bold;
@@ -261,25 +261,25 @@ body {
   display: flex;
   justify-content: space-evenly;
   margin-right: 10px;
-  min-width: 1400px;
+  min-width: 1700px;
 }
 
 .column {
-  width: 150px;
+  width: 170px;
 }
 
 #challengepicker button {
-  width: 150px;
+  width: 170px;
   height: 70px;
   padding: 4px;
-  margin: 5px 0px;
-  border: 0;
+  margin: 5px 0;
   border-radius: 2px;
   cursor: pointer;
   opacity: 90%;
   font-size: 8pt;
   font-family: '8bitoperator Regular';
   line-height: 1.5;
+  border: 3px hidden;
 }
 
 .challengebutton {
@@ -297,7 +297,7 @@ body {
 }
 
 .buttoncontainer {
-  width: 150px;
+  width: 170px;
 }
 
 #importexportbuttons {
