@@ -186,7 +186,7 @@ export default function Sidebar({importSelection, exportSelection, updateChallen
                         </div>
 
                         <div id="bottomtext">
-                            <p>Made with <img src={soul}></img> for <a href="https://discord.gg/WVFcWXwT6A" target="_blank">UDCC</a></p>
+                            <p>Made with <img src={soul} alt="determination"></img> for <a href="https://discord.gg/WVFcWXwT6A" target="_blank" rel="noreferrer">UDCC</a></p>
                         </div>
                     </li>
                 </ul>
