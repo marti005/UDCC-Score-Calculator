@@ -13,6 +13,19 @@ export const States = {
     Bucket_List: 2
 }
 
+export function StatesToNumbers(text) {
+    switch (text) {
+        case "Completed":
+            return States.Completed
+        case "Bucket List":
+            return States.Bucket_List
+        case "Incomplete":
+            return States.Incomplete
+        default:
+            return text
+    }
+}
+
 const sortedChallenges = challengeList.sort((a, b) => a.name.localeCompare(b.name));
 
 function Pointometer() {

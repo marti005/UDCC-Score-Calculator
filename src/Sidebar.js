@@ -4,6 +4,7 @@ import challengeList from './challengelist.json';
 import filters from './filters.json';
 
 import soul from './img/red_soul.png';
+import {States, StatesToNumbers} from "./Pointcalc";
 
 function FilterCheckbox({id, checked, text, cat, updateFilter}) {
     return (
@@ -66,8 +67,8 @@ export default function Sidebar({importSelection, exportSelection, updateChallen
     function updateFilter(state, cat, option) {
         var newFilter = filter.slice();
 
-        if (state)  newFilter[cat].add(option);
-        else newFilter[cat].delete(option);
+        if (state) newFilter[cat].add(StatesToNumbers(option));
+        else newFilter[cat].delete(StatesToNumbers(option));
         
         filterChallenges(newFilter, searchText);
         setFilter(newFilter);
@@ -75,9 +76,14 @@ export default function Sidebar({importSelection, exportSelection, updateChallen
 
     function filterChallenges(newFilter, newText) {
         var challenges = challengeList;
+        const selection = new Map(JSON.parse(localStorage.getItem("selection")));
 
         newFilter.forEach((catFilter, index) => {
-            challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(Object.values(c)[2+index]));
+            if (index === 3) {
+                challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(selection.get(c.id) ?? States.Incomplete));
+            } else {
+                challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(Object.values(c)[2+index]));
+            }
         })
 
         challenges = challenges.filter((c) => c.name.toLowerCase().indexOf(newText.toLowerCase()) !== -1);
