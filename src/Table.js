@@ -13,7 +13,7 @@ function TableHeader({tier}) {
 }
 
 function TableElement({name, state, onChallengeClick}) {
-    var cname = "challengebutton";
+    var cname;
     
     switch(state) {
         case 1: 
@@ -22,6 +22,8 @@ function TableElement({name, state, onChallengeClick}) {
         case 2: 
             cname = "challengebuttonbucket";
             break;
+        default:
+            cname = "challengebutton";
     }
 
     return (
