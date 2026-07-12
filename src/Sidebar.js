@@ -4,6 +4,7 @@ import challengeList from './challengelist.json';
 import filters from './filters.json';
 
 import soul from './img/red_soul.png';
+import {States, StatesToNumbers} from "./Pointcalc";
 
 function FilterCheckbox({id, checked, text, cat, updateFilter}) {
     return (
@@ -35,7 +36,7 @@ function Searchbar({searchText, updateSearchText}) {
     )
 }
 
-export default function Sidebar({updateChallenges, clearSelection, dependencySet, bucketListSet}) {
+export default function Sidebar({importSelection, exportSelection, updateChallenges, clearSelection, dependencySet, bucketListSet}) {
     const [enabled, setEnabled] = useState(false);
 
     const [checked, setChecked] = useState([]);
@@ -66,8 +67,8 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
     function updateFilter(state, cat, option) {
         var newFilter = filter.slice();
 
-        if (state)  newFilter[cat].add(option);
-        else newFilter[cat].delete(option);
+        if (state) newFilter[cat].add(StatesToNumbers(option));
+        else newFilter[cat].delete(StatesToNumbers(option));
         
         filterChallenges(newFilter, searchText);
         setFilter(newFilter);
@@ -75,9 +76,14 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
 
     function filterChallenges(newFilter, newText) {
         var challenges = challengeList;
+        const selection = new Map(JSON.parse(localStorage.getItem("selection")));
 
         newFilter.forEach((catFilter, index) => {
-            challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(Object.values(c)[2+index]));
+            if (index === 3) {
+                challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(selection.get(c.id) ?? States.Incomplete));
+            } else {
+                challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(Object.values(c)[2+index]));
+            }
         })
 
         challenges = challenges.filter((c) => c.name.toLowerCase().indexOf(newText.toLowerCase()) !== -1);
@@ -113,6 +119,18 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
         setChecked(nextChecked);
 
         bucketListSet(nextChecked[id]);
+    }
+
+    async function handleFileUpload(e) {
+        try {
+            if (e.target.files) {
+                const data = await e.target.files[0].text()
+                importSelection(data)
+            }
+        } catch (e) {
+            alert("Could not import selection. Make sure the selected file is valid and try again.")
+            console.error(e)
+        }
     }
 
     if (enabled) {
@@ -161,6 +179,11 @@ export default function Sidebar({updateChallenges, clearSelection, dependencySet
                     <li id="sidebarbuttons"> 
                         <button onClick={resetCheckboxes}>Clear filter</button>
                         <button onClick={clearSelection}>Clear selection</button>
+                        <div className="importexport">
+                            <input id="fileUpload" type="file" onChange={handleFileUpload} hidden/>
+                            <button className="importexportbutton" onClick={() => document.getElementById('fileUpload').click()}>Import</button>
+                            <button className="importexportbutton" onClick={exportSelection}>Export</button>
+                        </div>
 
                         <div id="bottomtext">
                             <p>Made with <img src={soul}></img> for <a href="https://discord.gg/WVFcWXwT6A" target="_blank">UDCC</a></p>

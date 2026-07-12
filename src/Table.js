@@ -24,9 +24,6 @@ function TableElement({name, state, onChallengeClick}) {
             break;
     }
 
-    // Backwards compatibility
-    if (state == 1) cname = "challengebuttonpressed";
-
     return (
         <div className="buttoncontainer">
             <button style={{ whiteSpace: "pre-line" }} className={cname} onClick={onChallengeClick}>
@@ -40,9 +37,10 @@ function Column({onClick, challenges, pressed}) {
     return (
         <>
             {challenges.map((c) => {
-                let key = c.name;
+                let key = c.id;
+                let name = challenges.find((c) => c.id === key).name
                 if (!pressed.has(key)) pressed.set(key, 0);
-                return <TableElement key={key} name={key} state={pressed.get(key)} onChallengeClick={() => onClick(c)}/>
+                return <TableElement key={key} name={name} state={pressed.get(key)} onChallengeClick={() => onClick(c)}/>
             })}
         </>
     );
