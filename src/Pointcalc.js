@@ -35,8 +35,12 @@ function Pointometer() {
     if (typeof selection?.[0]?.[0] === "string") {
         selection = selection.map(function (challenge) {
             const newChallenge = sortedChallenges.find((targetChallenge) => targetChallenge.name === challenge[0])
+            
+            if (newChallenge === undefined) return null
             return [newChallenge.id, challenge[1]]
         })
+
+        selection = selection.filter(Boolean);
         localStorage.setItem("selection", JSON.stringify(selection))
     }
 
