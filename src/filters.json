@@ -21,4 +21,11 @@
         "Survival Fight", 
         "Full Game Run"
     ]
+}, {
+    "name": "Completion",
+    "options": [
+        "Completed",
+        "Bucket List",
+        "Incomplete"
+    ]
 }]
