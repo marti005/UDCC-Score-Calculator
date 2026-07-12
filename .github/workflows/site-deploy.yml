@@ -49,7 +49,7 @@ jobs:
           node-version: 20
 
       - run: |
-          npm ci
+          npm ci --legacy-peer-deps
 
       - name: Deploy with gh-pages
         run: |
