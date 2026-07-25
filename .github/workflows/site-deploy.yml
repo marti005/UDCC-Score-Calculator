@@ -12,20 +12,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  lint-json:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: |
-          node -e "const fs=require('fs'); JSON.parse(fs.readFileSync('src/challengelist.json','utf8')); console.log('src/challengelist.json OK')"
-      - run: |
-          node -e "const fs=require('fs'); JSON.parse(fs.readFileSync('src/tiers.json','utf8')); console.log('src/tiers.json OK')"
-
   build:
-    needs: lint-json
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

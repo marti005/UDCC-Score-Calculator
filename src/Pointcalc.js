@@ -1,11 +1,10 @@
-import {useState} from 'react';
+import {useEffect, useState} from 'react';
 import {useDownloadFile} from 'react-downloadfile-hook'
 
 import Sidebar from './Sidebar.js';
 import Table from './Table.js';
 
-import tiers from './tiers.json';
-import challengeList from './challengelist.json';
+import {getChallenges, getTiers} from "./getData";
 
 export const States = {
     Incomplete: 0,
@@ -26,7 +25,6 @@ export function StatesToNumbers(text) {
     }
 }
 
-const sortedChallenges = challengeList.sort((a, b) => a.name.localeCompare(b.name));
 
 function Pointometer() {
     var selection = JSON.parse(localStorage.getItem("selection"));
@@ -34,7 +32,7 @@ function Pointometer() {
     // REMOVE AFTER MOVING TO NEW URL
     if (typeof selection?.[0]?.[0] === "string") {
         selection = selection.map(function (challenge) {
-            const newChallenge = sortedChallenges.find((targetChallenge) => targetChallenge.name === challenge[0])
+            const newChallenge = challenges.find((targetChallenge) => targetChallenge.name === challenge[0])
             
             if (newChallenge === undefined) return null
             return [newChallenge.id, challenge[1]]
@@ -44,13 +42,32 @@ function Pointometer() {
         localStorage.setItem("selection", JSON.stringify(selection))
     }
 
+    const [challenges, setChallenges] = useState([])
+    const [tiers, setTiers] = useState([])
+
+    useEffect(() => {
+        Promise.all([getChallenges(), getTiers()])
+            .then(([challengesData, tiersData]) => {
+                setChallenges(challengesData);
+                setFilteredChallenges(challengesData);
+                setTiers(tiersData);
+
+                const [score, bucketScore] = calcScore(selection, challengesData, tiersData);
+                setTotal(score);
+                setBucketListScore(bucketScore);
+            })
+            .catch(() => {
+                console.error("Loading error");
+            });
+        // eslint-disable-next-line
+    }, []);
+
     //SCORE HANDLERS
-    var iniScore = calcScore(selection);
-    const [total, setTotal] = useState(iniScore[0]);
-    const [bucketListScore, setBucketListScore] = useState(iniScore[1])
+    const [total, setTotal] = useState(0);
+    const [bucketListScore, setBucketListScore] = useState(0)
 
     //CHALLENGE BUTTON HANDLERS
-    const [filteredChallenges, setFilteredChallenges] = useState(sortedChallenges);
+    const [filteredChallenges, setFilteredChallenges] = useState(challenges);
     const [pressed, setPressed] = useState(new Map(selection));
 
     //OPTIONS HANDLERS
@@ -69,14 +86,14 @@ function Pointometer() {
         setPressed(nextPressed);
 
         var selection = Array.from(nextPressed).filter(c => c[1] !== States.Incomplete)
-        var score = calcScore(selection);
+        var score = calcScore(selection, challenges, tiers);
         setTotal(score[0]);
         setBucketListScore(score[1]);
         localStorage.setItem("selection", JSON.stringify(selection))
     }
 
     function handleClickRecursive(nextPressed, state, key) {
-        var challenge = sortedChallenges.find(c => c.id === key);
+        var challenge = challenges.find(c => c.id === key);
         
         if (state == null) {
             switch (pressed.get(key)) {
@@ -108,7 +125,7 @@ function Pointometer() {
         
         if (dependencies && challenge.sub.length > 0) {
             challenge.sub.forEach((s) => {
-                var sub = sortedChallenges.find(s2 => s2.id === s);
+                var sub = challenges.find(s2 => s2.id === s);
                 handleClickRecursive(nextPressed, state, sub.id)
             })
         }
@@ -134,7 +151,7 @@ function Pointometer() {
         setPressed(new Map(newSelection))
         localStorage.setItem("selection", data)
 
-        const newScores = calcScore(newSelection)
+        const newScores = calcScore(newSelection, challenges, tiers)
         setTotal(newScores[0])
         setBucketListScore(newScores[1])
     }
@@ -143,7 +160,7 @@ function Pointometer() {
         <>
         <Sidebar importSelection={importSelection} exportSelection={downloadFile} updateChallenges={setFilteredChallenges} clearSelection={clearSelection} dependencySet={setDependencies} bucketListSet={setBucketList}/>
 
-        <Table onClick={handleClick} challenges={filteredChallenges} pressed={pressed}/>
+        <Table onClick={handleClick} tiers={tiers} challenges={filteredChallenges} pressed={pressed}/>
 
         <div id="total">
             <h1>{total} points</h1>
@@ -153,18 +170,18 @@ function Pointometer() {
     );
 }
 
-function calcScore(selection) {
-    var score = 0;
-    var bucketScore = 0;
+function calcScore(selection, challenges, tiers) {
+    let score = 0;
+    let bucketScore = 0;
 
     if (selection !== null) {
         selection.forEach((c) => {
-            var challenge = sortedChallenges.find(ch => ch.id === c[0]);
+            let challenge = challenges.find(ch => ch.id === c[0]);
 
             if (challenge !== undefined) {
-                var value = tiers.find(t => t.name === challenge.tier).points;
+                let value = tiers.find(t => t.name === challenge.tier)?.points ?? 0;
                 if (c[1] === States.Completed || c[1] === true) score += value;
-                else if (c[1] === States.Bucket_List) bucketScore += value; 
+                else if (c[1] === States.Bucket_List) bucketScore += value;
             }
         });
     }
