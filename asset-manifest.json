@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UDCC-Score-Calculator/static/css/main.ebe5be03.css",
-    "main.js": "/UDCC-Score-Calculator/static/js/main.8eb3a8d7.js",
-    "static/media/bg.png": "/UDCC-Score-Calculator/static/media/bg.998898ac28ea6c57c81e.png",
-    "static/media/8bitoperator.woff": "/UDCC-Score-Calculator/static/media/8bitoperator.d057233e4b8d3001e46c.woff",
-    "index.html": "/UDCC-Score-Calculator/index.html",
-    "main.ebe5be03.css.map": "/UDCC-Score-Calculator/static/css/main.ebe5be03.css.map",
-    "main.8eb3a8d7.js.map": "/UDCC-Score-Calculator/static/js/main.8eb3a8d7.js.map"
+    "main.css": "/Challenge-Sheet/static/css/main.98263539.css",
+    "main.js": "/Challenge-Sheet/static/js/main.8eb3a8d7.js",
+    "static/media/bg.png": "/Challenge-Sheet/static/media/bg.998898ac28ea6c57c81e.png",
+    "static/media/8bitoperator.woff": "/Challenge-Sheet/static/media/8bitoperator.d057233e4b8d3001e46c.woff",
+    "index.html": "/Challenge-Sheet/index.html",
+    "main.98263539.css.map": "/Challenge-Sheet/static/css/main.98263539.css.map",
+    "main.8eb3a8d7.js.map": "/Challenge-Sheet/static/js/main.8eb3a8d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebe5be03.css",
+    "static/css/main.98263539.css",
     "static/js/main.8eb3a8d7.js"
   ]
 }
