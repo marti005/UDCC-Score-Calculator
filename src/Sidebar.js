@@ -1,10 +1,10 @@
 import { useState } from 'react';
 
-import challengeList from './challengelist.json';
+import { challengeList }  from './Pointcalc.js'
 import filters from './filters.json';
 
 import soul from './img/red_soul.png';
-import {States, StatesToNumbers} from "./Pointcalc";
+import {States, StatesToNumbers} from "./Pointcalc.js";
 
 function FilterCheckbox({id, checked, text, cat, updateFilter}) {
     return (
@@ -65,7 +65,7 @@ export default function Sidebar({importSelection, exportSelection, updateChallen
     }
 
     function updateFilter(state, cat, option) {
-        var newFilter = filter.slice();
+        const newFilter = filter.slice();
 
         if (state) newFilter[cat].add(StatesToNumbers(option));
         else newFilter[cat].delete(StatesToNumbers(option));
@@ -75,14 +75,15 @@ export default function Sidebar({importSelection, exportSelection, updateChallen
     }
 
     function filterChallenges(newFilter, newText) {
-        var challenges = challengeList;
+        let challenges = challengeList;
         const selection = new Map(JSON.parse(localStorage.getItem("selection")));
 
+        console.log(challenges)
         newFilter.forEach((catFilter, index) => {
             if (index === 3) {
                 challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(selection.get(c.id) ?? States.Incomplete));
             } else {
-                challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(Object.values(c)[2+index]));
+                challenges = catFilter.size === 0 ? challenges : challenges.filter((c) => catFilter.has(c[slugify(filters[index].name)]));
             }
         })
 
@@ -197,4 +198,16 @@ export default function Sidebar({importSelection, exportSelection, updateChallen
             <button onClick={() => setEnabled(true)} id="openbutton">{'>'}</button>
         );
     }
+}
+
+function slugify(input) {
+    if (!input)
+        return '';
+
+    let slug = input.toLowerCase().trim();
+    slug = slug.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    slug = slug.replace(/[^a-z0-9\s-]/g, ' ').trim();
+    slug = slug.replace(/[\s-]+/g, '_');
+
+    return slug;
 }

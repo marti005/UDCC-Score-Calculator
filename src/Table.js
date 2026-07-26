@@ -1,5 +1,3 @@
-import tiers from './tiers.json';
-
 function TableHeader({tier}) {
     return (<div style={{ background: '#' + tier.color}} className="challengeheader">
                 <div>
@@ -48,7 +46,7 @@ function Column({onClick, challenges, pressed}) {
     );
 }
 
-export default function Table({onClick, challenges, pressed}) {
+export default function Table({onClick, challenges, tiers, pressed}) {
     const columns = [];
     const headers = []
     tiers.forEach((t) => {

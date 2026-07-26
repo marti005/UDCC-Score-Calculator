@@ -306,3 +306,9 @@ body {
   flex-direction: row;
   align-items: center;
 }
+
+.loadingtext {
+  color: white;
+  font-size: 30pt;
+  text-align: center;
+}
