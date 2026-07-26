@@ -31,19 +31,6 @@ export let tierList = []
 function Pointometer() {
     let selection = JSON.parse(localStorage.getItem("selection"));
 
-    // REMOVE AFTER MOVING TO NEW URL
-    if (typeof selection?.[0]?.[0] === "string") {
-        selection = selection.map(function (challenge) {
-            const newChallenge = challengeList.find((targetChallenge) => targetChallenge.name === challenge[0])
-            
-            if (newChallenge === undefined) return null
-            return [newChallenge.id, challenge[1]]
-        })
-
-        selection = selection.filter(Boolean);
-        localStorage.setItem("selection", JSON.stringify(selection))
-    }
-
     useEffect(() => {
         Promise.all([getChallenges(), getTiers()])
             .then(([challengesData, tiersData]) => {
